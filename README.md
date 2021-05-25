@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/25/2021, 10:35:39 PM (France time)
+### last update : 5/25/2021, 11:35:38 PM (France time)
 
-### name : Bangladesh
-### Population : 161'006'790
-### Capital : Dhaka
-### Region : Asia
-### Languages : Bengali
-### Area : 147'570 km²
-### Neighboring countries : Myanmar, India
-### Timezones : UTC+06:00
+### name : Marshall Islands
+### Population : 54'880
+### Capital : Majuro
+### Region : Oceania
+### Languages : English, Marshallese
+### Area : 181 km²
+### Neighboring countries : 
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/bgd.svg)
+![](https://restcountries.eu/data/mhl.svg)
