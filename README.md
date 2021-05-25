@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/25/2021, 9:28:10 PM (France time)
+### last update : 5/25/2021, 9:28:21 PM (France time)
 
-### name : Chile
-### Population : 18'191'900
-### Capital : Santiago
-### Region : Americas
-### Languages : Spanish
-### Area : 756'102 km²
-### Neighboring countries : Argentina, Bolivia (Plurinational State of), Peru
-### Timezones : UTC-06:00, UTC-04:00
+### name : Saudi Arabia
+### Population : 32'248'200
+### Capital : Riyadh
+### Region : Asia
+### Languages : Arabic
+### Area : 2'149'690 km²
+### Neighboring countries : Iraq, Jordan, Kuwait, Oman, Qatar, United Arab Emirates, Yemen
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/chl.svg)
+![](https://restcountries.eu/data/sau.svg)
