@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/25/2021, 9:29:28 PM (France time)
+### last update : 5/25/2021, 9:35:38 PM (France time)
 
-### name : Croatia
-### Population : 4'190'669
-### Capital : Zagreb
+### name : Estonia
+### Population : 1'315'944
+### Capital : Tallinn
 ### Region : Europe
-### Languages : Croatian
-### Area : 56'594 km²
-### Neighboring countries : Bosnia and Herzegovina, Hungary, Montenegro, Serbia, Slovenia
-### Timezones : UTC+01:00
+### Languages : Estonian
+### Area : 45'227 km²
+### Neighboring countries : Latvia, Russian Federation
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/hrv.svg)
+![](https://restcountries.eu/data/est.svg)
