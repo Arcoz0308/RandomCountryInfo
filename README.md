@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/25/2021, 9:35:38 PM (France time)
+### last update : 5/25/2021, 10:35:39 PM (France time)
 
-### name : Estonia
-### Population : 1'315'944
-### Capital : Tallinn
-### Region : Europe
-### Languages : Estonian
-### Area : 45'227 km²
-### Neighboring countries : Latvia, Russian Federation
-### Timezones : UTC+02:00
+### name : Bangladesh
+### Population : 161'006'790
+### Capital : Dhaka
+### Region : Asia
+### Languages : Bengali
+### Area : 147'570 km²
+### Neighboring countries : Myanmar, India
+### Timezones : UTC+06:00
 
 ### Flag :
-![](https://restcountries.eu/data/est.svg)
+![](https://restcountries.eu/data/bgd.svg)
