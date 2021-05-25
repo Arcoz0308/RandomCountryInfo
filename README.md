@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/25/2021, 9:17:59 PM (France time)
+### last update : 5/25/2021, 9:21:53 PM (France time)
 
-### name : Tonga
-### Population : 103'252
-### Capital : Nuku'alofa
-### Region : Oceania
-### Languages : English, Tonga (Tonga Islands)
-### Area : 747 km²
+### name : French Southern Territories
+### Population : 140
+### Capital : Port-aux-Français
+### Region : Africa
+### Languages : French
+### Area : 7'747 km²
 ### Neighboring countries : 
-### Timezones : UTC+13:00
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/ton.svg)
+![](https://restcountries.eu/data/atf.svg)
