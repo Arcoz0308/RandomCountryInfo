@@ -1,0 +1,16 @@
+{
+  "name": "randomcountryinfo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "genJson": "node GenContryJson.js"
+  },
+  "author": "Arcoz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
