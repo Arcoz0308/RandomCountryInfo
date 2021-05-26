@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/26/2021, 1:35:38 AM (France time)
+### last update : 5/26/2021, 2:35:38 AM (France time)
 
-### name : Guinea
-### Population : 12'947'000
-### Capital : Conakry
-### Region : Africa
-### Languages : French, Fula
-### Area : 245'857 km²
-### Neighboring countries : Côte d'Ivoire, Guinea-Bissau, Liberia, Mali, Senegal, Sierra Leone
-### Timezones : UTC
+### name : Turkmenistan
+### Population : 4'751'120
+### Capital : Ashgabat
+### Region : Asia
+### Languages : Turkmen, Russian
+### Area : 488'100 km²
+### Neighboring countries : Afghanistan, Iran (Islamic Republic of), Kazakhstan, Uzbekistan
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/gin.svg)
+![](https://restcountries.eu/data/tkm.svg)
