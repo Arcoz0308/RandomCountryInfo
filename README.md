@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/26/2021, 4:35:38 AM (France time)
+### last update : 5/26/2021, 5:35:39 AM (France time)
 
-### name : Norway
-### Population : 5'223'256
-### Capital : Oslo
-### Region : Europe
-### Languages : Norwegian, Norwegian Bokmål, Norwegian Nynorsk
-### Area : 323'802 km²
-### Neighboring countries : Finland, Sweden, Russian Federation
-### Timezones : UTC+01:00
+### name : Mexico
+### Population : 122'273'473
+### Capital : Mexico City
+### Region : Americas
+### Languages : Spanish
+### Area : 1'964'375 km²
+### Neighboring countries : Belize, Guatemala, United States of America
+### Timezones : UTC-08:00, UTC-07:00, UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/nor.svg)
+![](https://restcountries.eu/data/mex.svg)
