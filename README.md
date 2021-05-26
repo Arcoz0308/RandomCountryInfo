@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/26/2021, 10:35:39 AM (France time)
+### last update : 5/26/2021, 11:35:39 AM (France time)
 
-### name : Greenland
-### Population : 55'847
-### Capital : Nuuk
+### name : Jamaica
+### Population : 2'723'246
+### Capital : Kingston
 ### Region : Americas
-### Languages : Kalaallisut
-### Area : 2'166'086 km²
+### Languages : English
+### Area : 10'991 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00, UTC-03:00, UTC-01:00, UTC+00:00
+### Timezones : UTC-05:00
 
 ### Flag :
-![](https://restcountries.eu/data/grl.svg)
+![](https://restcountries.eu/data/jam.svg)
