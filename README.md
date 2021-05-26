@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/25/2021, 11:35:38 PM (France time)
+### last update : 5/26/2021, 12:35:38 AM (France time)
 
-### name : Marshall Islands
-### Population : 54'880
-### Capital : Majuro
-### Region : Oceania
-### Languages : English, Marshallese
-### Area : 181 km²
-### Neighboring countries : 
-### Timezones : UTC+12:00
+### name : Belgium
+### Population : 11'319'511
+### Capital : Brussels
+### Region : Europe
+### Languages : Dutch, French, German
+### Area : 30'528 km²
+### Neighboring countries : France, Germany, Luxembourg, Netherlands
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/mhl.svg)
+![](https://restcountries.eu/data/bel.svg)
