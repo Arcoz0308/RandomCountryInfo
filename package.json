@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "genJson": "node GenContryJson.js"
+    "genJson": "node GenContryJson.js",
+    "worker": "node index.js"
   },
   "author": "Arcoz",
   "license": "ISC",

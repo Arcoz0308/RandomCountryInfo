@@ -10,7 +10,9 @@ async function generateReadme() {
     const r = await axios.get('https://restcountries.eu/rest/v2/alpha/' + code);
     const info = r.data;
     let readme = replaces(template, {
-        LAST_UPDATE: new Date().toLocaleString('fr-FR'),
+        LAST_UPDATE: new Date(Date.now()).toLocaleString('fr-FR', {
+            hour12: false,
+        }),
         NAME: info.name,
         POPULATION: numberWithCommas(info.population),
         CAPITAL: info.capital,
@@ -23,7 +25,9 @@ async function generateReadme() {
     });
     fs.writeFileSync('./README.md', readme);
     await commit(readme);
-    console.log(`[${new Date().toLocaleTimeString('fr-FR')}] updating README :
+    console.log(`[${new Date(Date.now()).toLocaleTimeString('fr-FR', {
+        hour12: false,
+    })}] updating README :
 name : ${info.name}
 population : ${numberWithCommas(info.population)}
 capital : ${info.capital}
@@ -89,6 +93,8 @@ async function commit(readme) {
     });
 }
 generateReadme();
-setInterval(generateReadme, 1000 * 60 * 60);
+setInterval(() => {
+    generateReadme();
+}, 1000 * 60 * 60 * 3);
 
 
