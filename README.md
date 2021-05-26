@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/26/2021, 7:09:14 PM (France time)
+### last update : 26/05/2021, 19:13:44 (France time)
 
-### name : Syrian Arab Republic
-### Population : 18'564'000
-### Capital : Damascus
-### Region : Asia
-### Languages : Arabic
-### Area : 185'180 km²
-### Neighboring countries : Iraq, Israel, Jordan, Lebanon, Turkey
-### Timezones : UTC+02:00
+### name : Uruguay
+### Population : 3'480'222
+### Capital : Montevideo
+### Region : Americas
+### Languages : Spanish
+### Area : 181'034 km²
+### Neighboring countries : Argentina, Brazil
+### Timezones : UTC-03:00
 
 ### Flag :
-![](https://restcountries.eu/data/syr.svg)
+![](https://restcountries.eu/data/ury.svg)
