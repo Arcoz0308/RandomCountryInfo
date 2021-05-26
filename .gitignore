@@ -1,3 +1,5 @@
 node_modules/
 config.json
 .idea/
+heroku.yml
+Procfile
