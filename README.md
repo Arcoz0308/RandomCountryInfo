@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/26/2021, 3:35:38 AM (France time)
+### last update : 5/26/2021, 4:35:38 AM (France time)
 
-### name : Grenada
-### Population : 103'328
-### Capital : St. George's
-### Region : Americas
-### Languages : English
-### Area : 344 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Norway
+### Population : 5'223'256
+### Capital : Oslo
+### Region : Europe
+### Languages : Norwegian, Norwegian Bokmål, Norwegian Nynorsk
+### Area : 323'802 km²
+### Neighboring countries : Finland, Sweden, Russian Federation
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/grd.svg)
+![](https://restcountries.eu/data/nor.svg)
