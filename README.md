@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/26/2021, 5:35:40 PM (France time)
+### last update : 5/26/2021, 6:35:40 PM (France time)
 
-### name : Cocos (Keeling) Islands
-### Population : 550
-### Capital : West Island
-### Region : Oceania
-### Languages : English
-### Area : 14 km²
-### Neighboring countries : 
-### Timezones : UTC+06:30
+### name : Botswana
+### Population : 2'141'206
+### Capital : Gaborone
+### Region : Africa
+### Languages : English, Tswana
+### Area : 582'000 km²
+### Neighboring countries : Namibia, South Africa, Zambia, Zimbabwe
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/cck.svg)
+![](https://restcountries.eu/data/bwa.svg)
