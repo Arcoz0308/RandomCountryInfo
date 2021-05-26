@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/26/2021, 9:35:39 AM (France time)
+### last update : 5/26/2021, 10:35:39 AM (France time)
 
-### name : Antarctica
-### Population : 1'000
-### Capital : 
-### Region : Polar
-### Languages : English, Russian
-### Area : 14'000'000 km²
+### name : Greenland
+### Population : 55'847
+### Capital : Nuuk
+### Region : Americas
+### Languages : Kalaallisut
+### Area : 2'166'086 km²
 ### Neighboring countries : 
-### Timezones : UTC-03:00, UTC+03:00, UTC+05:00, UTC+06:00, UTC+07:00, UTC+08:00, UTC+10:00, UTC+12:00
+### Timezones : UTC-04:00, UTC-03:00, UTC-01:00, UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/ata.svg)
+![](https://restcountries.eu/data/grl.svg)
