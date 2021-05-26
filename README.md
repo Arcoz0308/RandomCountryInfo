@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/26/2021, 6:35:40 PM (France time)
+### last update : 5/26/2021, 7:09:14 PM (France time)
 
-### name : Botswana
-### Population : 2'141'206
-### Capital : Gaborone
-### Region : Africa
-### Languages : English, Tswana
-### Area : 582'000 km²
-### Neighboring countries : Namibia, South Africa, Zambia, Zimbabwe
+### name : Syrian Arab Republic
+### Population : 18'564'000
+### Capital : Damascus
+### Region : Asia
+### Languages : Arabic
+### Area : 185'180 km²
+### Neighboring countries : Iraq, Israel, Jordan, Lebanon, Turkey
 ### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/bwa.svg)
+![](https://restcountries.eu/data/syr.svg)
