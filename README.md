@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 5/26/2021, 11:35:39 AM (France time)
+### last update : 5/26/2021, 12:35:40 PM (France time)
 
-### name : Jamaica
-### Population : 2'723'246
-### Capital : Kingston
-### Region : Americas
-### Languages : English
-### Area : 10'991 km²
-### Neighboring countries : 
-### Timezones : UTC-05:00
+### name : Togo
+### Population : 7'143'000
+### Capital : Lomé
+### Region : Africa
+### Languages : French
+### Area : 56'785 km²
+### Neighboring countries : Benin, Burkina Faso, Ghana
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/jam.svg)
+![](https://restcountries.eu/data/tgo.svg)
