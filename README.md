@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 27/05/2021, 16:14:18 (France time)
+### last update : 27/05/2021, 19:14:18 (France time)
 
-### name : Bangladesh
-### Population : 161'006'790
-### Capital : Dhaka
+### name : Iraq
+### Population : 37'883'543
+### Capital : Baghdad
 ### Region : Asia
-### Languages : Bengali
-### Area : 147'570 km²
-### Neighboring countries : Myanmar, India
-### Timezones : UTC+06:00
+### Languages : Arabic, Kurdish
+### Area : 438'317 km²
+### Neighboring countries : Iran (Islamic Republic of), Jordan, Kuwait, Saudi Arabia, Syrian Arab Republic, Turkey
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/bgd.svg)
+![](https://restcountries.eu/data/irq.svg)
