@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 27/05/2021, 10:14:18 (France time)
+### last update : 27/05/2021, 13:14:18 (France time)
 
-### name : Guinea-Bissau
-### Population : 1'547'777
-### Capital : Bissau
-### Region : Africa
-### Languages : Portuguese
-### Area : 36'125 km²
-### Neighboring countries : Guinea, Senegal
-### Timezones : UTC
+### name : Italy
+### Population : 60'665'551
+### Capital : Rome
+### Region : Europe
+### Languages : Italian
+### Area : 301'336 km²
+### Neighboring countries : Austria, France, San Marino, Slovenia, Switzerland, Holy See
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/gnb.svg)
+![](https://restcountries.eu/data/ita.svg)
