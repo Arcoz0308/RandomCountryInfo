@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 27/05/2021, 04:14:17 (France time)
+### last update : 27/05/2021, 07:14:18 (France time)
 
-### name : Anguilla
-### Population : 13'452
-### Capital : The Valley
-### Region : Americas
-### Languages : English
-### Area : 91 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Côte d'Ivoire
+### Population : 22'671'331
+### Capital : Yamoussoukro
+### Region : Africa
+### Languages : French
+### Area : 322'463 km²
+### Neighboring countries : Burkina Faso, Ghana, Guinea, Liberia, Mali
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/aia.svg)
+![](https://restcountries.eu/data/civ.svg)
