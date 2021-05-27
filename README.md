@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 27/05/2021, 13:14:18 (France time)
+### last update : 27/05/2021, 16:14:18 (France time)
 
-### name : Italy
-### Population : 60'665'551
-### Capital : Rome
-### Region : Europe
-### Languages : Italian
-### Area : 301'336 km²
-### Neighboring countries : Austria, France, San Marino, Slovenia, Switzerland, Holy See
-### Timezones : UTC+01:00
+### name : Bangladesh
+### Population : 161'006'790
+### Capital : Dhaka
+### Region : Asia
+### Languages : Bengali
+### Area : 147'570 km²
+### Neighboring countries : Myanmar, India
+### Timezones : UTC+06:00
 
 ### Flag :
-![](https://restcountries.eu/data/ita.svg)
+![](https://restcountries.eu/data/bgd.svg)
