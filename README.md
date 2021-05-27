@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 27/05/2021, 01:14:18 (France time)
+### last update : 27/05/2021, 04:14:17 (France time)
 
-### name : Pitcairn
-### Population : 56
-### Capital : Adamstown
-### Region : Oceania
+### name : Anguilla
+### Population : 13'452
+### Capital : The Valley
+### Region : Americas
 ### Languages : English
-### Area : 47 km²
+### Area : 91 km²
 ### Neighboring countries : 
-### Timezones : UTC-08:00
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/pcn.svg)
+![](https://restcountries.eu/data/aia.svg)
