@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 28/05/2021, 10:33:25 (France time)
+### last update : 28/05/2021, 16:33:26 (France time)
 
-### name : Equatorial Guinea
-### Population : 1'222'442
-### Capital : Malabo
+### name : Guinea-Bissau
+### Population : 1'547'777
+### Capital : Bissau
 ### Region : Africa
-### Languages : Spanish, French
-### Area : 28'051 km²
-### Neighboring countries : Cameroon, Gabon
-### Timezones : UTC+01:00
+### Languages : Portuguese
+### Area : 36'125 km²
+### Neighboring countries : Guinea, Senegal
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/gnq.svg)
+![](https://restcountries.eu/data/gnb.svg)
