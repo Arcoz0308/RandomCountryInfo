@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 28/05/2021, 20:15:57 (France time)
+### last update : 28/05/2021, 23:15:58 (France time)
 
-### name : Bhutan
-### Population : 775'620
-### Capital : Thimphu
-### Region : Asia
-### Languages : Dzongkha
-### Area : 38'394 km²
-### Neighboring countries : China, India
-### Timezones : UTC+06:00
+### name : Liechtenstein
+### Population : 37'623
+### Capital : Vaduz
+### Region : Europe
+### Languages : German
+### Area : 160 km²
+### Neighboring countries : Austria, Switzerland
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/btn.svg)
+![](https://restcountries.eu/data/lie.svg)
