@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 28/05/2021, 01:33:25 (France time)
+### last update : 28/05/2021, 04:33:25 (France time)
 
-### name : Myanmar
-### Population : 51'419'420
-### Capital : Naypyidaw
-### Region : Asia
-### Languages : Burmese
-### Area : 676'578 km²
-### Neighboring countries : Bangladesh, China, India, Lao People's Democratic Republic, Thailand
-### Timezones : UTC+06:30
+### name : Namibia
+### Population : 2'324'388
+### Capital : Windhoek
+### Region : Africa
+### Languages : English, Afrikaans
+### Area : 825'615 km²
+### Neighboring countries : Angola, Botswana, South Africa, Zambia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/mmr.svg)
+![](https://restcountries.eu/data/nam.svg)
