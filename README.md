@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 28/05/2021, 07:33:25 (France time)
+### last update : 28/05/2021, 10:33:25 (France time)
 
-### name : Mali
-### Population : 18'135'000
-### Capital : Bamako
+### name : Equatorial Guinea
+### Population : 1'222'442
+### Capital : Malabo
 ### Region : Africa
-### Languages : French
-### Area : 1'240'192 km²
-### Neighboring countries : Algeria, Burkina Faso, Guinea, Côte d'Ivoire, Mauritania, Niger, Senegal
-### Timezones : UTC
+### Languages : Spanish, French
+### Area : 28'051 km²
+### Neighboring countries : Cameroon, Gabon
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/mli.svg)
+![](https://restcountries.eu/data/gnq.svg)
