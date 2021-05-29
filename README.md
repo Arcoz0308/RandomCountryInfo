@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 28/05/2021, 23:15:58 (France time)
+### last update : 29/05/2021, 05:15:58 (France time)
 
-### name : Liechtenstein
-### Population : 37'623
-### Capital : Vaduz
-### Region : Europe
-### Languages : German
-### Area : 160 km²
-### Neighboring countries : Austria, Switzerland
-### Timezones : UTC+01:00
+### name : Azerbaijan
+### Population : 9'730'500
+### Capital : Baku
+### Region : Asia
+### Languages : Azerbaijani
+### Area : 86'600 km²
+### Neighboring countries : Armenia, Georgia, Iran (Islamic Republic of), Russian Federation, Turkey
+### Timezones : UTC+04:00
 
 ### Flag :
-![](https://restcountries.eu/data/lie.svg)
+![](https://restcountries.eu/data/aze.svg)
