@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 29/05/2021, 14:15:58 (France time)
+### last update : 29/05/2021, 17:16:00 (France time)
 
-### name : Kuwait
-### Population : 4'183'658
-### Capital : Kuwait City
+### name : Oman
+### Population : 4'420'133
+### Capital : Muscat
 ### Region : Asia
 ### Languages : Arabic
-### Area : 17'818 km²
-### Neighboring countries : Iran (Islamic Republic of), Saudi Arabia
-### Timezones : UTC+03:00
+### Area : 309'500 km²
+### Neighboring countries : Saudi Arabia, United Arab Emirates, Yemen
+### Timezones : UTC+04:00
 
 ### Flag :
-![](https://restcountries.eu/data/kwt.svg)
+![](https://restcountries.eu/data/omn.svg)
