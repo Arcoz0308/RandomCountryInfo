@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 29/05/2021, 05:15:58 (France time)
+### last update : 29/05/2021, 08:15:58 (France time)
 
-### name : Azerbaijan
-### Population : 9'730'500
-### Capital : Baku
-### Region : Asia
-### Languages : Azerbaijani
-### Area : 86'600 km²
-### Neighboring countries : Armenia, Georgia, Iran (Islamic Republic of), Russian Federation, Turkey
-### Timezones : UTC+04:00
+### name : French Southern Territories
+### Population : 140
+### Capital : Port-aux-Français
+### Region : Africa
+### Languages : French
+### Area : 7'747 km²
+### Neighboring countries : 
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/aze.svg)
+![](https://restcountries.eu/data/atf.svg)
