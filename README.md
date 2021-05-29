@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 29/05/2021, 08:15:58 (France time)
+### last update : 29/05/2021, 11:15:58 (France time)
 
-### name : French Southern Territories
-### Population : 140
-### Capital : Port-aux-Français
-### Region : Africa
-### Languages : French
-### Area : 7'747 km²
-### Neighboring countries : 
-### Timezones : UTC+05:00
+### name : Republic of Kosovo
+### Population : 1'733'842
+### Capital : Pristina
+### Region : Europe
+### Languages : Albanian, Serbian
+### Area : 10'908 km²
+### Neighboring countries : Albania, Macedonia (the former Yugoslav Republic of), Montenegro, Serbia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/atf.svg)
+![](https://restcountries.eu/data/kos.svg)
