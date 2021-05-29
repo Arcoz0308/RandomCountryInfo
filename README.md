@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 29/05/2021, 17:16:00 (France time)
+### last update : 29/05/2021, 20:15:58 (France time)
 
-### name : Oman
-### Population : 4'420'133
-### Capital : Muscat
+### name : Korea (Democratic People's Republic of)
+### Population : 25'281'000
+### Capital : Pyongyang
 ### Region : Asia
-### Languages : Arabic
-### Area : 309'500 km²
-### Neighboring countries : Saudi Arabia, United Arab Emirates, Yemen
-### Timezones : UTC+04:00
+### Languages : Korean
+### Area : 120'538 km²
+### Neighboring countries : China, Korea (Republic of), Russian Federation
+### Timezones : UTC+09:00
 
 ### Flag :
-![](https://restcountries.eu/data/omn.svg)
+![](https://restcountries.eu/data/prk.svg)
