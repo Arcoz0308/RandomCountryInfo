@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 29/05/2021, 20:15:58 (France time)
+### last update : 29/05/2021, 20:22:20 (France time)
 
-### name : Korea (Democratic People's Republic of)
-### Population : 25'281'000
-### Capital : Pyongyang
-### Region : Asia
-### Languages : Korean
-### Area : 120'538 km²
-### Neighboring countries : China, Korea (Republic of), Russian Federation
-### Timezones : UTC+09:00
+### name : Austria
+### Population : 8'725'931
+### Capital : Vienna
+### Region : Europe
+### Languages : German
+### Area : 83'871 km²
+### Neighboring countries : Czech Republic, Germany, Hungary, Italy, Liechtenstein, Slovakia, Slovenia, Switzerland
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/prk.svg)
+![](https://restcountries.eu/data/aut.svg)
