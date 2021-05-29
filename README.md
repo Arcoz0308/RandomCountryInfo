@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 29/05/2021, 11:15:58 (France time)
+### last update : 29/05/2021, 14:15:58 (France time)
 
-### name : Republic of Kosovo
-### Population : 1'733'842
-### Capital : Pristina
-### Region : Europe
-### Languages : Albanian, Serbian
-### Area : 10'908 km²
-### Neighboring countries : Albania, Macedonia (the former Yugoslav Republic of), Montenegro, Serbia
-### Timezones : UTC+01:00
+### name : Kuwait
+### Population : 4'183'658
+### Capital : Kuwait City
+### Region : Asia
+### Languages : Arabic
+### Area : 17'818 km²
+### Neighboring countries : Iran (Islamic Republic of), Saudi Arabia
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/kos.svg)
+![](https://restcountries.eu/data/kwt.svg)
