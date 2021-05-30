@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 30/05/2021, 17:22:21 (France time)
+### last update : 30/05/2021, 20:22:21 (France time)
 
-### name : Estonia
-### Population : 1'315'944
-### Capital : Tallinn
-### Region : Europe
-### Languages : Estonian
-### Area : 45'227 km²
-### Neighboring countries : Latvia, Russian Federation
-### Timezones : UTC+02:00
+### name : Tokelau
+### Population : 1'411
+### Capital : Fakaofo
+### Region : Oceania
+### Languages : English
+### Area : 12 km²
+### Neighboring countries : 
+### Timezones : UTC+13:00
 
 ### Flag :
-![](https://restcountries.eu/data/est.svg)
+![](https://restcountries.eu/data/tkl.svg)
