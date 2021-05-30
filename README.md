@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 30/05/2021, 05:22:20 (France time)
+### last update : 30/05/2021, 08:22:20 (France time)
 
-### name : Comoros
-### Population : 806'153
-### Capital : Moroni
+### name : Congo
+### Population : 4'741'000
+### Capital : Brazzaville
 ### Region : Africa
-### Languages : Arabic, French
-### Area : 1'862 km²
-### Neighboring countries : 
-### Timezones : UTC+03:00
+### Languages : French, Lingala
+### Area : 342'000 km²
+### Neighboring countries : Angola, Cameroon, Central African Republic, Congo (Democratic Republic of the), Gabon
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/com.svg)
+![](https://restcountries.eu/data/cog.svg)
