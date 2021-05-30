@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 30/05/2021, 02:22:20 (France time)
+### last update : 30/05/2021, 05:22:20 (France time)
 
-### name : Brunei Darussalam
-### Population : 411'900
-### Capital : Bandar Seri Begawan
-### Region : Asia
-### Languages : Malay
-### Area : 5'765 km²
-### Neighboring countries : Malaysia
-### Timezones : UTC+08:00
+### name : Comoros
+### Population : 806'153
+### Capital : Moroni
+### Region : Africa
+### Languages : Arabic, French
+### Area : 1'862 km²
+### Neighboring countries : 
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/brn.svg)
+![](https://restcountries.eu/data/com.svg)
