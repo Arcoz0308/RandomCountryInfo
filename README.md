@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 31/05/2021, 05:25:01 (France time)
+### last update : 31/05/2021, 06:39:22 (France time)
 
-### name : Czech Republic
-### Population : 10'558'524
-### Capital : Prague
-### Region : Europe
-### Languages : Czech, Slovak
-### Area : 78'865 km²
-### Neighboring countries : Austria, Germany, Poland, Slovakia
-### Timezones : UTC+01:00
+### name : Singapore
+### Population : 5'535'000
+### Capital : Singapore
+### Region : Asia
+### Languages : English, Malay, Tamil, Chinese
+### Area : 710 km²
+### Neighboring countries : 
+### Timezones : UTC+08:00
 
 ### Flag :
-![](https://restcountries.eu/data/cze.svg)
+![](https://restcountries.eu/data/sgp.svg)
