@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 31/05/2021, 09:39:23 (France time)
+### last update : 31/05/2021, 12:39:22 (France time)
 
-### name : Aruba
-### Population : 107'394
-### Capital : Oranjestad
-### Region : Americas
-### Languages : Dutch, (Eastern) Punjabi
-### Area : 180 km²
+### name : Jersey
+### Population : 100'800
+### Capital : Saint Helier
+### Region : Europe
+### Languages : English, French
+### Area : 116 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/abw.svg)
+![](https://restcountries.eu/data/jey.svg)
