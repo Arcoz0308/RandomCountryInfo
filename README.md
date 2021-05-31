@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 31/05/2021, 12:39:22 (France time)
+### last update : 31/05/2021, 18:39:23 (France time)
 
-### name : Jersey
-### Population : 100'800
-### Capital : Saint Helier
-### Region : Europe
-### Languages : English, French
-### Area : 116 km²
+### name : New Zealand
+### Population : 4'697'854
+### Capital : Wellington
+### Region : Oceania
+### Languages : English, Māori
+### Area : 270'467 km²
 ### Neighboring countries : 
-### Timezones : UTC+01:00
+### Timezones : UTC-11:00, UTC-10:00, UTC+12:00, UTC+12:45, UTC+13:00
 
 ### Flag :
-![](https://restcountries.eu/data/jey.svg)
+![](https://restcountries.eu/data/nzl.svg)
