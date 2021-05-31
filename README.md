@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 31/05/2021, 06:39:22 (France time)
+### last update : 31/05/2021, 09:39:23 (France time)
 
-### name : Singapore
-### Population : 5'535'000
-### Capital : Singapore
-### Region : Asia
-### Languages : English, Malay, Tamil, Chinese
-### Area : 710 km²
+### name : Aruba
+### Population : 107'394
+### Capital : Oranjestad
+### Region : Americas
+### Languages : Dutch, (Eastern) Punjabi
+### Area : 180 km²
 ### Neighboring countries : 
-### Timezones : UTC+08:00
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/sgp.svg)
+![](https://restcountries.eu/data/abw.svg)
