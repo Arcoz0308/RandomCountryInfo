@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 31/05/2021, 21:39:22 (France time)
+### last update : 01/06/2021, 00:39:22 (France time)
 
-### name : New Caledonia
-### Population : 268'767
-### Capital : Nouméa
-### Region : Oceania
-### Languages : French
-### Area : 18'575 km²
-### Neighboring countries : 
-### Timezones : UTC+11:00
+### name : Spain
+### Population : 46'438'422
+### Capital : Madrid
+### Region : Europe
+### Languages : Spanish
+### Area : 505'992 km²
+### Neighboring countries : Andorra, France, Gibraltar, Portugal, Morocco
+### Timezones : UTC, UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/ncl.svg)
+![](https://restcountries.eu/data/esp.svg)
