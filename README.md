@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/06/2021, 00:39:22 (France time)
+### last update : 01/06/2021, 03:39:23 (France time)
 
-### name : Spain
-### Population : 46'438'422
-### Capital : Madrid
-### Region : Europe
-### Languages : Spanish
-### Area : 505'992 km²
-### Neighboring countries : Andorra, France, Gibraltar, Portugal, Morocco
-### Timezones : UTC, UTC+01:00
+### name : Chad
+### Population : 14'497'000
+### Capital : N'Djamena
+### Region : Africa
+### Languages : French, Arabic
+### Area : 1'284'000 km²
+### Neighboring countries : Cameroon, Central African Republic, Libya, Niger, Nigeria, South Sudan
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/esp.svg)
+![](https://restcountries.eu/data/tcd.svg)
