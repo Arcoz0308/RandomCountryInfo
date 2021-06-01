@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/06/2021, 18:55:00 (France time)
+### last update : 01/06/2021, 21:55:00 (France time)
 
-### name : Wallis and Futuna
-### Population : 11'750
-### Capital : Mata-Utu
-### Region : Oceania
-### Languages : French
-### Area : 142 km²
-### Neighboring countries : 
-### Timezones : UTC+12:00
+### name : Venezuela (Bolivarian Republic of)
+### Population : 31'028'700
+### Capital : Caracas
+### Region : Americas
+### Languages : Spanish
+### Area : 916'445 km²
+### Neighboring countries : Brazil, Colombia, Guyana
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/wlf.svg)
+![](https://restcountries.eu/data/ven.svg)
