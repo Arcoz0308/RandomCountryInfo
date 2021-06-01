@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/06/2021, 06:55:00 (France time)
+### last update : 01/06/2021, 09:55:00 (France time)
 
-### name : Venezuela (Bolivarian Republic of)
-### Population : 31'028'700
-### Capital : Caracas
-### Region : Americas
-### Languages : Spanish
-### Area : 916'445 km²
-### Neighboring countries : Brazil, Colombia, Guyana
-### Timezones : UTC-04:00
+### name : Lao People's Democratic Republic
+### Population : 6'492'400
+### Capital : Vientiane
+### Region : Asia
+### Languages : Lao
+### Area : 236'800 km²
+### Neighboring countries : Myanmar, Cambodia, China, Thailand, Viet Nam
+### Timezones : UTC+07:00
 
 ### Flag :
-![](https://restcountries.eu/data/ven.svg)
+![](https://restcountries.eu/data/lao.svg)
