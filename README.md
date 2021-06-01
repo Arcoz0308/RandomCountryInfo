@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/06/2021, 03:39:23 (France time)
+### last update : 01/06/2021, 06:39:23 (France time)
 
-### name : Chad
-### Population : 14'497'000
-### Capital : N'Djamena
-### Region : Africa
-### Languages : French, Arabic
-### Area : 1'284'000 km²
-### Neighboring countries : Cameroon, Central African Republic, Libya, Niger, Nigeria, South Sudan
-### Timezones : UTC+01:00
+### name : Marshall Islands
+### Population : 54'880
+### Capital : Majuro
+### Region : Oceania
+### Languages : English, Marshallese
+### Area : 181 km²
+### Neighboring countries : 
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/tcd.svg)
+![](https://restcountries.eu/data/mhl.svg)
