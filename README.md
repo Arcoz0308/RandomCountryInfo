@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/06/2021, 03:55:01 (France time)
+### last update : 02/06/2021, 06:55:00 (France time)
 
-### name : Djibouti
-### Population : 900'000
-### Capital : Djibouti
+### name : Namibia
+### Population : 2'324'388
+### Capital : Windhoek
 ### Region : Africa
-### Languages : French, Arabic
-### Area : 23'200 km²
-### Neighboring countries : Eritrea, Ethiopia, Somalia
-### Timezones : UTC+03:00
+### Languages : English, Afrikaans
+### Area : 825'615 km²
+### Neighboring countries : Angola, Botswana, South Africa, Zambia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/dji.svg)
+![](https://restcountries.eu/data/nam.svg)
