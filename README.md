@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/06/2021, 16:24:15 (France time)
+### last update : 02/06/2021, 19:24:15 (France time)
 
-### name : Fiji
-### Population : 867'000
-### Capital : Suva
-### Region : Oceania
-### Languages : English, Fijian, Hindi, Urdu
-### Area : 18'272 km²
+### name : Comoros
+### Population : 806'153
+### Capital : Moroni
+### Region : Africa
+### Languages : Arabic, French
+### Area : 1'862 km²
 ### Neighboring countries : 
-### Timezones : UTC+12:00
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/fji.svg)
+![](https://restcountries.eu/data/com.svg)
