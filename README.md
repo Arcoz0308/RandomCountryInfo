@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/06/2021, 13:24:17 (France time)
+### last update : 02/06/2021, 16:24:15 (France time)
 
-### name : Azerbaijan
-### Population : 9'730'500
-### Capital : Baku
-### Region : Asia
-### Languages : Azerbaijani
-### Area : 86'600 km²
-### Neighboring countries : Armenia, Georgia, Iran (Islamic Republic of), Russian Federation, Turkey
-### Timezones : UTC+04:00
+### name : Fiji
+### Population : 867'000
+### Capital : Suva
+### Region : Oceania
+### Languages : English, Fijian, Hindi, Urdu
+### Area : 18'272 km²
+### Neighboring countries : 
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/aze.svg)
+![](https://restcountries.eu/data/fji.svg)
