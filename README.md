@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/06/2021, 21:55:00 (France time)
+### last update : 02/06/2021, 00:55:00 (France time)
 
-### name : Venezuela (Bolivarian Republic of)
-### Population : 31'028'700
-### Capital : Caracas
+### name : El Salvador
+### Population : 6'520'675
+### Capital : San Salvador
 ### Region : Americas
 ### Languages : Spanish
-### Area : 916'445 km²
-### Neighboring countries : Brazil, Colombia, Guyana
-### Timezones : UTC-04:00
+### Area : 21'041 km²
+### Neighboring countries : Guatemala, Honduras
+### Timezones : UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/ven.svg)
+![](https://restcountries.eu/data/slv.svg)
