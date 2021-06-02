@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/06/2021, 06:55:00 (France time)
+### last update : 02/06/2021, 07:24:14 (France time)
 
-### name : Namibia
-### Population : 2'324'388
-### Capital : Windhoek
-### Region : Africa
-### Languages : English, Afrikaans
-### Area : 825'615 km²
-### Neighboring countries : Angola, Botswana, South Africa, Zambia
-### Timezones : UTC+01:00
+### name : Pakistan
+### Population : 194'125'062
+### Capital : Islamabad
+### Region : Asia
+### Languages : English, Urdu
+### Area : 881'912 km²
+### Neighboring countries : Afghanistan, China, India, Iran (Islamic Republic of)
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/nam.svg)
+![](https://restcountries.eu/data/pak.svg)
