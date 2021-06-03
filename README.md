@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/06/2021, 01:24:15 (France time)
+### last update : 03/06/2021, 04:24:15 (France time)
 
-### name : Chad
-### Population : 14'497'000
-### Capital : N'Djamena
+### name : Namibia
+### Population : 2'324'388
+### Capital : Windhoek
 ### Region : Africa
-### Languages : French, Arabic
-### Area : 1'284'000 km²
-### Neighboring countries : Cameroon, Central African Republic, Libya, Niger, Nigeria, South Sudan
+### Languages : English, Afrikaans
+### Area : 825'615 km²
+### Neighboring countries : Angola, Botswana, South Africa, Zambia
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/tcd.svg)
+![](https://restcountries.eu/data/nam.svg)
