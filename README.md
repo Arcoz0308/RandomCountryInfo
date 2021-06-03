@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/06/2021, 22:24:15 (France time)
+### last update : 03/06/2021, 01:24:15 (France time)
 
-### name : Liechtenstein
-### Population : 37'623
-### Capital : Vaduz
-### Region : Europe
-### Languages : German
-### Area : 160 km²
-### Neighboring countries : Austria, Switzerland
+### name : Chad
+### Population : 14'497'000
+### Capital : N'Djamena
+### Region : Africa
+### Languages : French, Arabic
+### Area : 1'284'000 km²
+### Neighboring countries : Cameroon, Central African Republic, Libya, Niger, Nigeria, South Sudan
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/lie.svg)
+![](https://restcountries.eu/data/tcd.svg)
