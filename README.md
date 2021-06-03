@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/06/2021, 20:15:55 (France time)
+### last update : 03/06/2021, 23:15:57 (France time)
 
-### name : New Caledonia
-### Population : 268'767
-### Capital : Nouméa
+### name : Tokelau
+### Population : 1'411
+### Capital : Fakaofo
 ### Region : Oceania
-### Languages : French
-### Area : 18'575 km²
+### Languages : English
+### Area : 12 km²
 ### Neighboring countries : 
-### Timezones : UTC+11:00
+### Timezones : UTC+13:00
 
 ### Flag :
-![](https://restcountries.eu/data/ncl.svg)
+![](https://restcountries.eu/data/tkl.svg)
