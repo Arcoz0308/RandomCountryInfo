@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/06/2021, 04:24:15 (France time)
+### last update : 03/06/2021, 08:15:55 (France time)
 
-### name : Namibia
-### Population : 2'324'388
-### Capital : Windhoek
-### Region : Africa
-### Languages : English, Afrikaans
-### Area : 825'615 km²
-### Neighboring countries : Angola, Botswana, South Africa, Zambia
-### Timezones : UTC+01:00
+### name : Singapore
+### Population : 5'535'000
+### Capital : Singapore
+### Region : Asia
+### Languages : English, Malay, Tamil, Chinese
+### Area : 710 km²
+### Neighboring countries : 
+### Timezones : UTC+08:00
 
 ### Flag :
-![](https://restcountries.eu/data/nam.svg)
+![](https://restcountries.eu/data/sgp.svg)
