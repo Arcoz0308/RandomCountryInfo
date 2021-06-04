@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/06/2021, 08:29:06 (France time)
+### last update : 04/06/2021, 11:29:04 (France time)
 
-### name : Israel
-### Population : 8'527'400
-### Capital : Jerusalem
-### Region : Asia
-### Languages : Hebrew (modern), Arabic
-### Area : 20'770 km²
-### Neighboring countries : Egypt, Jordan, Lebanon, Syrian Arab Republic
-### Timezones : UTC+02:00
+### name : Greenland
+### Population : 55'847
+### Capital : Nuuk
+### Region : Americas
+### Languages : Kalaallisut
+### Area : 2'166'086 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00, UTC-03:00, UTC-01:00, UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/isr.svg)
+![](https://restcountries.eu/data/grl.svg)
