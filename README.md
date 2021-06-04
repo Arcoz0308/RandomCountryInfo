@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/06/2021, 14:29:04 (France time)
+### last update : 04/06/2021, 20:29:05 (France time)
 
-### name : Jersey
-### Population : 100'800
-### Capital : Saint Helier
-### Region : Europe
-### Languages : English, French
-### Area : 116 km²
-### Neighboring countries : 
-### Timezones : UTC+01:00
+### name : Sudan
+### Population : 39'598'700
+### Capital : Khartoum
+### Region : Africa
+### Languages : Arabic, English
+### Area : 1'886'068 km²
+### Neighboring countries : Central African Republic, Chad, Egypt, Eritrea, Ethiopia, Libya, South Sudan
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/jey.svg)
+![](https://restcountries.eu/data/sdn.svg)
