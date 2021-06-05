@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/06/2021, 23:29:11 (France time)
+### last update : 05/06/2021, 02:29:04 (France time)
 
-### name : Tajikistan
-### Population : 8'593'600
-### Capital : Dushanbe
+### name : Japan
+### Population : 126'960'000
+### Capital : Tokyo
 ### Region : Asia
-### Languages : Tajik, Russian
-### Area : 143'100 km²
-### Neighboring countries : Afghanistan, China, Kyrgyzstan, Uzbekistan
-### Timezones : UTC+05:00
+### Languages : Japanese
+### Area : 377'930 km²
+### Neighboring countries : 
+### Timezones : UTC+09:00
 
 ### Flag :
-![](https://restcountries.eu/data/tjk.svg)
+![](https://restcountries.eu/data/jpn.svg)
