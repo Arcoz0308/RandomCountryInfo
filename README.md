@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/06/2021, 02:29:04 (France time)
+### last update : 05/06/2021, 05:29:05 (France time)
 
-### name : Japan
-### Population : 126'960'000
-### Capital : Tokyo
+### name : Iraq
+### Population : 37'883'543
+### Capital : Baghdad
 ### Region : Asia
-### Languages : Japanese
-### Area : 377'930 km²
-### Neighboring countries : 
-### Timezones : UTC+09:00
+### Languages : Arabic, Kurdish
+### Area : 438'317 km²
+### Neighboring countries : Iran (Islamic Republic of), Jordan, Kuwait, Saudi Arabia, Syrian Arab Republic, Turkey
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/jpn.svg)
+![](https://restcountries.eu/data/irq.svg)
