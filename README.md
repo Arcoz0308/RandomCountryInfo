@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/06/2021, 08:49:18 (France time)
+### last update : 05/06/2021, 11:49:18 (France time)
 
-### name : Macao
-### Population : 649'100
-### Capital : 
+### name : Bhutan
+### Population : 775'620
+### Capital : Thimphu
 ### Region : Asia
-### Languages : Chinese, Portuguese
-### Area : 30 km²
-### Neighboring countries : China
-### Timezones : UTC+08:00
+### Languages : Dzongkha
+### Area : 38'394 km²
+### Neighboring countries : China, India
+### Timezones : UTC+06:00
 
 ### Flag :
-![](https://restcountries.eu/data/mac.svg)
+![](https://restcountries.eu/data/btn.svg)
