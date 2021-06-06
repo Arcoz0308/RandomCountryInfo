@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/06/2021, 15:06:30 (France time)
+### last update : 06/06/2021, 18:06:30 (France time)
 
-### name : Canada
-### Population : 36'155'487
-### Capital : Ottawa
+### name : Chile
+### Population : 18'191'900
+### Capital : Santiago
 ### Region : Americas
-### Languages : English, French
-### Area : 9'984'670 km²
-### Neighboring countries : United States of America
-### Timezones : UTC-08:00, UTC-07:00, UTC-06:00, UTC-05:00, UTC-04:00, UTC-03:30
+### Languages : Spanish
+### Area : 756'102 km²
+### Neighboring countries : Argentina, Bolivia (Plurinational State of), Peru
+### Timezones : UTC-06:00, UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/can.svg)
+![](https://restcountries.eu/data/chl.svg)
