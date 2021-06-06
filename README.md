@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/06/2021, 02:49:18 (France time)
+### last update : 06/06/2021, 05:49:18 (France time)
 
-### name : Chile
-### Population : 18'191'900
-### Capital : Santiago
-### Region : Americas
-### Languages : Spanish
-### Area : 756'102 km²
-### Neighboring countries : Argentina, Bolivia (Plurinational State of), Peru
-### Timezones : UTC-06:00, UTC-04:00
+### name : Micronesia (Federated States of)
+### Population : 102'800
+### Capital : Palikir
+### Region : Oceania
+### Languages : English
+### Area : 702 km²
+### Neighboring countries : 
+### Timezones : UTC+10:00, UTC+11
 
 ### Flag :
-![](https://restcountries.eu/data/chl.svg)
+![](https://restcountries.eu/data/fsm.svg)
