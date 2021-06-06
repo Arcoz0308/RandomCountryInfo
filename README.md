@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/06/2021, 05:49:18 (France time)
+### last update : 06/06/2021, 08:49:18 (France time)
 
-### name : Micronesia (Federated States of)
-### Population : 102'800
-### Capital : Palikir
-### Region : Oceania
-### Languages : English
-### Area : 702 km²
+### name : Faroe Islands
+### Population : 49'376
+### Capital : Tórshavn
+### Region : Europe
+### Languages : Faroese
+### Area : 1'393 km²
 ### Neighboring countries : 
-### Timezones : UTC+10:00, UTC+11
+### Timezones : UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/fsm.svg)
+![](https://restcountries.eu/data/fro.svg)
