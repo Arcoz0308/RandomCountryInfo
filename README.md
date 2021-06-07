@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/06/2021, 09:06:30 (France time)
+### last update : 07/06/2021, 09:11:58 (France time)
 
-### name : Burkina Faso
-### Population : 19'034'397
-### Capital : Ouagadougou
-### Region : Africa
-### Languages : French, Fula
-### Area : 272'967 km²
-### Neighboring countries : Benin, Côte d'Ivoire, Ghana, Mali, Niger, Togo
-### Timezones : UTC
+### name : Cook Islands
+### Population : 18'100
+### Capital : Avarua
+### Region : Oceania
+### Languages : English
+### Area : 236 km²
+### Neighboring countries : 
+### Timezones : UTC-10:00
 
 ### Flag :
-![](https://restcountries.eu/data/bfa.svg)
+![](https://restcountries.eu/data/cok.svg)
