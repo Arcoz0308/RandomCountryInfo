@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/06/2021, 18:11:59 (France time)
+### last update : 07/06/2021, 21:11:58 (France time)
 
-### name : Moldova (Republic of)
-### Population : 3'553'100
-### Capital : Chișinău
-### Region : Europe
-### Languages : Romanian
-### Area : 33'846 km²
-### Neighboring countries : Romania, Ukraine
+### name : Zambia
+### Population : 15'933'883
+### Capital : Lusaka
+### Region : Africa
+### Languages : English
+### Area : 752'612 km²
+### Neighboring countries : Angola, Botswana, Congo (Democratic Republic of the), Malawi, Mozambique, Namibia, Tanzania, United Republic of, Zimbabwe
 ### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/mda.svg)
+![](https://restcountries.eu/data/zmb.svg)
