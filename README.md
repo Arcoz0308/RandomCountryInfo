@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/06/2021, 03:06:30 (France time)
+### last update : 07/06/2021, 06:06:30 (France time)
 
-### name : Belarus
-### Population : 9'498'700
-### Capital : Minsk
-### Region : Europe
-### Languages : Belarusian, Russian
-### Area : 207'600 km²
-### Neighboring countries : Latvia, Lithuania, Poland, Russian Federation, Ukraine
-### Timezones : UTC+03:00
+### name : Hong Kong
+### Population : 7'324'300
+### Capital : City of Victoria
+### Region : Asia
+### Languages : English, Chinese
+### Area : 1'104 km²
+### Neighboring countries : China
+### Timezones : UTC+08:00
 
 ### Flag :
-![](https://restcountries.eu/data/blr.svg)
+![](https://restcountries.eu/data/hkg.svg)
