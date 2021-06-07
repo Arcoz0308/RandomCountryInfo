@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/06/2021, 12:11:58 (France time)
+### last update : 07/06/2021, 18:11:59 (France time)
 
-### name : United Kingdom of Great Britain and Northern Ireland
-### Population : 65'110'000
-### Capital : London
+### name : Moldova (Republic of)
+### Population : 3'553'100
+### Capital : Chișinău
 ### Region : Europe
-### Languages : English
-### Area : 242'900 km²
-### Neighboring countries : Ireland
-### Timezones : UTC-08:00, UTC-05:00, UTC-04:00, UTC-03:00, UTC-02:00, UTC, UTC+01:00, UTC+02:00, UTC+06:00
+### Languages : Romanian
+### Area : 33'846 km²
+### Neighboring countries : Romania, Ukraine
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/gbr.svg)
+![](https://restcountries.eu/data/mda.svg)
