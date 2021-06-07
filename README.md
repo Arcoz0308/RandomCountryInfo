@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/06/2021, 00:06:30 (France time)
+### last update : 07/06/2021, 03:06:30 (France time)
 
-### name : Tokelau
-### Population : 1'411
-### Capital : Fakaofo
-### Region : Oceania
-### Languages : English
-### Area : 12 km²
-### Neighboring countries : 
-### Timezones : UTC+13:00
+### name : Belarus
+### Population : 9'498'700
+### Capital : Minsk
+### Region : Europe
+### Languages : Belarusian, Russian
+### Area : 207'600 km²
+### Neighboring countries : Latvia, Lithuania, Poland, Russian Federation, Ukraine
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/tkl.svg)
+![](https://restcountries.eu/data/blr.svg)
