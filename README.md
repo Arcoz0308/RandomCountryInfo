@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/06/2021, 09:11:58 (France time)
+### last update : 07/06/2021, 12:11:58 (France time)
 
-### name : Cook Islands
-### Population : 18'100
-### Capital : Avarua
-### Region : Oceania
+### name : United Kingdom of Great Britain and Northern Ireland
+### Population : 65'110'000
+### Capital : London
+### Region : Europe
 ### Languages : English
-### Area : 236 km²
-### Neighboring countries : 
-### Timezones : UTC-10:00
+### Area : 242'900 km²
+### Neighboring countries : Ireland
+### Timezones : UTC-08:00, UTC-05:00, UTC-04:00, UTC-03:00, UTC-02:00, UTC, UTC+01:00, UTC+02:00, UTC+06:00
 
 ### Flag :
-![](https://restcountries.eu/data/cok.svg)
+![](https://restcountries.eu/data/gbr.svg)
