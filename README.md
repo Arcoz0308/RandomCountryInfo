@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/06/2021, 21:06:30 (France time)
+### last update : 07/06/2021, 00:06:30 (France time)
 
-### name : Lithuania
-### Population : 2'872'294
-### Capital : Vilnius
-### Region : Europe
-### Languages : Lithuanian
-### Area : 65'300 km²
-### Neighboring countries : Belarus, Latvia, Poland, Russian Federation
-### Timezones : UTC+02:00
+### name : Tokelau
+### Population : 1'411
+### Capital : Fakaofo
+### Region : Oceania
+### Languages : English
+### Area : 12 km²
+### Neighboring countries : 
+### Timezones : UTC+13:00
 
 ### Flag :
-![](https://restcountries.eu/data/ltu.svg)
+![](https://restcountries.eu/data/tkl.svg)
