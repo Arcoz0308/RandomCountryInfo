@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/06/2021, 21:11:58 (France time)
+### last update : 08/06/2021, 00:11:58 (France time)
 
-### name : Zambia
-### Population : 15'933'883
-### Capital : Lusaka
-### Region : Africa
-### Languages : English
-### Area : 752'612 km²
-### Neighboring countries : Angola, Botswana, Congo (Democratic Republic of the), Malawi, Mozambique, Namibia, Tanzania, United Republic of, Zimbabwe
-### Timezones : UTC+02:00
+### name : Bonaire, Sint Eustatius and Saba
+### Population : 17'408
+### Capital : Kralendijk
+### Region : Americas
+### Languages : Dutch
+### Area : 294 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/zmb.svg)
+![](https://restcountries.eu/data/bes.svg)
