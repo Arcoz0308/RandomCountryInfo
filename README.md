@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/06/2021, 09:11:59 (France time)
+### last update : 08/06/2021, 09:33:33 (France time)
 
-### name : Isle of Man
-### Population : 84'497
-### Capital : Douglas
-### Region : Europe
-### Languages : English, Manx
-### Area : 572 km²
-### Neighboring countries : 
-### Timezones : UTC+00:00
+### name : Chile
+### Population : 18'191'900
+### Capital : Santiago
+### Region : Americas
+### Languages : Spanish
+### Area : 756'102 km²
+### Neighboring countries : Argentina, Bolivia (Plurinational State of), Peru
+### Timezones : UTC-06:00, UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/imn.svg)
+![](https://restcountries.eu/data/chl.svg)
