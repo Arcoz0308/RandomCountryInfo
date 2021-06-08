@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/06/2021, 09:33:33 (France time)
+### last update : 08/06/2021, 12:33:35 (France time)
 
-### name : Chile
-### Population : 18'191'900
-### Capital : Santiago
-### Region : Americas
-### Languages : Spanish
-### Area : 756'102 km²
-### Neighboring countries : Argentina, Bolivia (Plurinational State of), Peru
-### Timezones : UTC-06:00, UTC-04:00
+### name : Macedonia (the former Yugoslav Republic of)
+### Population : 2'058'539
+### Capital : Skopje
+### Region : Europe
+### Languages : Macedonian
+### Area : 25'713 km²
+### Neighboring countries : Albania, Bulgaria, Greece, Republic of Kosovo, Serbia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/chl.svg)
+![](https://restcountries.eu/data/mkd.svg)
