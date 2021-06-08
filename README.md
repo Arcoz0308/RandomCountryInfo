@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/06/2021, 18:33:34 (France time)
+### last update : 08/06/2021, 21:33:34 (France time)
 
-### name : Cook Islands
-### Population : 18'100
-### Capital : Avarua
+### name : Vanuatu
+### Population : 277'500
+### Capital : Port Vila
 ### Region : Oceania
-### Languages : English
-### Area : 236 km²
+### Languages : Bislama, English, French
+### Area : 12'189 km²
 ### Neighboring countries : 
-### Timezones : UTC-10:00
+### Timezones : UTC+11:00
 
 ### Flag :
-![](https://restcountries.eu/data/cok.svg)
+![](https://restcountries.eu/data/vut.svg)
