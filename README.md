@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/06/2021, 12:33:35 (France time)
+### last update : 08/06/2021, 15:33:34 (France time)
 
-### name : Macedonia (the former Yugoslav Republic of)
-### Population : 2'058'539
-### Capital : Skopje
-### Region : Europe
-### Languages : Macedonian
-### Area : 25'713 km²
-### Neighboring countries : Albania, Bulgaria, Greece, Republic of Kosovo, Serbia
-### Timezones : UTC+01:00
+### name : Jordan
+### Population : 9'531'712
+### Capital : Amman
+### Region : Asia
+### Languages : Arabic
+### Area : 89'342 km²
+### Neighboring countries : Iraq, Israel, Saudi Arabia, Syrian Arab Republic
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/mkd.svg)
+![](https://restcountries.eu/data/jor.svg)
