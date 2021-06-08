@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/06/2021, 00:11:58 (France time)
+### last update : 08/06/2021, 03:11:58 (France time)
 
-### name : Bonaire, Sint Eustatius and Saba
-### Population : 17'408
-### Capital : Kralendijk
-### Region : Americas
-### Languages : Dutch
-### Area : 294 km²
+### name : Fiji
+### Population : 867'000
+### Capital : Suva
+### Region : Oceania
+### Languages : English, Fijian, Hindi, Urdu
+### Area : 18'272 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/bes.svg)
+![](https://restcountries.eu/data/fji.svg)
