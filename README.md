@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 09/06/2021, 05:42:38 (France time)
+### last update : 09/06/2021, 08:42:37 (France time)
 
-### name : Malta
-### Population : 425'384
-### Capital : Valletta
-### Region : Europe
-### Languages : Maltese, English
-### Area : 316 km²
-### Neighboring countries : 
+### name : Benin
+### Population : 10'653'654
+### Capital : Porto-Novo
+### Region : Africa
+### Languages : French
+### Area : 112'622 km²
+### Neighboring countries : Burkina Faso, Niger, Nigeria, Togo
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/mlt.svg)
+![](https://restcountries.eu/data/ben.svg)
