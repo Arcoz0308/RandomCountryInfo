@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 09/06/2021, 08:42:37 (France time)
+### last update : 09/06/2021, 14:42:37 (France time)
 
-### name : Benin
-### Population : 10'653'654
-### Capital : Porto-Novo
-### Region : Africa
-### Languages : French
-### Area : 112'622 km²
-### Neighboring countries : Burkina Faso, Niger, Nigeria, Togo
+### name : Sweden
+### Population : 9'894'888
+### Capital : Stockholm
+### Region : Europe
+### Languages : Swedish
+### Area : 450'295 km²
+### Neighboring countries : Finland, Norway
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/ben.svg)
+![](https://restcountries.eu/data/swe.svg)
