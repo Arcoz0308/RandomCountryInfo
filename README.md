@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/06/2021, 23:42:37 (France time)
+### last update : 09/06/2021, 05:42:38 (France time)
 
-### name : Trinidad and Tobago
-### Population : 1'349'667
-### Capital : Port of Spain
-### Region : Americas
-### Languages : English
-### Area : 5'130 km²
+### name : Malta
+### Population : 425'384
+### Capital : Valletta
+### Region : Europe
+### Languages : Maltese, English
+### Area : 316 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/tto.svg)
+![](https://restcountries.eu/data/mlt.svg)
