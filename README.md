@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/06/2021, 03:34:26 (France time)
+### last update : 10/06/2021, 06:34:26 (France time)
 
-### name : Panama
-### Population : 3'814'672
-### Capital : Panama City
+### name : Grenada
+### Population : 103'328
+### Capital : St. George's
 ### Region : Americas
-### Languages : Spanish
-### Area : 75'417 km²
-### Neighboring countries : Colombia, Costa Rica
-### Timezones : UTC-05:00
+### Languages : English
+### Area : 344 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/pan.svg)
+![](https://restcountries.eu/data/grd.svg)
