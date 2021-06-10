@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/06/2021, 15:34:26 (France time)
+### last update : 10/06/2021, 21:34:27 (France time)
 
-### name : Barbados
-### Population : 285'000
-### Capital : Bridgetown
-### Region : Americas
-### Languages : English
-### Area : 430 km²
+### name : Cabo Verde
+### Population : 531'239
+### Capital : Praia
+### Region : Africa
+### Languages : Portuguese
+### Area : 4'033 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC-01:00
 
 ### Flag :
-![](https://restcountries.eu/data/brb.svg)
+![](https://restcountries.eu/data/cpv.svg)
