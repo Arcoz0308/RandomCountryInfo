@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/06/2021, 21:34:27 (France time)
+### last update : 11/06/2021, 00:34:26 (France time)
 
-### name : Cabo Verde
-### Population : 531'239
-### Capital : Praia
-### Region : Africa
-### Languages : Portuguese
-### Area : 4'033 km²
+### name : Northern Mariana Islands
+### Population : 56'940
+### Capital : Saipan
+### Region : Oceania
+### Languages : English, Chamorro
+### Area : 464 km²
 ### Neighboring countries : 
-### Timezones : UTC-01:00
+### Timezones : UTC+10:00
 
 ### Flag :
-![](https://restcountries.eu/data/cpv.svg)
+![](https://restcountries.eu/data/mnp.svg)
