@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/06/2021, 00:56:03 (France time)
+### last update : 11/06/2021, 03:56:03 (France time)
 
-### name : Japan
-### Population : 126'960'000
-### Capital : Tokyo
-### Region : Asia
-### Languages : Japanese
-### Area : 377'930 km²
-### Neighboring countries : 
-### Timezones : UTC+09:00
+### name : Luxembourg
+### Population : 576'200
+### Capital : Luxembourg
+### Region : Europe
+### Languages : French, German, Luxembourgish
+### Area : 2'586 km²
+### Neighboring countries : Belgium, France, Germany
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/jpn.svg)
+![](https://restcountries.eu/data/lux.svg)
