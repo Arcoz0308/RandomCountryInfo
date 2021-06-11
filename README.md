@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/06/2021, 00:34:26 (France time)
+### last update : 11/06/2021, 00:56:03 (France time)
 
-### name : Northern Mariana Islands
-### Population : 56'940
-### Capital : Saipan
-### Region : Oceania
-### Languages : English, Chamorro
-### Area : 464 km²
+### name : Japan
+### Population : 126'960'000
+### Capital : Tokyo
+### Region : Asia
+### Languages : Japanese
+### Area : 377'930 km²
 ### Neighboring countries : 
-### Timezones : UTC+10:00
+### Timezones : UTC+09:00
 
 ### Flag :
-![](https://restcountries.eu/data/mnp.svg)
+![](https://restcountries.eu/data/jpn.svg)
