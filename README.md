@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/06/2021, 18:56:04 (France time)
+### last update : 11/06/2021, 21:56:04 (France time)
 
-### name : Palau
-### Population : 17'950
-### Capital : Ngerulmud
-### Region : Oceania
-### Languages : English
-### Area : 459 km²
+### name : Saint Barthélemy
+### Population : 9'417
+### Capital : Gustavia
+### Region : Americas
+### Languages : French
+### Area : 21 km²
 ### Neighboring countries : 
-### Timezones : UTC+09:00
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/plw.svg)
+![](https://restcountries.eu/data/blm.svg)
