@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/06/2021, 09:56:04 (France time)
+### last update : 11/06/2021, 12:56:04 (France time)
 
-### name : Cuba
-### Population : 11'239'004
-### Capital : Havana
-### Region : Americas
-### Languages : Spanish
-### Area : 109'884 km²
+### name : Nauru
+### Population : 10'084
+### Capital : Yaren
+### Region : Oceania
+### Languages : English, Nauruan
+### Area : 21 km²
 ### Neighboring countries : 
-### Timezones : UTC-05:00
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/cub.svg)
+![](https://restcountries.eu/data/nru.svg)
