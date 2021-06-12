@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/06/2021, 01:13:10 (France time)
+### last update : 12/06/2021, 04:13:12 (France time)
 
-### name : Germany
-### Population : 81'770'900
-### Capital : Berlin
-### Region : Europe
-### Languages : German
-### Area : 357'114 km²
-### Neighboring countries : Austria, Belgium, Czech Republic, Denmark, France, Luxembourg, Netherlands, Poland, Switzerland
-### Timezones : UTC+01:00
+### name : Bangladesh
+### Population : 161'006'790
+### Capital : Dhaka
+### Region : Asia
+### Languages : Bengali
+### Area : 147'570 km²
+### Neighboring countries : Myanmar, India
+### Timezones : UTC+06:00
 
 ### Flag :
-![](https://restcountries.eu/data/deu.svg)
+![](https://restcountries.eu/data/bgd.svg)
