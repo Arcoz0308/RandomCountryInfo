@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/06/2021, 21:56:04 (France time)
+### last update : 12/06/2021, 00:56:04 (France time)
 
-### name : Saint Barthélemy
-### Population : 9'417
-### Capital : Gustavia
-### Region : Americas
-### Languages : French
-### Area : 21 km²
+### name : Fiji
+### Population : 867'000
+### Capital : Suva
+### Region : Oceania
+### Languages : English, Fijian, Hindi, Urdu
+### Area : 18'272 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/blm.svg)
+![](https://restcountries.eu/data/fji.svg)
