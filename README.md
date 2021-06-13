@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/06/2021, 22:13:11 (France time)
+### last update : 13/06/2021, 01:13:11 (France time)
 
-### name : Pitcairn
-### Population : 56
-### Capital : Adamstown
-### Region : Oceania
-### Languages : English
-### Area : 47 km²
-### Neighboring countries : 
-### Timezones : UTC-08:00
+### name : Yemen
+### Population : 27'478'000
+### Capital : Sana'a
+### Region : Asia
+### Languages : Arabic
+### Area : 527'968 km²
+### Neighboring countries : Oman, Saudi Arabia
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/pcn.svg)
+![](https://restcountries.eu/data/yem.svg)
