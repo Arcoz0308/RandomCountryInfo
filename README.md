@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/06/2021, 19:45:56 (France time)
+### last update : 13/06/2021, 22:46:17 (France time)
 
-### name : Paraguay
-### Population : 6'854'536
-### Capital : Asunción
-### Region : Americas
-### Languages : Spanish, Guaraní
-### Area : 406'752 km²
-### Neighboring countries : Argentina, Bolivia (Plurinational State of), Brazil
-### Timezones : UTC-04:00
+### name : Madagascar
+### Population : 22'434'363
+### Capital : Antananarivo
+### Region : Africa
+### Languages : French, Malagasy
+### Area : 587'041 km²
+### Neighboring countries : 
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/pry.svg)
+![](https://restcountries.eu/data/mdg.svg)
