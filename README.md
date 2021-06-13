@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/06/2021, 07:45:56 (France time)
+### last update : 13/06/2021, 10:45:56 (France time)
 
-### name : Tokelau
-### Population : 1'411
-### Capital : Fakaofo
-### Region : Oceania
-### Languages : English
-### Area : 12 km²
+### name : Cabo Verde
+### Population : 531'239
+### Capital : Praia
+### Region : Africa
+### Languages : Portuguese
+### Area : 4'033 km²
 ### Neighboring countries : 
-### Timezones : UTC+13:00
+### Timezones : UTC-01:00
 
 ### Flag :
-![](https://restcountries.eu/data/tkl.svg)
+![](https://restcountries.eu/data/cpv.svg)
