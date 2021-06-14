@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/06/2021, 01:45:56 (France time)
+### last update : 14/06/2021, 02:04:47 (France time)
 
-### name : Djibouti
-### Population : 900'000
-### Capital : Djibouti
+### name : Rwanda
+### Population : 11'553'188
+### Capital : Kigali
 ### Region : Africa
-### Languages : French, Arabic
-### Area : 23'200 km²
-### Neighboring countries : Eritrea, Ethiopia, Somalia
-### Timezones : UTC+03:00
+### Languages : Kinyarwanda, English, French
+### Area : 26'338 km²
+### Neighboring countries : Burundi, Congo (Democratic Republic of the), Tanzania, United Republic of, Uganda
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/dji.svg)
+![](https://restcountries.eu/data/rwa.svg)
