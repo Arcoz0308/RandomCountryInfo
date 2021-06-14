@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/06/2021, 14:04:50 (France time)
+### last update : 14/06/2021, 17:04:47 (France time)
 
-### name : Guinea-Bissau
-### Population : 1'547'777
-### Capital : Bissau
+### name : Malawi
+### Population : 16'832'910
+### Capital : Lilongwe
 ### Region : Africa
-### Languages : Portuguese
-### Area : 36'125 km²
-### Neighboring countries : Guinea, Senegal
-### Timezones : UTC
+### Languages : English, Chichewa
+### Area : 118'484 km²
+### Neighboring countries : Mozambique, Tanzania, United Republic of, Zambia
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/gnb.svg)
+![](https://restcountries.eu/data/mwi.svg)
