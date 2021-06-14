@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/06/2021, 02:04:47 (France time)
+### last update : 14/06/2021, 05:04:48 (France time)
 
-### name : Rwanda
-### Population : 11'553'188
-### Capital : Kigali
-### Region : Africa
-### Languages : Kinyarwanda, English, French
-### Area : 26'338 km²
-### Neighboring countries : Burundi, Congo (Democratic Republic of the), Tanzania, United Republic of, Uganda
-### Timezones : UTC+02:00
+### name : Macedonia (the former Yugoslav Republic of)
+### Population : 2'058'539
+### Capital : Skopje
+### Region : Europe
+### Languages : Macedonian
+### Area : 25'713 km²
+### Neighboring countries : Albania, Bulgaria, Greece, Republic of Kosovo, Serbia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/rwa.svg)
+![](https://restcountries.eu/data/mkd.svg)
