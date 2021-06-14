@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/06/2021, 22:46:17 (France time)
+### last update : 14/06/2021, 01:45:56 (France time)
 
-### name : Madagascar
-### Population : 22'434'363
-### Capital : Antananarivo
+### name : Djibouti
+### Population : 900'000
+### Capital : Djibouti
 ### Region : Africa
-### Languages : French, Malagasy
-### Area : 587'041 km²
-### Neighboring countries : 
+### Languages : French, Arabic
+### Area : 23'200 km²
+### Neighboring countries : Eritrea, Ethiopia, Somalia
 ### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/mdg.svg)
+![](https://restcountries.eu/data/dji.svg)
