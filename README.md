@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/06/2021, 17:04:47 (France time)
+### last update : 14/06/2021, 20:04:47 (France time)
 
-### name : Malawi
-### Population : 16'832'910
-### Capital : Lilongwe
+### name : Gambia
+### Population : 1'882'450
+### Capital : Banjul
 ### Region : Africa
-### Languages : English, Chichewa
-### Area : 118'484 km²
-### Neighboring countries : Mozambique, Tanzania, United Republic of, Zambia
-### Timezones : UTC+02:00
+### Languages : English
+### Area : 11'295 km²
+### Neighboring countries : Senegal
+### Timezones : UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/mwi.svg)
+![](https://restcountries.eu/data/gmb.svg)
