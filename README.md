@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/06/2021, 05:13:45 (France time)
+### last update : 15/06/2021, 08:13:45 (France time)
 
-### name : Lithuania
-### Population : 2'872'294
-### Capital : Vilnius
-### Region : Europe
-### Languages : Lithuanian
-### Area : 65'300 km²
-### Neighboring countries : Belarus, Latvia, Poland, Russian Federation
-### Timezones : UTC+02:00
+### name : Pakistan
+### Population : 194'125'062
+### Capital : Islamabad
+### Region : Asia
+### Languages : English, Urdu
+### Area : 881'912 km²
+### Neighboring countries : Afghanistan, China, India, Iran (Islamic Republic of)
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/ltu.svg)
+![](https://restcountries.eu/data/pak.svg)
