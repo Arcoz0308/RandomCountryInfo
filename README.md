@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/06/2021, 02:13:45 (France time)
+### last update : 15/06/2021, 05:13:45 (France time)
 
-### name : Trinidad and Tobago
-### Population : 1'349'667
-### Capital : Port of Spain
-### Region : Americas
-### Languages : English
-### Area : 5'130 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Lithuania
+### Population : 2'872'294
+### Capital : Vilnius
+### Region : Europe
+### Languages : Lithuanian
+### Area : 65'300 km²
+### Neighboring countries : Belarus, Latvia, Poland, Russian Federation
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/tto.svg)
+![](https://restcountries.eu/data/ltu.svg)
