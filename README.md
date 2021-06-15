@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/06/2021, 20:13:54 (France time)
+### last update : 15/06/2021, 23:13:46 (France time)
 
-### name : United Arab Emirates
-### Population : 9'856'000
-### Capital : Abu Dhabi
-### Region : Asia
-### Languages : Arabic
-### Area : 83'600 km²
-### Neighboring countries : Oman, Saudi Arabia
-### Timezones : UTC+04
+### name : Sierra Leone
+### Population : 7'075'641
+### Capital : Freetown
+### Region : Africa
+### Languages : English
+### Area : 71'740 km²
+### Neighboring countries : Guinea, Liberia
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/are.svg)
+![](https://restcountries.eu/data/sle.svg)
