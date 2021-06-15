@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/06/2021, 23:04:48 (France time)
+### last update : 15/06/2021, 02:04:48 (France time)
 
-### name : Faroe Islands
-### Population : 49'376
-### Capital : Tórshavn
+### name : Isle of Man
+### Population : 84'497
+### Capital : Douglas
 ### Region : Europe
-### Languages : Faroese
-### Area : 1'393 km²
+### Languages : English, Manx
+### Area : 572 km²
 ### Neighboring countries : 
 ### Timezones : UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/fro.svg)
+![](https://restcountries.eu/data/imn.svg)
