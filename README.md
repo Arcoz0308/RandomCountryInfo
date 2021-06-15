@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/06/2021, 17:14:04 (France time)
+### last update : 15/06/2021, 20:13:54 (France time)
 
-### name : Cayman Islands
-### Population : 58'238
-### Capital : George Town
-### Region : Americas
-### Languages : English
-### Area : 264 km²
-### Neighboring countries : 
-### Timezones : UTC-05:00
+### name : United Arab Emirates
+### Population : 9'856'000
+### Capital : Abu Dhabi
+### Region : Asia
+### Languages : Arabic
+### Area : 83'600 km²
+### Neighboring countries : Oman, Saudi Arabia
+### Timezones : UTC+04
 
 ### Flag :
-![](https://restcountries.eu/data/cym.svg)
+![](https://restcountries.eu/data/are.svg)
