@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/06/2021, 15:21:44 (France time)
+### last update : 16/06/2021, 18:21:48 (France time)
 
-### name : Saint Barthélemy
-### Population : 9'417
-### Capital : Gustavia
-### Region : Americas
-### Languages : French
-### Area : 21 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Liechtenstein
+### Population : 37'623
+### Capital : Vaduz
+### Region : Europe
+### Languages : German
+### Area : 160 km²
+### Neighboring countries : Austria, Switzerland
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/blm.svg)
+![](https://restcountries.eu/data/lie.svg)
