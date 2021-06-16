@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/06/2021, 09:21:40 (France time)
+### last update : 16/06/2021, 12:21:41 (France time)
 
-### name : Benin
-### Population : 10'653'654
-### Capital : Porto-Novo
+### name : British Indian Ocean Territory
+### Population : 3'000
+### Capital : Diego Garcia
 ### Region : Africa
-### Languages : French
-### Area : 112'622 km²
-### Neighboring countries : Burkina Faso, Niger, Nigeria, Togo
-### Timezones : UTC+01:00
+### Languages : English
+### Area : 60 km²
+### Neighboring countries : 
+### Timezones : UTC+06:00
 
 ### Flag :
-![](https://restcountries.eu/data/ben.svg)
+![](https://restcountries.eu/data/iot.svg)
