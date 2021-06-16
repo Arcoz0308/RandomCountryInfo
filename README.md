@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/06/2021, 18:21:48 (France time)
+### last update : 16/06/2021, 21:21:39 (France time)
 
-### name : Liechtenstein
-### Population : 37'623
-### Capital : Vaduz
-### Region : Europe
-### Languages : German
-### Area : 160 km²
-### Neighboring countries : Austria, Switzerland
-### Timezones : UTC+01:00
+### name : India
+### Population : 1'295'210'000
+### Capital : New Delhi
+### Region : Asia
+### Languages : Hindi, English
+### Area : 3'287'590 km²
+### Neighboring countries : Afghanistan, Bangladesh, Bhutan, Myanmar, China, Nepal, Pakistan, Sri Lanka
+### Timezones : UTC+05:30
 
 ### Flag :
-![](https://restcountries.eu/data/lie.svg)
+![](https://restcountries.eu/data/ind.svg)
