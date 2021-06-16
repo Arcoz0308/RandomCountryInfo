@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/06/2021, 12:21:41 (France time)
+### last update : 16/06/2021, 15:21:44 (France time)
 
-### name : British Indian Ocean Territory
-### Population : 3'000
-### Capital : Diego Garcia
-### Region : Africa
-### Languages : English
-### Area : 60 km²
+### name : Saint Barthélemy
+### Population : 9'417
+### Capital : Gustavia
+### Region : Americas
+### Languages : French
+### Area : 21 km²
 ### Neighboring countries : 
-### Timezones : UTC+06:00
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/iot.svg)
+![](https://restcountries.eu/data/blm.svg)
