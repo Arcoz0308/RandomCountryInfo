@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/06/2021, 23:13:46 (France time)
+### last update : 16/06/2021, 02:13:46 (France time)
 
-### name : Sierra Leone
-### Population : 7'075'641
-### Capital : Freetown
-### Region : Africa
+### name : Palau
+### Population : 17'950
+### Capital : Ngerulmud
+### Region : Oceania
 ### Languages : English
-### Area : 71'740 km²
-### Neighboring countries : Guinea, Liberia
-### Timezones : UTC
+### Area : 459 km²
+### Neighboring countries : 
+### Timezones : UTC+09:00
 
 ### Flag :
-![](https://restcountries.eu/data/sle.svg)
+![](https://restcountries.eu/data/plw.svg)
