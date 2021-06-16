@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/06/2021, 03:21:40 (France time)
+### last update : 16/06/2021, 09:21:40 (France time)
 
-### name : Belize
-### Population : 370'300
-### Capital : Belmopan
-### Region : Americas
-### Languages : English, Spanish
-### Area : 22'966 km²
-### Neighboring countries : Guatemala, Mexico
-### Timezones : UTC-06:00
+### name : Benin
+### Population : 10'653'654
+### Capital : Porto-Novo
+### Region : Africa
+### Languages : French
+### Area : 112'622 km²
+### Neighboring countries : Burkina Faso, Niger, Nigeria, Togo
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/blz.svg)
+![](https://restcountries.eu/data/ben.svg)
