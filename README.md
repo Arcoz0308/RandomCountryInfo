@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/06/2021, 21:21:39 (France time)
+### last update : 17/06/2021, 00:21:40 (France time)
 
-### name : India
-### Population : 1'295'210'000
-### Capital : New Delhi
-### Region : Asia
-### Languages : Hindi, English
-### Area : 3'287'590 km²
-### Neighboring countries : Afghanistan, Bangladesh, Bhutan, Myanmar, China, Nepal, Pakistan, Sri Lanka
-### Timezones : UTC+05:30
+### name : Spain
+### Population : 46'438'422
+### Capital : Madrid
+### Region : Europe
+### Languages : Spanish
+### Area : 505'992 km²
+### Neighboring countries : Andorra, France, Gibraltar, Portugal, Morocco
+### Timezones : UTC, UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/ind.svg)
+![](https://restcountries.eu/data/esp.svg)
