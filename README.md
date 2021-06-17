@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 17/06/2021, 00:21:40 (France time)
+### last update : 17/06/2021, 03:53:25 (France time)
 
-### name : Spain
-### Population : 46'438'422
-### Capital : Madrid
-### Region : Europe
-### Languages : Spanish
-### Area : 505'992 km²
-### Neighboring countries : Andorra, France, Gibraltar, Portugal, Morocco
-### Timezones : UTC, UTC+01:00
+### name : New Zealand
+### Population : 4'697'854
+### Capital : Wellington
+### Region : Oceania
+### Languages : English, Māori
+### Area : 270'467 km²
+### Neighboring countries : 
+### Timezones : UTC-11:00, UTC-10:00, UTC+12:00, UTC+12:45, UTC+13:00
 
 ### Flag :
-![](https://restcountries.eu/data/esp.svg)
+![](https://restcountries.eu/data/nzl.svg)
