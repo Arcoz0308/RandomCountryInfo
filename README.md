@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 17/06/2021, 15:53:27 (France time)
+### last update : 17/06/2021, 18:53:26 (France time)
 
-### name : Croatia
-### Population : 4'190'669
-### Capital : Zagreb
-### Region : Europe
-### Languages : Croatian
-### Area : 56'594 km²
-### Neighboring countries : Bosnia and Herzegovina, Hungary, Montenegro, Serbia, Slovenia
-### Timezones : UTC+01:00
+### name : Belize
+### Population : 370'300
+### Capital : Belmopan
+### Region : Americas
+### Languages : English, Spanish
+### Area : 22'966 km²
+### Neighboring countries : Guatemala, Mexico
+### Timezones : UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/hrv.svg)
+![](https://restcountries.eu/data/blz.svg)
