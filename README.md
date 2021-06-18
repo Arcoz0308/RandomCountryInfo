@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 17/06/2021, 21:53:26 (France time)
+### last update : 18/06/2021, 00:53:26 (France time)
 
-### name : Azerbaijan
-### Population : 9'730'500
-### Capital : Baku
-### Region : Asia
-### Languages : Azerbaijani
-### Area : 86'600 km²
-### Neighboring countries : Armenia, Georgia, Iran (Islamic Republic of), Russian Federation, Turkey
-### Timezones : UTC+04:00
+### name : Ethiopia
+### Population : 92'206'005
+### Capital : Addis Ababa
+### Region : Africa
+### Languages : Amharic
+### Area : 1'104'300 km²
+### Neighboring countries : Djibouti, Eritrea, Kenya, Somalia, South Sudan, Sudan
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/aze.svg)
+![](https://restcountries.eu/data/eth.svg)
