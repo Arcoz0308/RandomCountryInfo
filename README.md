@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/06/2021, 04:15:41 (France time)
+### last update : 18/06/2021, 07:15:41 (France time)
 
-### name : Anguilla
-### Population : 13'452
-### Capital : The Valley
-### Region : Americas
+### name : Papua New Guinea
+### Population : 8'083'700
+### Capital : Port Moresby
+### Region : Oceania
 ### Languages : English
-### Area : 91 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### Area : 462'840 km²
+### Neighboring countries : Indonesia
+### Timezones : UTC+10:00
 
 ### Flag :
-![](https://restcountries.eu/data/aia.svg)
+![](https://restcountries.eu/data/png.svg)
