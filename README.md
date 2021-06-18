@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/06/2021, 16:15:43 (France time)
+### last update : 18/06/2021, 19:15:41 (France time)
 
-### name : Turkmenistan
-### Population : 4'751'120
-### Capital : Ashgabat
+### name : Myanmar
+### Population : 51'419'420
+### Capital : Naypyidaw
 ### Region : Asia
-### Languages : Turkmen, Russian
-### Area : 488'100 km²
-### Neighboring countries : Afghanistan, Iran (Islamic Republic of), Kazakhstan, Uzbekistan
-### Timezones : UTC+05:00
+### Languages : Burmese
+### Area : 676'578 km²
+### Neighboring countries : Bangladesh, China, India, Lao People's Democratic Republic, Thailand
+### Timezones : UTC+06:30
 
 ### Flag :
-![](https://restcountries.eu/data/tkm.svg)
+![](https://restcountries.eu/data/mmr.svg)
