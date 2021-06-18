@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/06/2021, 19:15:41 (France time)
+### last update : 18/06/2021, 22:15:42 (France time)
 
-### name : Myanmar
-### Population : 51'419'420
-### Capital : Naypyidaw
+### name : Uzbekistan
+### Population : 31'576'400
+### Capital : Tashkent
 ### Region : Asia
-### Languages : Burmese
-### Area : 676'578 km²
-### Neighboring countries : Bangladesh, China, India, Lao People's Democratic Republic, Thailand
-### Timezones : UTC+06:30
+### Languages : Uzbek, Russian
+### Area : 447'400 km²
+### Neighboring countries : Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/mmr.svg)
+![](https://restcountries.eu/data/uzb.svg)
