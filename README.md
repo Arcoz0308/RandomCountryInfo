@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/06/2021, 22:15:42 (France time)
+### last update : 19/06/2021, 01:15:42 (France time)
 
-### name : Uzbekistan
-### Population : 31'576'400
-### Capital : Tashkent
-### Region : Asia
-### Languages : Uzbek, Russian
-### Area : 447'400 km²
-### Neighboring countries : Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan
-### Timezones : UTC+05:00
+### name : Algeria
+### Population : 40'400'000
+### Capital : Algiers
+### Region : Africa
+### Languages : Arabic
+### Area : 2'381'741 km²
+### Neighboring countries : Tunisia, Libya, Niger, Western Sahara, Mauritania, Mali, Morocco
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/uzb.svg)
+![](https://restcountries.eu/data/dza.svg)
