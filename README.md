@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/06/2021, 04:15:42 (France time)
+### last update : 19/06/2021, 04:36:21 (France time)
 
-### name : Somalia
-### Population : 11'079'000
-### Capital : Mogadishu
-### Region : Africa
-### Languages : Somali, Arabic
-### Area : 637'657 km²
-### Neighboring countries : Djibouti, Ethiopia, Kenya
-### Timezones : UTC+03:00
+### name : Costa Rica
+### Population : 4'890'379
+### Capital : San José
+### Region : Americas
+### Languages : Spanish
+### Area : 51'100 km²
+### Neighboring countries : Nicaragua, Panama
+### Timezones : UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/som.svg)
+![](https://restcountries.eu/data/cri.svg)
