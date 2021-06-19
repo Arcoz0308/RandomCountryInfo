@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/06/2021, 16:36:26 (France time)
+### last update : 19/06/2021, 19:36:39 (France time)
 
-### name : Equatorial Guinea
-### Population : 1'222'442
-### Capital : Malabo
-### Region : Africa
-### Languages : Spanish, French
-### Area : 28'051 km²
-### Neighboring countries : Cameroon, Gabon
+### name : Albania
+### Population : 2'886'026
+### Capital : Tirana
+### Region : Europe
+### Languages : Albanian
+### Area : 28'748 km²
+### Neighboring countries : Montenegro, Greece, Macedonia (the former Yugoslav Republic of), Republic of Kosovo
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/gnq.svg)
+![](https://restcountries.eu/data/alb.svg)
