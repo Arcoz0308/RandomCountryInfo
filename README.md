@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 20/06/2021, 10:46:19 (France time)
+### last update : 20/06/2021, 13:46:24 (France time)
 
-### name : Bangladesh
-### Population : 161'006'790
-### Capital : Dhaka
-### Region : Asia
-### Languages : Bengali
-### Area : 147'570 km²
-### Neighboring countries : Myanmar, India
-### Timezones : UTC+06:00
+### name : Ethiopia
+### Population : 92'206'005
+### Capital : Addis Ababa
+### Region : Africa
+### Languages : Amharic
+### Area : 1'104'300 km²
+### Neighboring countries : Djibouti, Eritrea, Kenya, Somalia, South Sudan, Sudan
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/bgd.svg)
+![](https://restcountries.eu/data/eth.svg)
