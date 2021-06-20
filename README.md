@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 20/06/2021, 13:46:24 (France time)
+### last update : 20/06/2021, 16:46:22 (France time)
 
-### name : Ethiopia
-### Population : 92'206'005
-### Capital : Addis Ababa
-### Region : Africa
-### Languages : Amharic
-### Area : 1'104'300 km²
-### Neighboring countries : Djibouti, Eritrea, Kenya, Somalia, South Sudan, Sudan
-### Timezones : UTC+03:00
+### name : Cambodia
+### Population : 15'626'444
+### Capital : Phnom Penh
+### Region : Asia
+### Languages : Khmer
+### Area : 181'035 km²
+### Neighboring countries : Lao People's Democratic Republic, Thailand, Viet Nam
+### Timezones : UTC+07:00
 
 ### Flag :
-![](https://restcountries.eu/data/eth.svg)
+![](https://restcountries.eu/data/khm.svg)
