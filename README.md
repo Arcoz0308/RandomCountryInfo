@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/06/2021, 08:48:37 (France time)
+### last update : 21/06/2021, 11:48:37 (France time)
 
-### name : Singapore
-### Population : 5'535'000
-### Capital : Singapore
-### Region : Asia
-### Languages : English, Malay, Tamil, Chinese
-### Area : 710 km²
+### name : Seychelles
+### Population : 91'400
+### Capital : Victoria
+### Region : Africa
+### Languages : French, English
+### Area : 452 km²
 ### Neighboring countries : 
-### Timezones : UTC+08:00
+### Timezones : UTC+04:00
 
 ### Flag :
-![](https://restcountries.eu/data/sgp.svg)
+![](https://restcountries.eu/data/syc.svg)
