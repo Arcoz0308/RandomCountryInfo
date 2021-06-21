@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/06/2021, 04:46:20 (France time)
+### last update : 21/06/2021, 05:48:37 (France time)
 
-### name : Haiti
-### Population : 11'078'033
-### Capital : Port-au-Prince
+### name : Puerto Rico
+### Population : 3'474'182
+### Capital : San Juan
 ### Region : Americas
-### Languages : French, Haitian
-### Area : 27'750 km²
-### Neighboring countries : Dominican Republic
-### Timezones : UTC-05:00
+### Languages : Spanish, English
+### Area : 8'870 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/hti.svg)
+![](https://restcountries.eu/data/pri.svg)
