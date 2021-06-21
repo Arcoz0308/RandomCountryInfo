@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/06/2021, 14:48:40 (France time)
+### last update : 21/06/2021, 17:48:37 (France time)
 
-### name : Korea (Republic of)
-### Population : 50'801'405
-### Capital : Seoul
-### Region : Asia
-### Languages : Korean
-### Area : 100'210 km²
-### Neighboring countries : Korea (Democratic People's Republic of)
-### Timezones : UTC+09:00
+### name : Cuba
+### Population : 11'239'004
+### Capital : Havana
+### Region : Americas
+### Languages : Spanish
+### Area : 109'884 km²
+### Neighboring countries : 
+### Timezones : UTC-05:00
 
 ### Flag :
-![](https://restcountries.eu/data/kor.svg)
+![](https://restcountries.eu/data/cub.svg)
