@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/06/2021, 20:48:37 (France time)
+### last update : 21/06/2021, 23:48:37 (France time)
 
-### name : Bolivia (Plurinational State of)
-### Population : 10'985'059
-### Capital : Sucre
-### Region : Americas
-### Languages : Spanish, Aymara, Quechua
-### Area : 1'098'581 km²
-### Neighboring countries : Argentina, Brazil, Chile, Paraguay, Peru
-### Timezones : UTC-04:00
+### name : Poland
+### Population : 38'437'239
+### Capital : Warsaw
+### Region : Europe
+### Languages : Polish
+### Area : 312'679 km²
+### Neighboring countries : Belarus, Czech Republic, Germany, Lithuania, Russian Federation, Slovakia, Ukraine
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/bol.svg)
+![](https://restcountries.eu/data/pol.svg)
