@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/06/2021, 17:48:37 (France time)
+### last update : 21/06/2021, 20:48:37 (France time)
 
-### name : Cuba
-### Population : 11'239'004
-### Capital : Havana
+### name : Bolivia (Plurinational State of)
+### Population : 10'985'059
+### Capital : Sucre
 ### Region : Americas
-### Languages : Spanish
-### Area : 109'884 km²
-### Neighboring countries : 
-### Timezones : UTC-05:00
+### Languages : Spanish, Aymara, Quechua
+### Area : 1'098'581 km²
+### Neighboring countries : Argentina, Brazil, Chile, Paraguay, Peru
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/cub.svg)
+![](https://restcountries.eu/data/bol.svg)
