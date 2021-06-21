@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/06/2021, 23:48:37 (France time)
+### last update : 21/06/2021, 23:55:28 (France time)
 
-### name : Poland
-### Population : 38'437'239
-### Capital : Warsaw
-### Region : Europe
-### Languages : Polish
-### Area : 312'679 km²
-### Neighboring countries : Belarus, Czech Republic, Germany, Lithuania, Russian Federation, Slovakia, Ukraine
-### Timezones : UTC+01:00
+### name : Norfolk Island
+### Population : 2'302
+### Capital : Kingston
+### Region : Oceania
+### Languages : English
+### Area : 36 km²
+### Neighboring countries : 
+### Timezones : UTC+11:30
 
 ### Flag :
-![](https://restcountries.eu/data/pol.svg)
+![](https://restcountries.eu/data/nfk.svg)
