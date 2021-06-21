@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/06/2021, 05:48:37 (France time)
+### last update : 21/06/2021, 08:48:37 (France time)
 
-### name : Puerto Rico
-### Population : 3'474'182
-### Capital : San Juan
-### Region : Americas
-### Languages : Spanish, English
-### Area : 8'870 km²
+### name : Singapore
+### Population : 5'535'000
+### Capital : Singapore
+### Region : Asia
+### Languages : English, Malay, Tamil, Chinese
+### Area : 710 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+08:00
 
 ### Flag :
-![](https://restcountries.eu/data/pri.svg)
+![](https://restcountries.eu/data/sgp.svg)
