@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 22/06/2021, 14:55:28 (France time)
+### last update : 22/06/2021, 17:55:28 (France time)
 
-### name : Jordan
-### Population : 9'531'712
-### Capital : Amman
-### Region : Asia
-### Languages : Arabic
-### Area : 89'342 km²
-### Neighboring countries : Iraq, Israel, Saudi Arabia, Syrian Arab Republic
-### Timezones : UTC+03:00
+### name : Puerto Rico
+### Population : 3'474'182
+### Capital : San Juan
+### Region : Americas
+### Languages : Spanish, English
+### Area : 8'870 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/jor.svg)
+![](https://restcountries.eu/data/pri.svg)
