@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 22/06/2021, 02:55:28 (France time)
+### last update : 22/06/2021, 08:55:28 (France time)
 
-### name : Honduras
-### Population : 8'576'532
-### Capital : Tegucigalpa
-### Region : Americas
-### Languages : Spanish
-### Area : 112'492 km²
-### Neighboring countries : Guatemala, El Salvador, Nicaragua
-### Timezones : UTC-06:00
+### name : Uganda
+### Population : 33'860'700
+### Capital : Kampala
+### Region : Africa
+### Languages : English, Swahili
+### Area : 241'550 km²
+### Neighboring countries : Congo (Democratic Republic of the), Kenya, Rwanda, South Sudan, Tanzania, United Republic of
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/hnd.svg)
+![](https://restcountries.eu/data/uga.svg)
