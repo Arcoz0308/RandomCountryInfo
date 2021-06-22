@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 22/06/2021, 20:55:28 (France time)
+### last update : 22/06/2021, 23:55:28 (France time)
 
-### name : Georgia
-### Population : 3'720'400
-### Capital : Tbilisi
-### Region : Asia
-### Languages : Georgian
-### Area : 69'700 km²
-### Neighboring countries : Armenia, Azerbaijan, Russian Federation, Turkey
-### Timezones : UTC-05:00
+### name : Greenland
+### Population : 55'847
+### Capital : Nuuk
+### Region : Americas
+### Languages : Kalaallisut
+### Area : 2'166'086 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00, UTC-03:00, UTC-01:00, UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/geo.svg)
+![](https://restcountries.eu/data/grl.svg)
