@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/06/2021, 03:17:27 (France time)
+### last update : 23/06/2021, 06:17:27 (France time)
 
-### name : Togo
-### Population : 7'143'000
-### Capital : Lomé
-### Region : Africa
-### Languages : French
-### Area : 56'785 km²
-### Neighboring countries : Benin, Burkina Faso, Ghana
-### Timezones : UTC
+### name : Romania
+### Population : 19'861'408
+### Capital : Bucharest
+### Region : Europe
+### Languages : Romanian
+### Area : 238'391 km²
+### Neighboring countries : Bulgaria, Hungary, Moldova (Republic of), Serbia, Ukraine
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/tgo.svg)
+![](https://restcountries.eu/data/rou.svg)
