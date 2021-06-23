@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/06/2021, 00:17:27 (France time)
+### last update : 23/06/2021, 03:17:27 (France time)
 
-### name : Egypt
-### Population : 91'290'000
-### Capital : Cairo
+### name : Togo
+### Population : 7'143'000
+### Capital : Lomé
 ### Region : Africa
-### Languages : Arabic
-### Area : 1'002'450 km²
-### Neighboring countries : Israel, Libya, Sudan
-### Timezones : UTC+02:00
+### Languages : French
+### Area : 56'785 km²
+### Neighboring countries : Benin, Burkina Faso, Ghana
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/egy.svg)
+![](https://restcountries.eu/data/tgo.svg)
