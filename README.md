@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/06/2021, 09:17:27 (France time)
+### last update : 23/06/2021, 12:17:28 (France time)
 
-### name : Curaçao
-### Population : 154'843
-### Capital : Willemstad
-### Region : Americas
-### Languages : Dutch, (Eastern) Punjabi, English
-### Area : 444 km²
+### name : Nauru
+### Population : 10'084
+### Capital : Yaren
+### Region : Oceania
+### Languages : English, Nauruan
+### Area : 21 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/cuw.svg)
+![](https://restcountries.eu/data/nru.svg)
