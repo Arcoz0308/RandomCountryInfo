@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/06/2021, 18:17:28 (France time)
+### last update : 23/06/2021, 21:17:27 (France time)
 
-### name : Dominica
-### Population : 71'293
-### Capital : Roseau
-### Region : Americas
+### name : Ghana
+### Population : 27'670'174
+### Capital : Accra
+### Region : Africa
 ### Languages : English
-### Area : 751 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### Area : 238'533 km²
+### Neighboring countries : Burkina Faso, Côte d'Ivoire, Togo
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/dma.svg)
+![](https://restcountries.eu/data/gha.svg)
