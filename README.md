@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 24/06/2021, 12:40:09 (France time)
+### last update : 24/06/2021, 15:40:09 (France time)
 
-### name : Djibouti
-### Population : 900'000
-### Capital : Djibouti
-### Region : Africa
-### Languages : French, Arabic
-### Area : 23'200 km²
-### Neighboring countries : Eritrea, Ethiopia, Somalia
-### Timezones : UTC+03:00
+### name : Myanmar
+### Population : 51'419'420
+### Capital : Naypyidaw
+### Region : Asia
+### Languages : Burmese
+### Area : 676'578 km²
+### Neighboring countries : Bangladesh, China, India, Lao People's Democratic Republic, Thailand
+### Timezones : UTC+06:30
 
 ### Flag :
-![](https://restcountries.eu/data/dji.svg)
+![](https://restcountries.eu/data/mmr.svg)
