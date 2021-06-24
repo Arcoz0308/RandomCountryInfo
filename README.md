@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 24/06/2021, 03:40:09 (France time)
+### last update : 24/06/2021, 06:40:09 (France time)
 
-### name : Djibouti
-### Population : 900'000
-### Capital : Djibouti
-### Region : Africa
-### Languages : French, Arabic
-### Area : 23'200 km²
-### Neighboring countries : Eritrea, Ethiopia, Somalia
-### Timezones : UTC+03:00
+### name : Micronesia (Federated States of)
+### Population : 102'800
+### Capital : Palikir
+### Region : Oceania
+### Languages : English
+### Area : 702 km²
+### Neighboring countries : 
+### Timezones : UTC+10:00, UTC+11
 
 ### Flag :
-![](https://restcountries.eu/data/dji.svg)
+![](https://restcountries.eu/data/fsm.svg)
