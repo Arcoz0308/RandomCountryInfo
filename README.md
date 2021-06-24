@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 24/06/2021, 09:40:09 (France time)
+### last update : 24/06/2021, 12:40:09 (France time)
 
-### name : Afghanistan
-### Population : 27'657'145
-### Capital : Kabul
-### Region : Asia
-### Languages : Pashto, Uzbek, Turkmen
-### Area : 652'230 km²
-### Neighboring countries : Iran (Islamic Republic of), Pakistan, Turkmenistan, Uzbekistan, Tajikistan, China
-### Timezones : UTC+04:30
+### name : Djibouti
+### Population : 900'000
+### Capital : Djibouti
+### Region : Africa
+### Languages : French, Arabic
+### Area : 23'200 km²
+### Neighboring countries : Eritrea, Ethiopia, Somalia
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/afg.svg)
+![](https://restcountries.eu/data/dji.svg)
