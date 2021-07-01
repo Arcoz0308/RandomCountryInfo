@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/07/2021, 05:03:17 (France time)
+### last update : 01/07/2021, 08:03:17 (France time)
 
-### name : Ukraine
-### Population : 42'692'393
-### Capital : Kiev
-### Region : Europe
-### Languages : Ukrainian
-### Area : 603'700 km²
-### Neighboring countries : Belarus, Hungary, Moldova (Republic of), Poland, Romania, Russian Federation, Slovakia
-### Timezones : UTC+02:00
+### name : Tajikistan
+### Population : 8'593'600
+### Capital : Dushanbe
+### Region : Asia
+### Languages : Tajik, Russian
+### Area : 143'100 km²
+### Neighboring countries : Afghanistan, China, Kyrgyzstan, Uzbekistan
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/ukr.svg)
+![](https://restcountries.eu/data/tjk.svg)
