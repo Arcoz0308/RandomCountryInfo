@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 25/06/2021, 07:07:44 (France time)
+### last update : 01/07/2021, 00:35:48 (France time)
 
-### name : Nauru
-### Population : 10'084
-### Capital : Yaren
-### Region : Oceania
-### Languages : English, Nauruan
-### Area : 21 km²
-### Neighboring countries : 
-### Timezones : UTC+12:00
+### name : Haiti
+### Population : 11'078'033
+### Capital : Port-au-Prince
+### Region : Americas
+### Languages : French, Haitian
+### Area : 27'750 km²
+### Neighboring countries : Dominican Republic
+### Timezones : UTC-05:00
 
 ### Flag :
-![](https://restcountries.eu/data/nru.svg)
+![](https://restcountries.eu/data/hti.svg)
