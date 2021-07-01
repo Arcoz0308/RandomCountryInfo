@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/07/2021, 11:03:17 (France time)
+### last update : 01/07/2021, 14:03:18 (France time)
 
-### name : Guatemala
-### Population : 16'176'133
-### Capital : Guatemala City
+### name : Virgin Islands (British)
+### Population : 28'514
+### Capital : Road Town
 ### Region : Americas
-### Languages : Spanish
-### Area : 108'889 km²
-### Neighboring countries : Belize, El Salvador, Honduras, Mexico
-### Timezones : UTC-06:00
+### Languages : English
+### Area : 151 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/gtm.svg)
+![](https://restcountries.eu/data/vgb.svg)
