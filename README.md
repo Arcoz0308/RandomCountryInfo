@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/07/2021, 20:03:18 (France time)
+### last update : 01/07/2021, 23:03:18 (France time)
 
-### name : Micronesia (Federated States of)
-### Population : 102'800
-### Capital : Palikir
-### Region : Oceania
-### Languages : English
-### Area : 702 km²
-### Neighboring countries : 
-### Timezones : UTC+10:00, UTC+11
+### name : Korea (Republic of)
+### Population : 50'801'405
+### Capital : Seoul
+### Region : Asia
+### Languages : Korean
+### Area : 100'210 km²
+### Neighboring countries : Korea (Democratic People's Republic of)
+### Timezones : UTC+09:00
 
 ### Flag :
-![](https://restcountries.eu/data/fsm.svg)
+![](https://restcountries.eu/data/kor.svg)
