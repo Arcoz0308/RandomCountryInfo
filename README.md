@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/07/2021, 14:03:18 (France time)
+### last update : 01/07/2021, 17:03:18 (France time)
 
-### name : Virgin Islands (British)
-### Population : 28'514
-### Capital : Road Town
-### Region : Americas
+### name : Christmas Island
+### Population : 2'072
+### Capital : Flying Fish Cove
+### Region : Oceania
 ### Languages : English
-### Area : 151 km²
+### Area : 135 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+07:00
 
 ### Flag :
-![](https://restcountries.eu/data/vgb.svg)
+![](https://restcountries.eu/data/cxr.svg)
