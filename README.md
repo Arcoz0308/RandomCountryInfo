@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/07/2021, 17:03:18 (France time)
+### last update : 01/07/2021, 20:03:18 (France time)
 
-### name : Christmas Island
-### Population : 2'072
-### Capital : Flying Fish Cove
+### name : Micronesia (Federated States of)
+### Population : 102'800
+### Capital : Palikir
 ### Region : Oceania
 ### Languages : English
-### Area : 135 km²
+### Area : 702 km²
 ### Neighboring countries : 
-### Timezones : UTC+07:00
+### Timezones : UTC+10:00, UTC+11
 
 ### Flag :
-![](https://restcountries.eu/data/cxr.svg)
+![](https://restcountries.eu/data/fsm.svg)
