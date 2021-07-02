@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/07/2021, 02:04:08 (France time)
+### last update : 02/07/2021, 05:04:08 (France time)
 
-### name : Sierra Leone
-### Population : 7'075'641
-### Capital : Freetown
-### Region : Africa
+### name : Turks and Caicos Islands
+### Population : 31'458
+### Capital : Cockburn Town
+### Region : Americas
 ### Languages : English
-### Area : 71'740 km²
-### Neighboring countries : Guinea, Liberia
-### Timezones : UTC
+### Area : 948 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/sle.svg)
+![](https://restcountries.eu/data/tca.svg)
