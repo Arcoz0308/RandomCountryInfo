@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/07/2021, 05:04:08 (France time)
+### last update : 02/07/2021, 08:04:08 (France time)
 
-### name : Turks and Caicos Islands
-### Population : 31'458
-### Capital : Cockburn Town
-### Region : Americas
-### Languages : English
-### Area : 948 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Jordan
+### Population : 9'531'712
+### Capital : Amman
+### Region : Asia
+### Languages : Arabic
+### Area : 89'342 km²
+### Neighboring countries : Iraq, Israel, Saudi Arabia, Syrian Arab Republic
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/tca.svg)
+![](https://restcountries.eu/data/jor.svg)
