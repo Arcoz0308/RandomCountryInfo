@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/07/2021, 08:04:08 (France time)
+### last update : 02/07/2021, 11:04:08 (France time)
 
-### name : Jordan
-### Population : 9'531'712
-### Capital : Amman
-### Region : Asia
-### Languages : Arabic
-### Area : 89'342 km²
-### Neighboring countries : Iraq, Israel, Saudi Arabia, Syrian Arab Republic
-### Timezones : UTC+03:00
+### name : Barbados
+### Population : 285'000
+### Capital : Bridgetown
+### Region : Americas
+### Languages : English
+### Area : 430 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/jor.svg)
+![](https://restcountries.eu/data/brb.svg)
