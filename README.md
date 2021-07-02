@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/07/2021, 11:04:08 (France time)
+### last update : 02/07/2021, 14:04:13 (France time)
 
-### name : Barbados
-### Population : 285'000
-### Capital : Bridgetown
-### Region : Americas
-### Languages : English
-### Area : 430 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Korea (Republic of)
+### Population : 50'801'405
+### Capital : Seoul
+### Region : Asia
+### Languages : Korean
+### Area : 100'210 km²
+### Neighboring countries : Korea (Democratic People's Republic of)
+### Timezones : UTC+09:00
 
 ### Flag :
-![](https://restcountries.eu/data/brb.svg)
+![](https://restcountries.eu/data/kor.svg)
