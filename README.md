@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/07/2021, 23:03:18 (France time)
+### last update : 02/07/2021, 02:03:18 (France time)
 
-### name : Korea (Republic of)
-### Population : 50'801'405
-### Capital : Seoul
-### Region : Asia
-### Languages : Korean
-### Area : 100'210 km²
-### Neighboring countries : Korea (Democratic People's Republic of)
-### Timezones : UTC+09:00
+### name : Angola
+### Population : 25'868'000
+### Capital : Luanda
+### Region : Africa
+### Languages : Portuguese
+### Area : 1'246'700 km²
+### Neighboring countries : Congo, Congo (Democratic Republic of the), Zambia, Namibia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/kor.svg)
+![](https://restcountries.eu/data/ago.svg)
