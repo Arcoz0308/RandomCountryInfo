@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/07/2021, 17:04:08 (France time)
+### last update : 02/07/2021, 20:04:10 (France time)
 
-### name : Puerto Rico
-### Population : 3'474'182
-### Capital : San Juan
-### Region : Americas
-### Languages : Spanish, English
-### Area : 8'870 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Finland
+### Population : 5'491'817
+### Capital : Helsinki
+### Region : Europe
+### Languages : Finnish, Swedish
+### Area : 338'424 km²
+### Neighboring countries : Norway, Sweden, Russian Federation
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/pri.svg)
+![](https://restcountries.eu/data/fin.svg)
