@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/07/2021, 20:16:32 (France time)
+### last update : 03/07/2021, 23:16:31 (France time)
 
-### name : Australia
-### Population : 24'117'360
-### Capital : Canberra
-### Region : Oceania
-### Languages : English
-### Area : 7'692'024 km²
-### Neighboring countries : 
-### Timezones : UTC+05:00, UTC+06:30, UTC+07:00, UTC+08:00, UTC+09:30, UTC+10:00, UTC+10:30, UTC+11:30
+### name : Hong Kong
+### Population : 7'324'300
+### Capital : City of Victoria
+### Region : Asia
+### Languages : English, Chinese
+### Area : 1'104 km²
+### Neighboring countries : China
+### Timezones : UTC+08:00
 
 ### Flag :
-![](https://restcountries.eu/data/aus.svg)
+![](https://restcountries.eu/data/hkg.svg)
