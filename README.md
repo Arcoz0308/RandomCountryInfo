@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/07/2021, 05:16:31 (France time)
+### last update : 03/07/2021, 08:16:31 (France time)
 
-### name : Myanmar
-### Population : 51'419'420
-### Capital : Naypyidaw
-### Region : Asia
-### Languages : Burmese
-### Area : 676'578 km²
-### Neighboring countries : Bangladesh, China, India, Lao People's Democratic Republic, Thailand
-### Timezones : UTC+06:30
+### name : Pitcairn
+### Population : 56
+### Capital : Adamstown
+### Region : Oceania
+### Languages : English
+### Area : 47 km²
+### Neighboring countries : 
+### Timezones : UTC-08:00
 
 ### Flag :
-![](https://restcountries.eu/data/mmr.svg)
+![](https://restcountries.eu/data/pcn.svg)
