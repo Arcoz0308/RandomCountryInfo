@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/07/2021, 23:04:09 (France time)
+### last update : 03/07/2021, 02:04:09 (France time)
 
-### name : Korea (Democratic People's Republic of)
-### Population : 25'281'000
-### Capital : Pyongyang
-### Region : Asia
-### Languages : Korean
-### Area : 120'538 km²
-### Neighboring countries : China, Korea (Republic of), Russian Federation
-### Timezones : UTC+09:00
+### name : Russian Federation
+### Population : 146'599'183
+### Capital : Moscow
+### Region : Europe
+### Languages : Russian
+### Area : 17'124'442 km²
+### Neighboring countries : Azerbaijan, Belarus, China, Estonia, Finland, Georgia, Kazakhstan, Korea (Democratic People's Republic of), Latvia, Lithuania, Mongolia, Norway, Poland, Ukraine
+### Timezones : UTC+03:00, UTC+04:00, UTC+06:00, UTC+07:00, UTC+08:00, UTC+09:00, UTC+10:00, UTC+11:00, UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/prk.svg)
+![](https://restcountries.eu/data/rus.svg)
