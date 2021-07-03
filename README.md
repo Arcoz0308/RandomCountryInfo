@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/07/2021, 14:16:32 (France time)
+### last update : 03/07/2021, 17:16:31 (France time)
 
-### name : Christmas Island
-### Population : 2'072
-### Capital : Flying Fish Cove
-### Region : Oceania
-### Languages : English
-### Area : 135 km²
+### name : Åland Islands
+### Population : 28'875
+### Capital : Mariehamn
+### Region : Europe
+### Languages : Swedish
+### Area : 1'580 km²
 ### Neighboring countries : 
-### Timezones : UTC+07:00
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/cxr.svg)
+![](https://restcountries.eu/data/ala.svg)
