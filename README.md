@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/07/2021, 11:16:31 (France time)
+### last update : 03/07/2021, 14:16:32 (France time)
 
-### name : Nigeria
-### Population : 186'988'000
-### Capital : Abuja
-### Region : Africa
+### name : Christmas Island
+### Population : 2'072
+### Capital : Flying Fish Cove
+### Region : Oceania
 ### Languages : English
-### Area : 923'768 km²
-### Neighboring countries : Benin, Cameroon, Chad, Niger
-### Timezones : UTC+01:00
+### Area : 135 km²
+### Neighboring countries : 
+### Timezones : UTC+07:00
 
 ### Flag :
-![](https://restcountries.eu/data/nga.svg)
+![](https://restcountries.eu/data/cxr.svg)
