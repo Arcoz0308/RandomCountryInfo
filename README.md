@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/07/2021, 17:16:31 (France time)
+### last update : 03/07/2021, 20:16:32 (France time)
 
-### name : Åland Islands
-### Population : 28'875
-### Capital : Mariehamn
-### Region : Europe
-### Languages : Swedish
-### Area : 1'580 km²
+### name : Australia
+### Population : 24'117'360
+### Capital : Canberra
+### Region : Oceania
+### Languages : English
+### Area : 7'692'024 km²
 ### Neighboring countries : 
-### Timezones : UTC+02:00
+### Timezones : UTC+05:00, UTC+06:30, UTC+07:00, UTC+08:00, UTC+09:30, UTC+10:00, UTC+10:30, UTC+11:30
 
 ### Flag :
-![](https://restcountries.eu/data/ala.svg)
+![](https://restcountries.eu/data/aus.svg)
