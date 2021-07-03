@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/07/2021, 02:16:31 (France time)
+### last update : 03/07/2021, 05:16:31 (France time)
 
-### name : Maldives
-### Population : 344'023
-### Capital : Malé
+### name : Myanmar
+### Population : 51'419'420
+### Capital : Naypyidaw
 ### Region : Asia
-### Languages : Divehi
-### Area : 300 km²
-### Neighboring countries : 
-### Timezones : UTC+05:00
+### Languages : Burmese
+### Area : 676'578 km²
+### Neighboring countries : Bangladesh, China, India, Lao People's Democratic Republic, Thailand
+### Timezones : UTC+06:30
 
 ### Flag :
-![](https://restcountries.eu/data/mdv.svg)
+![](https://restcountries.eu/data/mmr.svg)
