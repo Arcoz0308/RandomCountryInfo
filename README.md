@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/07/2021, 20:34:56 (France time)
+### last update : 04/07/2021, 23:34:55 (France time)
 
-### name : Dominican Republic
-### Population : 10'075'045
-### Capital : Santo Domingo
-### Region : Americas
-### Languages : Spanish
-### Area : 48'671 km²
-### Neighboring countries : Haiti
-### Timezones : UTC-04:00
+### name : Germany
+### Population : 81'770'900
+### Capital : Berlin
+### Region : Europe
+### Languages : German
+### Area : 357'114 km²
+### Neighboring countries : Austria, Belgium, Czech Republic, Denmark, France, Luxembourg, Netherlands, Poland, Switzerland
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/dom.svg)
+![](https://restcountries.eu/data/deu.svg)
