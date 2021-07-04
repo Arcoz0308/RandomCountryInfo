@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/07/2021, 11:34:55 (France time)
+### last update : 04/07/2021, 14:34:56 (France time)
 
-### name : Saint Barthélemy
-### Population : 9'417
-### Capital : Gustavia
-### Region : Americas
-### Languages : French
-### Area : 21 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Bhutan
+### Population : 775'620
+### Capital : Thimphu
+### Region : Asia
+### Languages : Dzongkha
+### Area : 38'394 km²
+### Neighboring countries : China, India
+### Timezones : UTC+06:00
 
 ### Flag :
-![](https://restcountries.eu/data/blm.svg)
+![](https://restcountries.eu/data/btn.svg)
