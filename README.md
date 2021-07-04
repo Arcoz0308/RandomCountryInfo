@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/07/2021, 23:16:31 (France time)
+### last update : 04/07/2021, 02:16:31 (France time)
 
-### name : Hong Kong
-### Population : 7'324'300
-### Capital : City of Victoria
-### Region : Asia
-### Languages : English, Chinese
-### Area : 1'104 km²
-### Neighboring countries : China
-### Timezones : UTC+08:00
+### name : Papua New Guinea
+### Population : 8'083'700
+### Capital : Port Moresby
+### Region : Oceania
+### Languages : English
+### Area : 462'840 km²
+### Neighboring countries : Indonesia
+### Timezones : UTC+10:00
 
 ### Flag :
-![](https://restcountries.eu/data/hkg.svg)
+![](https://restcountries.eu/data/png.svg)
