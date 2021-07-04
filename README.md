@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/07/2021, 02:16:31 (France time)
+### last update : 04/07/2021, 02:34:55 (France time)
 
-### name : Papua New Guinea
-### Population : 8'083'700
-### Capital : Port Moresby
-### Region : Oceania
-### Languages : English
-### Area : 462'840 km²
-### Neighboring countries : Indonesia
-### Timezones : UTC+10:00
+### name : Iran (Islamic Republic of)
+### Population : 79'369'900
+### Capital : Tehran
+### Region : Asia
+### Languages : Persian (Farsi)
+### Area : 1'648'195 km²
+### Neighboring countries : Afghanistan, Armenia, Azerbaijan, Iraq, Pakistan, Turkey, Turkmenistan
+### Timezones : UTC+03:30
 
 ### Flag :
-![](https://restcountries.eu/data/png.svg)
+![](https://restcountries.eu/data/irn.svg)
