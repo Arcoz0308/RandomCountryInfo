@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/07/2021, 17:34:55 (France time)
+### last update : 04/07/2021, 20:34:56 (France time)
 
-### name : Niue
-### Population : 1'470
-### Capital : Alofi
-### Region : Oceania
-### Languages : English
-### Area : 260 km²
-### Neighboring countries : 
-### Timezones : UTC-11:00
+### name : Dominican Republic
+### Population : 10'075'045
+### Capital : Santo Domingo
+### Region : Americas
+### Languages : Spanish
+### Area : 48'671 km²
+### Neighboring countries : Haiti
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/niu.svg)
+![](https://restcountries.eu/data/dom.svg)
