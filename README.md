@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/07/2021, 05:34:55 (France time)
+### last update : 04/07/2021, 08:34:55 (France time)
 
-### name : Lithuania
-### Population : 2'872'294
-### Capital : Vilnius
-### Region : Europe
-### Languages : Lithuanian
-### Area : 65'300 km²
-### Neighboring countries : Belarus, Latvia, Poland, Russian Federation
-### Timezones : UTC+02:00
+### name : Northern Mariana Islands
+### Population : 56'940
+### Capital : Saipan
+### Region : Oceania
+### Languages : English, Chamorro
+### Area : 464 km²
+### Neighboring countries : 
+### Timezones : UTC+10:00
 
 ### Flag :
-![](https://restcountries.eu/data/ltu.svg)
+![](https://restcountries.eu/data/mnp.svg)
