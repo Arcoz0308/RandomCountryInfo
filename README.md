@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/07/2021, 02:34:55 (France time)
+### last update : 05/07/2021, 03:07:07 (France time)
 
-### name : Antigua and Barbuda
-### Population : 86'295
-### Capital : Saint John's
-### Region : Americas
-### Languages : English
-### Area : 442 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Italy
+### Population : 60'665'551
+### Capital : Rome
+### Region : Europe
+### Languages : Italian
+### Area : 301'336 km²
+### Neighboring countries : Austria, France, San Marino, Slovenia, Switzerland, Holy See
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/atg.svg)
+![](https://restcountries.eu/data/ita.svg)
