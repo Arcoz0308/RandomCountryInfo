@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/07/2021, 23:34:55 (France time)
+### last update : 05/07/2021, 02:34:55 (France time)
 
-### name : Germany
-### Population : 81'770'900
-### Capital : Berlin
-### Region : Europe
-### Languages : German
-### Area : 357'114 km²
-### Neighboring countries : Austria, Belgium, Czech Republic, Denmark, France, Luxembourg, Netherlands, Poland, Switzerland
-### Timezones : UTC+01:00
+### name : Antigua and Barbuda
+### Population : 86'295
+### Capital : Saint John's
+### Region : Americas
+### Languages : English
+### Area : 442 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/deu.svg)
+![](https://restcountries.eu/data/atg.svg)
