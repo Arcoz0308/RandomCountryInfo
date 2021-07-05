@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/07/2021, 03:07:07 (France time)
+### last update : 05/07/2021, 06:07:07 (France time)
 
-### name : Italy
-### Population : 60'665'551
-### Capital : Rome
+### name : Greece
+### Population : 10'858'018
+### Capital : Athens
 ### Region : Europe
-### Languages : Italian
-### Area : 301'336 km²
-### Neighboring countries : Austria, France, San Marino, Slovenia, Switzerland, Holy See
-### Timezones : UTC+01:00
+### Languages : Greek (modern)
+### Area : 131'990 km²
+### Neighboring countries : Albania, Bulgaria, Turkey, Macedonia (the former Yugoslav Republic of)
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/ita.svg)
+![](https://restcountries.eu/data/grc.svg)
