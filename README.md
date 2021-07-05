@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/07/2021, 18:07:09 (France time)
+### last update : 05/07/2021, 21:07:07 (France time)
 
-### name : Gambia
-### Population : 1'882'450
-### Capital : Banjul
-### Region : Africa
+### name : Pitcairn
+### Population : 56
+### Capital : Adamstown
+### Region : Oceania
 ### Languages : English
-### Area : 11'295 km²
-### Neighboring countries : Senegal
-### Timezones : UTC+00:00
+### Area : 47 km²
+### Neighboring countries : 
+### Timezones : UTC-08:00
 
 ### Flag :
-![](https://restcountries.eu/data/gmb.svg)
+![](https://restcountries.eu/data/pcn.svg)
