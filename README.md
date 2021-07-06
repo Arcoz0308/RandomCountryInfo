@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/07/2021, 09:45:03 (France time)
+### last update : 06/07/2021, 12:45:04 (France time)
 
-### name : Australia
-### Population : 24'117'360
-### Capital : Canberra
-### Region : Oceania
-### Languages : English
-### Area : 7'692'024 km²
-### Neighboring countries : 
-### Timezones : UTC+05:00, UTC+06:30, UTC+07:00, UTC+08:00, UTC+09:30, UTC+10:00, UTC+10:30, UTC+11:30
+### name : Central African Republic
+### Population : 4'998'000
+### Capital : Bangui
+### Region : Africa
+### Languages : French, Sango
+### Area : 622'984 km²
+### Neighboring countries : Cameroon, Chad, Congo (Democratic Republic of the), Congo, South Sudan, Sudan
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/aus.svg)
+![](https://restcountries.eu/data/caf.svg)
