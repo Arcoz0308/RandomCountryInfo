@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/07/2021, 03:45:05 (France time)
+### last update : 06/07/2021, 06:45:03 (France time)
 
-### name : Uganda
-### Population : 33'860'700
-### Capital : Kampala
-### Region : Africa
-### Languages : English, Swahili
-### Area : 241'550 km²
-### Neighboring countries : Congo (Democratic Republic of the), Kenya, Rwanda, South Sudan, Tanzania, United Republic of
-### Timezones : UTC+03:00
+### name : Guatemala
+### Population : 16'176'133
+### Capital : Guatemala City
+### Region : Americas
+### Languages : Spanish
+### Area : 108'889 km²
+### Neighboring countries : Belize, El Salvador, Honduras, Mexico
+### Timezones : UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/uga.svg)
+![](https://restcountries.eu/data/gtm.svg)
