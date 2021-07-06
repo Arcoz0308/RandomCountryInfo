@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/07/2021, 15:45:03 (France time)
+### last update : 06/07/2021, 18:45:05 (France time)
 
-### name : American Samoa
-### Population : 57'100
-### Capital : Pago Pago
-### Region : Oceania
-### Languages : English, Samoan
-### Area : 199 km²
-### Neighboring countries : 
-### Timezones : UTC-11:00
+### name : Jordan
+### Population : 9'531'712
+### Capital : Amman
+### Region : Asia
+### Languages : Arabic
+### Area : 89'342 km²
+### Neighboring countries : Iraq, Israel, Saudi Arabia, Syrian Arab Republic
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/asm.svg)
+![](https://restcountries.eu/data/jor.svg)
