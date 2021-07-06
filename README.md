@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/07/2021, 06:45:03 (France time)
+### last update : 06/07/2021, 09:45:03 (France time)
 
-### name : Guatemala
-### Population : 16'176'133
-### Capital : Guatemala City
-### Region : Americas
-### Languages : Spanish
-### Area : 108'889 km²
-### Neighboring countries : Belize, El Salvador, Honduras, Mexico
-### Timezones : UTC-06:00
+### name : Australia
+### Population : 24'117'360
+### Capital : Canberra
+### Region : Oceania
+### Languages : English
+### Area : 7'692'024 km²
+### Neighboring countries : 
+### Timezones : UTC+05:00, UTC+06:30, UTC+07:00, UTC+08:00, UTC+09:30, UTC+10:00, UTC+10:30, UTC+11:30
 
 ### Flag :
-![](https://restcountries.eu/data/gtm.svg)
+![](https://restcountries.eu/data/aus.svg)
