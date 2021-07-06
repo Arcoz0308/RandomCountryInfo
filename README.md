@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/07/2021, 21:07:07 (France time)
+### last update : 06/07/2021, 03:07:07 (France time)
 
-### name : Pitcairn
-### Population : 56
-### Capital : Adamstown
-### Region : Oceania
-### Languages : English
-### Area : 47 km²
-### Neighboring countries : 
-### Timezones : UTC-08:00
+### name : Uruguay
+### Population : 3'480'222
+### Capital : Montevideo
+### Region : Americas
+### Languages : Spanish
+### Area : 181'034 km²
+### Neighboring countries : Argentina, Brazil
+### Timezones : UTC-03:00
 
 ### Flag :
-![](https://restcountries.eu/data/pcn.svg)
+![](https://restcountries.eu/data/ury.svg)
