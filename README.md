@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/07/2021, 03:45:03 (France time)
+### last update : 07/07/2021, 04:17:32 (France time)
 
-### name : Anguilla
-### Population : 13'452
-### Capital : The Valley
-### Region : Americas
-### Languages : English
-### Area : 91 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Chad
+### Population : 14'497'000
+### Capital : N'Djamena
+### Region : Africa
+### Languages : French, Arabic
+### Area : 1'284'000 km²
+### Neighboring countries : Cameroon, Central African Republic, Libya, Niger, Nigeria, South Sudan
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/aia.svg)
+![](https://restcountries.eu/data/tcd.svg)
