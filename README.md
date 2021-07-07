@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/07/2021, 16:17:32 (France time)
+### last update : 07/07/2021, 19:17:33 (France time)
 
-### name : Saint Kitts and Nevis
-### Population : 46'204
-### Capital : Basseterre
-### Region : Americas
-### Languages : English
-### Area : 261 km²
+### name : New Caledonia
+### Population : 268'767
+### Capital : Nouméa
+### Region : Oceania
+### Languages : French
+### Area : 18'575 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+11:00
 
 ### Flag :
-![](https://restcountries.eu/data/kna.svg)
+![](https://restcountries.eu/data/ncl.svg)
