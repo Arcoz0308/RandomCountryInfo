@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/07/2021, 19:17:33 (France time)
+### last update : 07/07/2021, 22:17:32 (France time)
 
-### name : New Caledonia
-### Population : 268'767
-### Capital : Nouméa
-### Region : Oceania
-### Languages : French
-### Area : 18'575 km²
+### name : Grenada
+### Population : 103'328
+### Capital : St. George's
+### Region : Americas
+### Languages : English
+### Area : 344 km²
 ### Neighboring countries : 
-### Timezones : UTC+11:00
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/ncl.svg)
+![](https://restcountries.eu/data/grd.svg)
