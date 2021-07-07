@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/07/2021, 13:17:32 (France time)
+### last update : 07/07/2021, 16:17:32 (France time)
 
-### name : Bhutan
-### Population : 775'620
-### Capital : Thimphu
-### Region : Asia
-### Languages : Dzongkha
-### Area : 38'394 km²
-### Neighboring countries : China, India
-### Timezones : UTC+06:00
+### name : Saint Kitts and Nevis
+### Population : 46'204
+### Capital : Basseterre
+### Region : Americas
+### Languages : English
+### Area : 261 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/btn.svg)
+![](https://restcountries.eu/data/kna.svg)
