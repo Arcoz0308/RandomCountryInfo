@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/07/2021, 21:45:04 (France time)
+### last update : 07/07/2021, 00:45:04 (France time)
 
-### name : Madagascar
-### Population : 22'434'363
-### Capital : Antananarivo
-### Region : Africa
-### Languages : French, Malagasy
-### Area : 587'041 km²
-### Neighboring countries : 
-### Timezones : UTC+03:00
+### name : Ukraine
+### Population : 42'692'393
+### Capital : Kiev
+### Region : Europe
+### Languages : Ukrainian
+### Area : 603'700 km²
+### Neighboring countries : Belarus, Hungary, Moldova (Republic of), Poland, Romania, Russian Federation, Slovakia
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/mdg.svg)
+![](https://restcountries.eu/data/ukr.svg)
