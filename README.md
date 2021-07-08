@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/07/2021, 19:50:40 (France time)
+### last update : 08/07/2021, 22:50:41 (France time)
 
-### name : Lithuania
-### Population : 2'872'294
-### Capital : Vilnius
-### Region : Europe
-### Languages : Lithuanian
-### Area : 65'300 km²
-### Neighboring countries : Belarus, Latvia, Poland, Russian Federation
-### Timezones : UTC+02:00
+### name : Puerto Rico
+### Population : 3'474'182
+### Capital : San Juan
+### Region : Americas
+### Languages : Spanish, English
+### Area : 8'870 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/ltu.svg)
+![](https://restcountries.eu/data/pri.svg)
