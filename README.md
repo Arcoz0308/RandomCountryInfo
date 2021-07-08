@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/07/2021, 07:50:39 (France time)
+### last update : 08/07/2021, 10:50:40 (France time)
 
-### name : Mali
-### Population : 18'135'000
-### Capital : Bamako
-### Region : Africa
-### Languages : French
-### Area : 1'240'192 km²
-### Neighboring countries : Algeria, Burkina Faso, Guinea, Côte d'Ivoire, Mauritania, Niger, Senegal
-### Timezones : UTC
+### name : Costa Rica
+### Population : 4'890'379
+### Capital : San José
+### Region : Americas
+### Languages : Spanish
+### Area : 51'100 km²
+### Neighboring countries : Nicaragua, Panama
+### Timezones : UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/mli.svg)
+![](https://restcountries.eu/data/cri.svg)
