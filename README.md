@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/07/2021, 04:50:39 (France time)
+### last update : 08/07/2021, 07:50:39 (France time)
 
-### name : Liberia
-### Population : 4'615'000
-### Capital : Monrovia
+### name : Mali
+### Population : 18'135'000
+### Capital : Bamako
 ### Region : Africa
-### Languages : English
-### Area : 111'369 km²
-### Neighboring countries : Guinea, Côte d'Ivoire, Sierra Leone
+### Languages : French
+### Area : 1'240'192 km²
+### Neighboring countries : Algeria, Burkina Faso, Guinea, Côte d'Ivoire, Mauritania, Niger, Senegal
 ### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/lbr.svg)
+![](https://restcountries.eu/data/mli.svg)
