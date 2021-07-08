@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/07/2021, 22:17:32 (France time)
+### last update : 08/07/2021, 01:17:32 (France time)
 
-### name : Grenada
-### Population : 103'328
-### Capital : St. George's
+### name : Guyana
+### Population : 746'900
+### Capital : Georgetown
 ### Region : Americas
 ### Languages : English
-### Area : 344 km²
-### Neighboring countries : 
+### Area : 214'969 km²
+### Neighboring countries : Brazil, Suriname, Venezuela (Bolivarian Republic of)
 ### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/grd.svg)
+![](https://restcountries.eu/data/guy.svg)
