@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/07/2021, 13:50:40 (France time)
+### last update : 08/07/2021, 16:50:41 (France time)
 
-### name : Belize
-### Population : 370'300
-### Capital : Belmopan
-### Region : Americas
-### Languages : English, Spanish
-### Area : 22'966 km²
-### Neighboring countries : Guatemala, Mexico
-### Timezones : UTC-06:00
+### name : Thailand
+### Population : 65'327'652
+### Capital : Bangkok
+### Region : Asia
+### Languages : Thai
+### Area : 513'120 km²
+### Neighboring countries : Myanmar, Cambodia, Lao People's Democratic Republic, Malaysia
+### Timezones : UTC+07:00
 
 ### Flag :
-![](https://restcountries.eu/data/blz.svg)
+![](https://restcountries.eu/data/tha.svg)
