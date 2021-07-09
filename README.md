@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 09/07/2021, 04:50:40 (France time)
+### last update : 09/07/2021, 05:21:45 (France time)
 
-### name : Nepal
-### Population : 28'431'500
-### Capital : Kathmandu
+### name : Korea (Democratic People's Republic of)
+### Population : 25'281'000
+### Capital : Pyongyang
 ### Region : Asia
-### Languages : Nepali
-### Area : 147'181 km²
-### Neighboring countries : China, India
-### Timezones : UTC+05:45
+### Languages : Korean
+### Area : 120'538 km²
+### Neighboring countries : China, Korea (Republic of), Russian Federation
+### Timezones : UTC+09:00
 
 ### Flag :
-![](https://restcountries.eu/data/npl.svg)
+![](https://restcountries.eu/data/prk.svg)
