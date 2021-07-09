@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/07/2021, 22:50:41 (France time)
+### last update : 09/07/2021, 01:50:40 (France time)
 
-### name : Puerto Rico
-### Population : 3'474'182
-### Capital : San Juan
-### Region : Americas
-### Languages : Spanish, English
-### Area : 8'870 km²
+### name : French Polynesia
+### Population : 271'800
+### Capital : Papeetē
+### Region : Oceania
+### Languages : French
+### Area : 4'167 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC-10:00, UTC-09:30, UTC-09:00
 
 ### Flag :
-![](https://restcountries.eu/data/pri.svg)
+![](https://restcountries.eu/data/pyf.svg)
