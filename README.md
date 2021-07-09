@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 09/07/2021, 05:21:45 (France time)
+### last update : 09/07/2021, 08:21:45 (France time)
 
-### name : Korea (Democratic People's Republic of)
-### Population : 25'281'000
-### Capital : Pyongyang
-### Region : Asia
-### Languages : Korean
-### Area : 120'538 km²
-### Neighboring countries : China, Korea (Republic of), Russian Federation
-### Timezones : UTC+09:00
+### name : Guernsey
+### Population : 62'999
+### Capital : St. Peter Port
+### Region : Europe
+### Languages : English, French
+### Area : 78 km²
+### Neighboring countries : 
+### Timezones : UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/prk.svg)
+![](https://restcountries.eu/data/ggy.svg)
