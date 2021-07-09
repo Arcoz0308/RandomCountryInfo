@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 09/07/2021, 14:21:45 (France time)
+### last update : 09/07/2021, 20:21:45 (France time)
 
-### name : Guinea-Bissau
-### Population : 1'547'777
-### Capital : Bissau
+### name : British Indian Ocean Territory
+### Population : 3'000
+### Capital : Diego Garcia
 ### Region : Africa
-### Languages : Portuguese
-### Area : 36'125 km²
-### Neighboring countries : Guinea, Senegal
-### Timezones : UTC
+### Languages : English
+### Area : 60 km²
+### Neighboring countries : 
+### Timezones : UTC+06:00
 
 ### Flag :
-![](https://restcountries.eu/data/gnb.svg)
+![](https://restcountries.eu/data/iot.svg)
