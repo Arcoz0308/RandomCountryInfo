@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 09/07/2021, 01:50:40 (France time)
+### last update : 09/07/2021, 04:50:40 (France time)
 
-### name : French Polynesia
-### Population : 271'800
-### Capital : Papeetē
-### Region : Oceania
-### Languages : French
-### Area : 4'167 km²
-### Neighboring countries : 
-### Timezones : UTC-10:00, UTC-09:30, UTC-09:00
+### name : Nepal
+### Population : 28'431'500
+### Capital : Kathmandu
+### Region : Asia
+### Languages : Nepali
+### Area : 147'181 km²
+### Neighboring countries : China, India
+### Timezones : UTC+05:45
 
 ### Flag :
-![](https://restcountries.eu/data/pyf.svg)
+![](https://restcountries.eu/data/npl.svg)
