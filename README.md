@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 09/07/2021, 20:21:45 (France time)
+### last update : 09/07/2021, 23:21:46 (France time)
 
-### name : British Indian Ocean Territory
-### Population : 3'000
-### Capital : Diego Garcia
-### Region : Africa
+### name : Guyana
+### Population : 746'900
+### Capital : Georgetown
+### Region : Americas
 ### Languages : English
-### Area : 60 km²
-### Neighboring countries : 
-### Timezones : UTC+06:00
+### Area : 214'969 km²
+### Neighboring countries : Brazil, Suriname, Venezuela (Bolivarian Republic of)
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/iot.svg)
+![](https://restcountries.eu/data/guy.svg)
