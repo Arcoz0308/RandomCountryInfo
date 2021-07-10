@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/07/2021, 05:21:46 (France time)
+### last update : 10/07/2021, 05:57:42 (France time)
 
-### name : Botswana
-### Population : 2'141'206
-### Capital : Gaborone
-### Region : Africa
-### Languages : English, Tswana
-### Area : 582'000 km²
-### Neighboring countries : Namibia, South Africa, Zambia, Zimbabwe
-### Timezones : UTC+02:00
+### name : Slovenia
+### Population : 2'064'188
+### Capital : Ljubljana
+### Region : Europe
+### Languages : Slovene
+### Area : 20'273 km²
+### Neighboring countries : Austria, Croatia, Italy, Hungary
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/bwa.svg)
+![](https://restcountries.eu/data/svn.svg)
