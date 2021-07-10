@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/07/2021, 11:57:43 (France time)
+### last update : 10/07/2021, 14:57:43 (France time)
 
-### name : Fiji
-### Population : 867'000
-### Capital : Suva
-### Region : Oceania
-### Languages : English, Fijian, Hindi, Urdu
-### Area : 18'272 km²
-### Neighboring countries : 
-### Timezones : UTC+12:00
+### name : Costa Rica
+### Population : 4'890'379
+### Capital : San José
+### Region : Americas
+### Languages : Spanish
+### Area : 51'100 km²
+### Neighboring countries : Nicaragua, Panama
+### Timezones : UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/fji.svg)
+![](https://restcountries.eu/data/cri.svg)
