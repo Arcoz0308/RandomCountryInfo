@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/07/2021, 05:57:42 (France time)
+### last update : 10/07/2021, 11:57:43 (France time)
 
-### name : Slovenia
-### Population : 2'064'188
-### Capital : Ljubljana
-### Region : Europe
-### Languages : Slovene
-### Area : 20'273 km²
-### Neighboring countries : Austria, Croatia, Italy, Hungary
-### Timezones : UTC+01:00
+### name : Fiji
+### Population : 867'000
+### Capital : Suva
+### Region : Oceania
+### Languages : English, Fijian, Hindi, Urdu
+### Area : 18'272 km²
+### Neighboring countries : 
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/svn.svg)
+![](https://restcountries.eu/data/fji.svg)
