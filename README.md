@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/07/2021, 02:21:46 (France time)
+### last update : 10/07/2021, 05:21:46 (France time)
 
-### name : Brazil
-### Population : 206'135'893
-### Capital : Brasília
-### Region : Americas
-### Languages : Portuguese
-### Area : 8'515'767 km²
-### Neighboring countries : Argentina, Bolivia (Plurinational State of), Colombia, French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela (Bolivarian Republic of)
-### Timezones : UTC-05:00, UTC-04:00, UTC-03:00, UTC-02:00
+### name : Botswana
+### Population : 2'141'206
+### Capital : Gaborone
+### Region : Africa
+### Languages : English, Tswana
+### Area : 582'000 km²
+### Neighboring countries : Namibia, South Africa, Zambia, Zimbabwe
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/bra.svg)
+![](https://restcountries.eu/data/bwa.svg)
