@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/07/2021, 06:13:11 (France time)
+### last update : 11/07/2021, 09:13:11 (France time)
 
-### name : Benin
-### Population : 10'653'654
-### Capital : Porto-Novo
-### Region : Africa
-### Languages : French
-### Area : 112'622 km²
-### Neighboring countries : Burkina Faso, Niger, Nigeria, Togo
-### Timezones : UTC+01:00
+### name : Uzbekistan
+### Population : 31'576'400
+### Capital : Tashkent
+### Region : Asia
+### Languages : Uzbek, Russian
+### Area : 447'400 km²
+### Neighboring countries : Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/ben.svg)
+![](https://restcountries.eu/data/uzb.svg)
