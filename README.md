@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/07/2021, 05:57:43 (France time)
+### last update : 11/07/2021, 06:13:11 (France time)
 
-### name : Gambia
-### Population : 1'882'450
-### Capital : Banjul
+### name : Benin
+### Population : 10'653'654
+### Capital : Porto-Novo
 ### Region : Africa
-### Languages : English
-### Area : 11'295 km²
-### Neighboring countries : Senegal
-### Timezones : UTC+00:00
+### Languages : French
+### Area : 112'622 km²
+### Neighboring countries : Burkina Faso, Niger, Nigeria, Togo
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/gmb.svg)
+![](https://restcountries.eu/data/ben.svg)
