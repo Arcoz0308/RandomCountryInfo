@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/07/2021, 09:13:11 (France time)
+### last update : 11/07/2021, 12:13:11 (France time)
 
-### name : Uzbekistan
-### Population : 31'576'400
-### Capital : Tashkent
-### Region : Asia
-### Languages : Uzbek, Russian
-### Area : 447'400 km²
-### Neighboring countries : Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan
-### Timezones : UTC+05:00
+### name : Paraguay
+### Population : 6'854'536
+### Capital : Asunción
+### Region : Americas
+### Languages : Spanish, Guaraní
+### Area : 406'752 km²
+### Neighboring countries : Argentina, Bolivia (Plurinational State of), Brazil
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/uzb.svg)
+![](https://restcountries.eu/data/pry.svg)
