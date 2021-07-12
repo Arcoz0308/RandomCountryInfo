@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/07/2021, 21:13:12 (France time)
+### last update : 12/07/2021, 00:13:12 (France time)
 
-### name : Saudi Arabia
-### Population : 32'248'200
-### Capital : Riyadh
-### Region : Asia
-### Languages : Arabic
-### Area : 2'149'690 km²
-### Neighboring countries : Iraq, Jordan, Kuwait, Oman, Qatar, United Arab Emirates, Yemen
-### Timezones : UTC+03:00
+### name : Faroe Islands
+### Population : 49'376
+### Capital : Tórshavn
+### Region : Europe
+### Languages : Faroese
+### Area : 1'393 km²
+### Neighboring countries : 
+### Timezones : UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/sau.svg)
+![](https://restcountries.eu/data/fro.svg)
