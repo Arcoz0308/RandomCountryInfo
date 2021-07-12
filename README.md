@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/07/2021, 12:43:10 (France time)
+### last update : 12/07/2021, 15:43:10 (France time)
 
-### name : India
-### Population : 1'295'210'000
-### Capital : New Delhi
-### Region : Asia
-### Languages : Hindi, English
-### Area : 3'287'590 km²
-### Neighboring countries : Afghanistan, Bangladesh, Bhutan, Myanmar, China, Nepal, Pakistan, Sri Lanka
-### Timezones : UTC+05:30
+### name : Cameroon
+### Population : 22'709'892
+### Capital : Yaoundé
+### Region : Africa
+### Languages : English, French
+### Area : 475'442 km²
+### Neighboring countries : Central African Republic, Chad, Congo, Equatorial Guinea, Gabon, Nigeria
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/ind.svg)
+![](https://restcountries.eu/data/cmr.svg)
