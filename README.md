@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/07/2021, 09:43:11 (France time)
+### last update : 12/07/2021, 12:43:10 (France time)
 
-### name : Montserrat
-### Population : 4'922
-### Capital : Plymouth
-### Region : Americas
-### Languages : English
-### Area : 102 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : India
+### Population : 1'295'210'000
+### Capital : New Delhi
+### Region : Asia
+### Languages : Hindi, English
+### Area : 3'287'590 km²
+### Neighboring countries : Afghanistan, Bangladesh, Bhutan, Myanmar, China, Nepal, Pakistan, Sri Lanka
+### Timezones : UTC+05:30
 
 ### Flag :
-![](https://restcountries.eu/data/msr.svg)
+![](https://restcountries.eu/data/ind.svg)
