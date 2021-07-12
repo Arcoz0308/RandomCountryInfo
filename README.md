@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/07/2021, 06:13:12 (France time)
+### last update : 12/07/2021, 06:43:10 (France time)
 
-### name : Côte d'Ivoire
-### Population : 22'671'331
-### Capital : Yamoussoukro
-### Region : Africa
-### Languages : French
-### Area : 322'463 km²
-### Neighboring countries : Burkina Faso, Ghana, Guinea, Liberia, Mali
-### Timezones : UTC
+### name : Greenland
+### Population : 55'847
+### Capital : Nuuk
+### Region : Americas
+### Languages : Kalaallisut
+### Area : 2'166'086 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00, UTC-03:00, UTC-01:00, UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/civ.svg)
+![](https://restcountries.eu/data/grl.svg)
