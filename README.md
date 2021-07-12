@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/07/2021, 00:13:12 (France time)
+### last update : 12/07/2021, 03:13:12 (France time)
 
-### name : Faroe Islands
-### Population : 49'376
-### Capital : Tórshavn
+### name : San Marino
+### Population : 33'005
+### Capital : City of San Marino
 ### Region : Europe
-### Languages : Faroese
-### Area : 1'393 km²
-### Neighboring countries : 
-### Timezones : UTC+00:00
+### Languages : Italian
+### Area : 61 km²
+### Neighboring countries : Italy
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/fro.svg)
+![](https://restcountries.eu/data/smr.svg)
