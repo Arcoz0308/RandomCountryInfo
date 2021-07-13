@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/07/2021, 19:04:33 (France time)
+### last update : 13/07/2021, 22:04:33 (France time)
 
-### name : Central African Republic
-### Population : 4'998'000
-### Capital : Bangui
-### Region : Africa
-### Languages : French, Sango
-### Area : 622'984 km²
-### Neighboring countries : Cameroon, Chad, Congo (Democratic Republic of the), Congo, South Sudan, Sudan
-### Timezones : UTC+01:00
+### name : Samoa
+### Population : 194'899
+### Capital : Apia
+### Region : Oceania
+### Languages : Samoan, English
+### Area : 2'842 km²
+### Neighboring countries : 
+### Timezones : UTC+13:00
 
 ### Flag :
-![](https://restcountries.eu/data/caf.svg)
+![](https://restcountries.eu/data/wsm.svg)
