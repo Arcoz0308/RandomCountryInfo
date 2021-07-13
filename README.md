@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/07/2021, 16:04:33 (France time)
+### last update : 13/07/2021, 19:04:33 (France time)
 
-### name : Christmas Island
-### Population : 2'072
-### Capital : Flying Fish Cove
-### Region : Oceania
-### Languages : English
-### Area : 135 km²
-### Neighboring countries : 
-### Timezones : UTC+07:00
+### name : Central African Republic
+### Population : 4'998'000
+### Capital : Bangui
+### Region : Africa
+### Languages : French, Sango
+### Area : 622'984 km²
+### Neighboring countries : Cameroon, Chad, Congo (Democratic Republic of the), Congo, South Sudan, Sudan
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/cxr.svg)
+![](https://restcountries.eu/data/caf.svg)
