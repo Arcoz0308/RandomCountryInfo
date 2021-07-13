@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/07/2021, 03:43:10 (France time)
+### last update : 13/07/2021, 06:43:10 (France time)
 
-### name : Papua New Guinea
-### Population : 8'083'700
-### Capital : Port Moresby
-### Region : Oceania
-### Languages : English
-### Area : 462'840 km²
-### Neighboring countries : Indonesia
-### Timezones : UTC+10:00
+### name : Guernsey
+### Population : 62'999
+### Capital : St. Peter Port
+### Region : Europe
+### Languages : English, French
+### Area : 78 km²
+### Neighboring countries : 
+### Timezones : UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/png.svg)
+![](https://restcountries.eu/data/ggy.svg)
