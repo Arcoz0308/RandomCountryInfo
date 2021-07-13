@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/07/2021, 06:43:10 (France time)
+### last update : 13/07/2021, 07:04:33 (France time)
 
-### name : Guernsey
-### Population : 62'999
-### Capital : St. Peter Port
-### Region : Europe
-### Languages : English, French
-### Area : 78 km²
+### name : Curaçao
+### Population : 154'843
+### Capital : Willemstad
+### Region : Americas
+### Languages : Dutch, (Eastern) Punjabi, English
+### Area : 444 km²
 ### Neighboring countries : 
-### Timezones : UTC+00:00
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/ggy.svg)
+![](https://restcountries.eu/data/cuw.svg)
