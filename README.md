@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/07/2021, 21:43:11 (France time)
+### last update : 13/07/2021, 00:43:10 (France time)
 
-### name : Falkland Islands (Malvinas)
-### Population : 2'563
-### Capital : Stanley
-### Region : Americas
-### Languages : English
-### Area : 12'173 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Djibouti
+### Population : 900'000
+### Capital : Djibouti
+### Region : Africa
+### Languages : French, Arabic
+### Area : 23'200 km²
+### Neighboring countries : Eritrea, Ethiopia, Somalia
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/flk.svg)
+![](https://restcountries.eu/data/dji.svg)
