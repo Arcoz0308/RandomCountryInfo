@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/07/2021, 13:04:34 (France time)
+### last update : 13/07/2021, 16:04:33 (France time)
 
-### name : Nauru
-### Population : 10'084
-### Capital : Yaren
+### name : Christmas Island
+### Population : 2'072
+### Capital : Flying Fish Cove
 ### Region : Oceania
-### Languages : English, Nauruan
-### Area : 21 km²
+### Languages : English
+### Area : 135 km²
 ### Neighboring countries : 
-### Timezones : UTC+12:00
+### Timezones : UTC+07:00
 
 ### Flag :
-![](https://restcountries.eu/data/nru.svg)
+![](https://restcountries.eu/data/cxr.svg)
