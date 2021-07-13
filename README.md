@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/07/2021, 07:04:33 (France time)
+### last update : 13/07/2021, 10:04:33 (France time)
 
-### name : Curaçao
-### Population : 154'843
-### Capital : Willemstad
+### name : Costa Rica
+### Population : 4'890'379
+### Capital : San José
 ### Region : Americas
-### Languages : Dutch, (Eastern) Punjabi, English
-### Area : 444 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### Languages : Spanish
+### Area : 51'100 km²
+### Neighboring countries : Nicaragua, Panama
+### Timezones : UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/cuw.svg)
+![](https://restcountries.eu/data/cri.svg)
