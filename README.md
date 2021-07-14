@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/07/2021, 07:04:34 (France time)
+### last update : 14/07/2021, 07:22:12 (France time)
 
-### name : Macedonia (the former Yugoslav Republic of)
-### Population : 2'058'539
-### Capital : Skopje
-### Region : Europe
-### Languages : Macedonian
-### Area : 25'713 km²
-### Neighboring countries : Albania, Bulgaria, Greece, Republic of Kosovo, Serbia
-### Timezones : UTC+01:00
+### name : Barbados
+### Population : 285'000
+### Capital : Bridgetown
+### Region : Americas
+### Languages : English
+### Area : 430 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/mkd.svg)
+![](https://restcountries.eu/data/brb.svg)
