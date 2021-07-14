@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/07/2021, 13:50:17 (France time)
+### last update : 14/07/2021, 16:50:18 (France time)
 
-### name : French Polynesia
-### Population : 271'800
-### Capital : Papeetē
-### Region : Oceania
-### Languages : French
-### Area : 4'167 km²
+### name : Sao Tome and Principe
+### Population : 187'356
+### Capital : São Tomé
+### Region : Africa
+### Languages : Portuguese
+### Area : 964 km²
 ### Neighboring countries : 
-### Timezones : UTC-10:00, UTC-09:30, UTC-09:00
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/pyf.svg)
+![](https://restcountries.eu/data/stp.svg)
