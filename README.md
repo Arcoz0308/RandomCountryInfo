@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/07/2021, 22:04:33 (France time)
+### last update : 14/07/2021, 01:04:33 (France time)
 
-### name : Samoa
-### Population : 194'899
-### Capital : Apia
-### Region : Oceania
-### Languages : Samoan, English
-### Area : 2'842 km²
-### Neighboring countries : 
-### Timezones : UTC+13:00
+### name : Finland
+### Population : 5'491'817
+### Capital : Helsinki
+### Region : Europe
+### Languages : Finnish, Swedish
+### Area : 338'424 km²
+### Neighboring countries : Norway, Sweden, Russian Federation
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/wsm.svg)
+![](https://restcountries.eu/data/fin.svg)
