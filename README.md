@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/07/2021, 20:33:12 (France time)
+### last update : 15/07/2021, 23:33:12 (France time)
 
-### name : Yemen
-### Population : 27'478'000
-### Capital : Sana'a
+### name : Israel
+### Population : 8'527'400
+### Capital : Jerusalem
 ### Region : Asia
-### Languages : Arabic
-### Area : 527'968 km²
-### Neighboring countries : Oman, Saudi Arabia
-### Timezones : UTC+03:00
+### Languages : Hebrew (modern), Arabic
+### Area : 20'770 km²
+### Neighboring countries : Egypt, Jordan, Lebanon, Syrian Arab Republic
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/yem.svg)
+![](https://restcountries.eu/data/isr.svg)
