@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/07/2021, 17:33:13 (France time)
+### last update : 15/07/2021, 20:33:12 (France time)
 
-### name : Palau
-### Population : 17'950
-### Capital : Ngerulmud
-### Region : Oceania
-### Languages : English
-### Area : 459 km²
-### Neighboring countries : 
-### Timezones : UTC+09:00
+### name : Yemen
+### Population : 27'478'000
+### Capital : Sana'a
+### Region : Asia
+### Languages : Arabic
+### Area : 527'968 km²
+### Neighboring countries : Oman, Saudi Arabia
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/plw.svg)
+![](https://restcountries.eu/data/yem.svg)
