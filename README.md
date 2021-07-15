@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/07/2021, 14:33:13 (France time)
+### last update : 15/07/2021, 17:33:13 (France time)
 
-### name : Iceland
-### Population : 334'300
-### Capital : Reykjavík
-### Region : Europe
-### Languages : Icelandic
-### Area : 103'000 km²
+### name : Palau
+### Population : 17'950
+### Capital : Ngerulmud
+### Region : Oceania
+### Languages : English
+### Area : 459 km²
 ### Neighboring countries : 
-### Timezones : UTC
+### Timezones : UTC+09:00
 
 ### Flag :
-![](https://restcountries.eu/data/isl.svg)
+![](https://restcountries.eu/data/plw.svg)
