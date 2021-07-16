@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/07/2021, 14:46:44 (France time)
+### last update : 16/07/2021, 17:46:44 (France time)
 
-### name : Uzbekistan
-### Population : 31'576'400
-### Capital : Tashkent
-### Region : Asia
-### Languages : Uzbek, Russian
-### Area : 447'400 km²
-### Neighboring countries : Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan
-### Timezones : UTC+05:00
+### name : Antarctica
+### Population : 1'000
+### Capital : 
+### Region : Polar
+### Languages : English, Russian
+### Area : 14'000'000 km²
+### Neighboring countries : 
+### Timezones : UTC-03:00, UTC+03:00, UTC+05:00, UTC+06:00, UTC+07:00, UTC+08:00, UTC+10:00, UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/uzb.svg)
+![](https://restcountries.eu/data/ata.svg)
