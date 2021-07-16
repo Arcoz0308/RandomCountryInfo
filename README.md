@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/07/2021, 20:46:44 (France time)
+### last update : 16/07/2021, 23:29:01 (France time)
 
-### name : Viet Nam
-### Population : 92'700'000
-### Capital : Hanoi
+### name : Israel
+### Population : 8'527'400
+### Capital : Jerusalem
 ### Region : Asia
-### Languages : Vietnamese
-### Area : 331'212 km²
-### Neighboring countries : Cambodia, China, Lao People's Democratic Republic
-### Timezones : UTC+07:00
+### Languages : Hebrew (modern), Arabic
+### Area : 20'770 km²
+### Neighboring countries : Egypt, Jordan, Lebanon, Syrian Arab Republic
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/vnm.svg)
+![](https://restcountries.eu/data/isr.svg)
