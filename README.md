@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/07/2021, 11:33:13 (France time)
+### last update : 16/07/2021, 14:33:13 (France time)
 
-### name : Niue
-### Population : 1'470
-### Capital : Alofi
-### Region : Oceania
-### Languages : English
-### Area : 260 km²
-### Neighboring countries : 
-### Timezones : UTC-11:00
+### name : Angola
+### Population : 25'868'000
+### Capital : Luanda
+### Region : Africa
+### Languages : Portuguese
+### Area : 1'246'700 km²
+### Neighboring countries : Congo, Congo (Democratic Republic of the), Zambia, Namibia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/niu.svg)
+![](https://restcountries.eu/data/ago.svg)
