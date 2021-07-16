@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/07/2021, 14:33:13 (France time)
+### last update : 16/07/2021, 14:46:44 (France time)
 
-### name : Angola
-### Population : 25'868'000
-### Capital : Luanda
-### Region : Africa
-### Languages : Portuguese
-### Area : 1'246'700 km²
-### Neighboring countries : Congo, Congo (Democratic Republic of the), Zambia, Namibia
-### Timezones : UTC+01:00
+### name : Uzbekistan
+### Population : 31'576'400
+### Capital : Tashkent
+### Region : Asia
+### Languages : Uzbek, Russian
+### Area : 447'400 km²
+### Neighboring countries : Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/ago.svg)
+![](https://restcountries.eu/data/uzb.svg)
