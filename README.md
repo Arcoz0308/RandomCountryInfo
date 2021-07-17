@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 17/07/2021, 20:29:02 (France time)
+### last update : 17/07/2021, 23:29:02 (France time)
 
-### name : Egypt
-### Population : 91'290'000
-### Capital : Cairo
+### name : Tanzania, United Republic of
+### Population : 55'155'000
+### Capital : Dodoma
 ### Region : Africa
-### Languages : Arabic
-### Area : 1'002'450 km²
-### Neighboring countries : Israel, Libya, Sudan
-### Timezones : UTC+02:00
+### Languages : Swahili, English
+### Area : 945'087 km²
+### Neighboring countries : Burundi, Congo (Democratic Republic of the), Kenya, Malawi, Mozambique, Rwanda, Uganda, Zambia
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/egy.svg)
+![](https://restcountries.eu/data/tza.svg)
