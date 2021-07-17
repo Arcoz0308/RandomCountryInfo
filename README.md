@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 17/07/2021, 11:29:02 (France time)
+### last update : 17/07/2021, 14:29:02 (France time)
 
-### name : Samoa
-### Population : 194'899
-### Capital : Apia
-### Region : Oceania
-### Languages : Samoan, English
-### Area : 2'842 km²
+### name : Cayman Islands
+### Population : 58'238
+### Capital : George Town
+### Region : Americas
+### Languages : English
+### Area : 264 km²
 ### Neighboring countries : 
-### Timezones : UTC+13:00
+### Timezones : UTC-05:00
 
 ### Flag :
-![](https://restcountries.eu/data/wsm.svg)
+![](https://restcountries.eu/data/cym.svg)
