@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 17/07/2021, 17:29:02 (France time)
+### last update : 17/07/2021, 20:29:02 (France time)
 
-### name : Austria
-### Population : 8'725'931
-### Capital : Vienna
-### Region : Europe
-### Languages : German
-### Area : 83'871 km²
-### Neighboring countries : Czech Republic, Germany, Hungary, Italy, Liechtenstein, Slovakia, Slovenia, Switzerland
-### Timezones : UTC+01:00
+### name : Egypt
+### Population : 91'290'000
+### Capital : Cairo
+### Region : Africa
+### Languages : Arabic
+### Area : 1'002'450 km²
+### Neighboring countries : Israel, Libya, Sudan
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/aut.svg)
+![](https://restcountries.eu/data/egy.svg)
