@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/07/2021, 03:00:18 (France time)
+### last update : 18/07/2021, 06:00:18 (France time)
 
-### name : Wallis and Futuna
-### Population : 11'750
-### Capital : Mata-Utu
-### Region : Oceania
-### Languages : French
-### Area : 142 km²
+### name : Bonaire, Sint Eustatius and Saba
+### Population : 17'408
+### Capital : Kralendijk
+### Region : Americas
+### Languages : Dutch
+### Area : 294 km²
 ### Neighboring countries : 
-### Timezones : UTC+12:00
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/wlf.svg)
+![](https://restcountries.eu/data/bes.svg)
