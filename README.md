@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/07/2021, 15:00:20 (France time)
+### last update : 18/07/2021, 18:00:20 (France time)
 
-### name : Nicaragua
-### Population : 6'262'703
-### Capital : Managua
-### Region : Americas
-### Languages : Spanish
-### Area : 130'373 km²
-### Neighboring countries : Costa Rica, Honduras
-### Timezones : UTC-06:00
+### name : Central African Republic
+### Population : 4'998'000
+### Capital : Bangui
+### Region : Africa
+### Languages : French, Sango
+### Area : 622'984 km²
+### Neighboring countries : Cameroon, Chad, Congo (Democratic Republic of the), Congo, South Sudan, Sudan
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/nic.svg)
+![](https://restcountries.eu/data/caf.svg)
