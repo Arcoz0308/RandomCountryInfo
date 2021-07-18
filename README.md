@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/07/2021, 12:00:20 (France time)
+### last update : 18/07/2021, 15:00:20 (France time)
 
-### name : Burkina Faso
-### Population : 19'034'397
-### Capital : Ouagadougou
-### Region : Africa
-### Languages : French, Fula
-### Area : 272'967 km²
-### Neighboring countries : Benin, Côte d'Ivoire, Ghana, Mali, Niger, Togo
-### Timezones : UTC
+### name : Nicaragua
+### Population : 6'262'703
+### Capital : Managua
+### Region : Americas
+### Languages : Spanish
+### Area : 130'373 km²
+### Neighboring countries : Costa Rica, Honduras
+### Timezones : UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/bfa.svg)
+![](https://restcountries.eu/data/nic.svg)
