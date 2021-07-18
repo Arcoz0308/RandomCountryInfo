@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/07/2021, 00:00:18 (France time)
+### last update : 18/07/2021, 03:00:18 (France time)
 
-### name : Togo
-### Population : 7'143'000
-### Capital : Lomé
-### Region : Africa
+### name : Wallis and Futuna
+### Population : 11'750
+### Capital : Mata-Utu
+### Region : Oceania
 ### Languages : French
-### Area : 56'785 km²
-### Neighboring countries : Benin, Burkina Faso, Ghana
-### Timezones : UTC
+### Area : 142 km²
+### Neighboring countries : 
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/tgo.svg)
+![](https://restcountries.eu/data/wlf.svg)
