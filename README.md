@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/07/2021, 06:00:18 (France time)
+### last update : 18/07/2021, 09:00:18 (France time)
 
-### name : Bonaire, Sint Eustatius and Saba
-### Population : 17'408
-### Capital : Kralendijk
-### Region : Americas
-### Languages : Dutch
-### Area : 294 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : South Sudan
+### Population : 12'131'000
+### Capital : Juba
+### Region : Africa
+### Languages : English
+### Area : 619'745 km²
+### Neighboring countries : Central African Republic, Congo (Democratic Republic of the), Ethiopia, Kenya, Sudan, Uganda
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/bes.svg)
+![](https://restcountries.eu/data/ssd.svg)
