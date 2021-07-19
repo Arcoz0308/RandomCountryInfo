@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/07/2021, 00:00:20 (France time)
+### last update : 19/07/2021, 00:11:09 (France time)
 
-### name : Burkina Faso
-### Population : 19'034'397
-### Capital : Ouagadougou
-### Region : Africa
-### Languages : French, Fula
-### Area : 272'967 km²
-### Neighboring countries : Benin, Côte d'Ivoire, Ghana, Mali, Niger, Togo
-### Timezones : UTC
+### name : Tuvalu
+### Population : 10'640
+### Capital : Funafuti
+### Region : Oceania
+### Languages : English
+### Area : 26 km²
+### Neighboring countries : 
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/bfa.svg)
+![](https://restcountries.eu/data/tuv.svg)
