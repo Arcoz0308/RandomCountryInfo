@@ -1,5 +1,5 @@
 # Country  Infos
-### last update : 19/07/2021, 06:17:57 (France time)
+### last update : 19/07/2021, 09:17:57 (France time)
 
 ### name : Aruba
 ### Population : 107'394
