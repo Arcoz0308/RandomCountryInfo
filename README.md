@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/07/2021, 15:17:57 (France time)
+### last update : 19/07/2021, 18:17:57 (France time)
 
-### name : Northern Mariana Islands
-### Population : 56'940
-### Capital : Saipan
-### Region : Oceania
-### Languages : English, Chamorro
-### Area : 464 km²
-### Neighboring countries : 
-### Timezones : UTC+10:00
+### name : Nepal
+### Population : 28'431'500
+### Capital : Kathmandu
+### Region : Asia
+### Languages : Nepali
+### Area : 147'181 km²
+### Neighboring countries : China, India
+### Timezones : UTC+05:45
 
 ### Flag :
-![](https://restcountries.eu/data/mnp.svg)
+![](https://restcountries.eu/data/npl.svg)
