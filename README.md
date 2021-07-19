@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/07/2021, 03:11:09 (France time)
+### last update : 19/07/2021, 03:17:57 (France time)
 
-### name : Kuwait
-### Population : 4'183'658
-### Capital : Kuwait City
-### Region : Asia
-### Languages : Arabic
-### Area : 17'818 km²
-### Neighboring countries : Iran (Islamic Republic of), Saudi Arabia
-### Timezones : UTC+03:00
+### name : Croatia
+### Population : 4'190'669
+### Capital : Zagreb
+### Region : Europe
+### Languages : Croatian
+### Area : 56'594 km²
+### Neighboring countries : Bosnia and Herzegovina, Hungary, Montenegro, Serbia, Slovenia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/kwt.svg)
+![](https://restcountries.eu/data/hrv.svg)
