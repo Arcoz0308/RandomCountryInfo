@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/07/2021, 18:17:57 (France time)
+### last update : 19/07/2021, 21:17:57 (France time)
 
-### name : Nepal
-### Population : 28'431'500
-### Capital : Kathmandu
-### Region : Asia
-### Languages : Nepali
-### Area : 147'181 km²
-### Neighboring countries : China, India
-### Timezones : UTC+05:45
+### name : Christmas Island
+### Population : 2'072
+### Capital : Flying Fish Cove
+### Region : Oceania
+### Languages : English
+### Area : 135 km²
+### Neighboring countries : 
+### Timezones : UTC+07:00
 
 ### Flag :
-![](https://restcountries.eu/data/npl.svg)
+![](https://restcountries.eu/data/cxr.svg)
