@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/07/2021, 21:00:20 (France time)
+### last update : 19/07/2021, 00:00:20 (France time)
 
-### name : Netherlands
-### Population : 17'019'800
-### Capital : Amsterdam
-### Region : Europe
-### Languages : Dutch
-### Area : 41'850 km²
-### Neighboring countries : Belgium, Germany
-### Timezones : UTC-04:00, UTC+01:00
+### name : Burkina Faso
+### Population : 19'034'397
+### Capital : Ouagadougou
+### Region : Africa
+### Languages : French, Fula
+### Area : 272'967 km²
+### Neighboring countries : Benin, Côte d'Ivoire, Ghana, Mali, Niger, Togo
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/nld.svg)
+![](https://restcountries.eu/data/bfa.svg)
