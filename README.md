@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/07/2021, 12:17:57 (France time)
+### last update : 19/07/2021, 15:17:57 (France time)
 
-### name : Uganda
-### Population : 33'860'700
-### Capital : Kampala
-### Region : Africa
-### Languages : English, Swahili
-### Area : 241'550 km²
-### Neighboring countries : Congo (Democratic Republic of the), Kenya, Rwanda, South Sudan, Tanzania, United Republic of
-### Timezones : UTC+03:00
+### name : Northern Mariana Islands
+### Population : 56'940
+### Capital : Saipan
+### Region : Oceania
+### Languages : English, Chamorro
+### Area : 464 km²
+### Neighboring countries : 
+### Timezones : UTC+10:00
 
 ### Flag :
-![](https://restcountries.eu/data/uga.svg)
+![](https://restcountries.eu/data/mnp.svg)
