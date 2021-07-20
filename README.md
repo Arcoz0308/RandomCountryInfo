@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 20/07/2021, 09:53:06 (France time)
+### last update : 20/07/2021, 12:53:06 (France time)
 
-### name : Vanuatu
-### Population : 277'500
-### Capital : Port Vila
-### Region : Oceania
-### Languages : Bislama, English, French
-### Area : 12'189 km²
-### Neighboring countries : 
-### Timezones : UTC+11:00
+### name : Burundi
+### Population : 10'114'505
+### Capital : Bujumbura
+### Region : Africa
+### Languages : French, Kirundi
+### Area : 27'834 km²
+### Neighboring countries : Congo (Democratic Republic of the), Rwanda, Tanzania, United Republic of
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/vut.svg)
+![](https://restcountries.eu/data/bdi.svg)
