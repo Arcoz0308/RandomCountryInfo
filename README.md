@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 20/07/2021, 00:17:57 (France time)
+### last update : 20/07/2021, 03:17:57 (France time)
 
-### name : Equatorial Guinea
-### Population : 1'222'442
-### Capital : Malabo
+### name : Togo
+### Population : 7'143'000
+### Capital : Lomé
 ### Region : Africa
-### Languages : Spanish, French
-### Area : 28'051 km²
-### Neighboring countries : Cameroon, Gabon
-### Timezones : UTC+01:00
+### Languages : French
+### Area : 56'785 km²
+### Neighboring countries : Benin, Burkina Faso, Ghana
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/gnq.svg)
+![](https://restcountries.eu/data/tgo.svg)
