@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/07/2021, 21:17:57 (France time)
+### last update : 20/07/2021, 00:17:57 (France time)
 
-### name : Christmas Island
-### Population : 2'072
-### Capital : Flying Fish Cove
-### Region : Oceania
-### Languages : English
-### Area : 135 km²
-### Neighboring countries : 
-### Timezones : UTC+07:00
+### name : Equatorial Guinea
+### Population : 1'222'442
+### Capital : Malabo
+### Region : Africa
+### Languages : Spanish, French
+### Area : 28'051 km²
+### Neighboring countries : Cameroon, Gabon
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/cxr.svg)
+![](https://restcountries.eu/data/gnq.svg)
