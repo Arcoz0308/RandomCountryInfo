@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 20/07/2021, 03:17:57 (France time)
+### last update : 20/07/2021, 06:53:06 (France time)
 
-### name : Togo
-### Population : 7'143'000
-### Capital : Lomé
+### name : Burundi
+### Population : 10'114'505
+### Capital : Bujumbura
 ### Region : Africa
-### Languages : French
-### Area : 56'785 km²
-### Neighboring countries : Benin, Burkina Faso, Ghana
-### Timezones : UTC
+### Languages : French, Kirundi
+### Area : 27'834 km²
+### Neighboring countries : Congo (Democratic Republic of the), Rwanda, Tanzania, United Republic of
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/tgo.svg)
+![](https://restcountries.eu/data/bdi.svg)
