@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/07/2021, 19:13:31 (France time)
+### last update : 21/07/2021, 22:13:31 (France time)
 
-### name : Japan
-### Population : 126'960'000
-### Capital : Tokyo
-### Region : Asia
-### Languages : Japanese
-### Area : 377'930 km²
-### Neighboring countries : 
-### Timezones : UTC+09:00
+### name : Hungary
+### Population : 9'823'000
+### Capital : Budapest
+### Region : Europe
+### Languages : Hungarian
+### Area : 93'028 km²
+### Neighboring countries : Austria, Croatia, Romania, Serbia, Slovakia, Slovenia, Ukraine
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/jpn.svg)
+![](https://restcountries.eu/data/hun.svg)
