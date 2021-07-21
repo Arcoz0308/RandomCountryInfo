@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/07/2021, 10:13:31 (France time)
+### last update : 21/07/2021, 13:13:31 (France time)
 
-### name : Czech Republic
-### Population : 10'558'524
-### Capital : Prague
-### Region : Europe
-### Languages : Czech, Slovak
-### Area : 78'865 km²
-### Neighboring countries : Austria, Germany, Poland, Slovakia
-### Timezones : UTC+01:00
+### name : Pakistan
+### Population : 194'125'062
+### Capital : Islamabad
+### Region : Asia
+### Languages : English, Urdu
+### Area : 881'912 km²
+### Neighboring countries : Afghanistan, China, India, Iran (Islamic Republic of)
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/cze.svg)
+![](https://restcountries.eu/data/pak.svg)
