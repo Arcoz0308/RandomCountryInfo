@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/07/2021, 13:13:31 (France time)
+### last update : 21/07/2021, 16:13:31 (France time)
 
-### name : Pakistan
-### Population : 194'125'062
-### Capital : Islamabad
-### Region : Asia
-### Languages : English, Urdu
-### Area : 881'912 km²
-### Neighboring countries : Afghanistan, China, India, Iran (Islamic Republic of)
-### Timezones : UTC+05:00
+### name : Bulgaria
+### Population : 7'153'784
+### Capital : Sofia
+### Region : Europe
+### Languages : Bulgarian
+### Area : 110'879 km²
+### Neighboring countries : Greece, Macedonia (the former Yugoslav Republic of), Romania, Serbia, Turkey
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/pak.svg)
+![](https://restcountries.eu/data/bgr.svg)
