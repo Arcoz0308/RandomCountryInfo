@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/07/2021, 16:13:31 (France time)
+### last update : 21/07/2021, 19:13:31 (France time)
 
-### name : Bulgaria
-### Population : 7'153'784
-### Capital : Sofia
-### Region : Europe
-### Languages : Bulgarian
-### Area : 110'879 km²
-### Neighboring countries : Greece, Macedonia (the former Yugoslav Republic of), Romania, Serbia, Turkey
-### Timezones : UTC+02:00
+### name : Japan
+### Population : 126'960'000
+### Capital : Tokyo
+### Region : Asia
+### Languages : Japanese
+### Area : 377'930 km²
+### Neighboring countries : 
+### Timezones : UTC+09:00
 
 ### Flag :
-![](https://restcountries.eu/data/bgr.svg)
+![](https://restcountries.eu/data/jpn.svg)
