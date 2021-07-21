@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/07/2021, 00:53:07 (France time)
+### last update : 21/07/2021, 03:53:07 (France time)
 
-### name : Argentina
-### Population : 43'590'400
-### Capital : Buenos Aires
-### Region : Americas
-### Languages : Spanish, Guaraní
-### Area : 2'780'400 km²
-### Neighboring countries : Bolivia (Plurinational State of), Brazil, Chile, Paraguay, Uruguay
-### Timezones : UTC-03:00
+### name : Angola
+### Population : 25'868'000
+### Capital : Luanda
+### Region : Africa
+### Languages : Portuguese
+### Area : 1'246'700 km²
+### Neighboring countries : Congo, Congo (Democratic Republic of the), Zambia, Namibia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/arg.svg)
+![](https://restcountries.eu/data/ago.svg)
