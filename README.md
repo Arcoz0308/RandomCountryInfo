@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/07/2021, 07:13:30 (France time)
+### last update : 21/07/2021, 10:13:31 (France time)
 
-### name : Croatia
-### Population : 4'190'669
-### Capital : Zagreb
+### name : Czech Republic
+### Population : 10'558'524
+### Capital : Prague
 ### Region : Europe
-### Languages : Croatian
-### Area : 56'594 km²
-### Neighboring countries : Bosnia and Herzegovina, Hungary, Montenegro, Serbia, Slovenia
+### Languages : Czech, Slovak
+### Area : 78'865 km²
+### Neighboring countries : Austria, Germany, Poland, Slovakia
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/hrv.svg)
+![](https://restcountries.eu/data/cze.svg)
