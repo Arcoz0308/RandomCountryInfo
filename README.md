@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 22/07/2021, 04:21:41 (France time)
+### last update : 22/07/2021, 07:21:41 (France time)
 
-### name : Uruguay
-### Population : 3'480'222
-### Capital : Montevideo
-### Region : Americas
-### Languages : Spanish
-### Area : 181'034 km²
-### Neighboring countries : Argentina, Brazil
-### Timezones : UTC-03:00
+### name : Bouvet Island
+### Population : 0
+### Capital : 
+### Region : 
+### Languages : Norwegian, Norwegian Bokmål, Norwegian Nynorsk
+### Area : 49 km²
+### Neighboring countries : 
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/ury.svg)
+![](https://restcountries.eu/data/bvt.svg)
