@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 22/07/2021, 19:21:41 (France time)
+### last update : 22/07/2021, 22:21:42 (France time)
 
-### name : Swaziland
-### Population : 1'132'657
-### Capital : Lobamba
-### Region : Africa
-### Languages : English, Swati
-### Area : 17'364 km²
-### Neighboring countries : Mozambique, South Africa
+### name : Syrian Arab Republic
+### Population : 18'564'000
+### Capital : Damascus
+### Region : Asia
+### Languages : Arabic
+### Area : 185'180 km²
+### Neighboring countries : Iraq, Israel, Jordan, Lebanon, Turkey
 ### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/swz.svg)
+![](https://restcountries.eu/data/syr.svg)
