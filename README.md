@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/07/2021, 20:00:59 (France time)
+### last update : 23/07/2021, 23:00:59 (France time)
 
-### name : Puerto Rico
-### Population : 3'474'182
-### Capital : San Juan
+### name : Belize
+### Population : 370'300
+### Capital : Belmopan
 ### Region : Americas
-### Languages : Spanish, English
-### Area : 8'870 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### Languages : English, Spanish
+### Area : 22'966 km²
+### Neighboring countries : Guatemala, Mexico
+### Timezones : UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/pri.svg)
+![](https://restcountries.eu/data/blz.svg)
