@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/07/2021, 14:01:00 (France time)
+### last update : 23/07/2021, 17:00:59 (France time)
 
-### name : Monaco
-### Population : 38'400
-### Capital : Monaco
+### name : Moldova (Republic of)
+### Population : 3'553'100
+### Capital : Chișinău
 ### Region : Europe
-### Languages : French
-### Area : 2.02 km²
-### Neighboring countries : France
-### Timezones : UTC+01:00
+### Languages : Romanian
+### Area : 33'846 km²
+### Neighboring countries : Romania, Ukraine
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/mco.svg)
+![](https://restcountries.eu/data/mda.svg)
