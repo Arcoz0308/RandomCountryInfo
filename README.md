@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 22/07/2021, 22:21:42 (France time)
+### last update : 23/07/2021, 01:21:42 (France time)
 
-### name : Syrian Arab Republic
-### Population : 18'564'000
-### Capital : Damascus
-### Region : Asia
-### Languages : Arabic
-### Area : 185'180 km²
-### Neighboring countries : Iraq, Israel, Jordan, Lebanon, Turkey
+### name : Malawi
+### Population : 16'832'910
+### Capital : Lilongwe
+### Region : Africa
+### Languages : English, Chichewa
+### Area : 118'484 km²
+### Neighboring countries : Mozambique, Tanzania, United Republic of, Zambia
 ### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/syr.svg)
+![](https://restcountries.eu/data/mwi.svg)
