@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/07/2021, 23:00:59 (France time)
+### last update : 24/07/2021, 02:01:00 (France time)
 
-### name : Belize
-### Population : 370'300
-### Capital : Belmopan
+### name : Cayman Islands
+### Population : 58'238
+### Capital : George Town
 ### Region : Americas
-### Languages : English, Spanish
-### Area : 22'966 km²
-### Neighboring countries : Guatemala, Mexico
-### Timezones : UTC-06:00
+### Languages : English
+### Area : 264 km²
+### Neighboring countries : 
+### Timezones : UTC-05:00
 
 ### Flag :
-![](https://restcountries.eu/data/blz.svg)
+![](https://restcountries.eu/data/cym.svg)
