@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 24/07/2021, 20:32:20 (France time)
+### last update : 24/07/2021, 23:32:20 (France time)
 
-### name : Gibraltar
-### Population : 33'140
-### Capital : Gibraltar
-### Region : Europe
-### Languages : English
-### Area : 6 km²
-### Neighboring countries : Spain
-### Timezones : UTC+01:00
+### name : Mongolia
+### Population : 3'093'100
+### Capital : Ulan Bator
+### Region : Asia
+### Languages : Mongolian
+### Area : 1'564'110 km²
+### Neighboring countries : China, Russian Federation
+### Timezones : UTC+07:00, UTC+08:00
 
 ### Flag :
-![](https://restcountries.eu/data/gib.svg)
+![](https://restcountries.eu/data/mng.svg)
