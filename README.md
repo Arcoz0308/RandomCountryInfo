@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 24/07/2021, 14:32:20 (France time)
+### last update : 24/07/2021, 17:32:20 (France time)
 
-### name : Korea (Republic of)
-### Population : 50'801'405
-### Capital : Seoul
-### Region : Asia
-### Languages : Korean
-### Area : 100'210 km²
-### Neighboring countries : Korea (Democratic People's Republic of)
-### Timezones : UTC+09:00
+### name : Vanuatu
+### Population : 277'500
+### Capital : Port Vila
+### Region : Oceania
+### Languages : Bislama, English, French
+### Area : 12'189 km²
+### Neighboring countries : 
+### Timezones : UTC+11:00
 
 ### Flag :
-![](https://restcountries.eu/data/kor.svg)
+![](https://restcountries.eu/data/vut.svg)
