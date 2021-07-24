@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 24/07/2021, 11:32:20 (France time)
+### last update : 24/07/2021, 14:32:20 (France time)
 
-### name : Lao People's Democratic Republic
-### Population : 6'492'400
-### Capital : Vientiane
+### name : Korea (Republic of)
+### Population : 50'801'405
+### Capital : Seoul
 ### Region : Asia
-### Languages : Lao
-### Area : 236'800 km²
-### Neighboring countries : Myanmar, Cambodia, China, Thailand, Viet Nam
-### Timezones : UTC+07:00
+### Languages : Korean
+### Area : 100'210 km²
+### Neighboring countries : Korea (Democratic People's Republic of)
+### Timezones : UTC+09:00
 
 ### Flag :
-![](https://restcountries.eu/data/lao.svg)
+![](https://restcountries.eu/data/kor.svg)
