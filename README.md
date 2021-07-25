@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 25/07/2021, 09:13:02 (France time)
+### last update : 25/07/2021, 12:13:02 (France time)
 
-### name : Brunei Darussalam
-### Population : 411'900
-### Capital : Bandar Seri Begawan
-### Region : Asia
-### Languages : Malay
-### Area : 5'765 km²
-### Neighboring countries : Malaysia
-### Timezones : UTC+08:00
+### name : Virgin Islands (British)
+### Population : 28'514
+### Capital : Road Town
+### Region : Americas
+### Languages : English
+### Area : 151 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/brn.svg)
+![](https://restcountries.eu/data/vgb.svg)
