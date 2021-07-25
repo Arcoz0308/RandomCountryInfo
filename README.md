@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 24/07/2021, 23:32:20 (France time)
+### last update : 25/07/2021, 02:32:20 (France time)
 
-### name : Mongolia
-### Population : 3'093'100
-### Capital : Ulan Bator
-### Region : Asia
-### Languages : Mongolian
-### Area : 1'564'110 km²
-### Neighboring countries : China, Russian Federation
-### Timezones : UTC+07:00, UTC+08:00
+### name : Grenada
+### Population : 103'328
+### Capital : St. George's
+### Region : Americas
+### Languages : English
+### Area : 344 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/mng.svg)
+![](https://restcountries.eu/data/grd.svg)
