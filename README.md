@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 25/07/2021, 05:32:20 (France time)
+### last update : 25/07/2021, 06:13:02 (France time)
 
-### name : Saint Lucia
-### Population : 186'000
-### Capital : Castries
-### Region : Americas
-### Languages : English
-### Area : 616 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Mongolia
+### Population : 3'093'100
+### Capital : Ulan Bator
+### Region : Asia
+### Languages : Mongolian
+### Area : 1'564'110 km²
+### Neighboring countries : China, Russian Federation
+### Timezones : UTC+07:00, UTC+08:00
 
 ### Flag :
-![](https://restcountries.eu/data/lca.svg)
+![](https://restcountries.eu/data/mng.svg)
