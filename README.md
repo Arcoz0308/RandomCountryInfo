@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 25/07/2021, 12:13:02 (France time)
+### last update : 25/07/2021, 15:13:03 (France time)
 
-### name : Virgin Islands (British)
-### Population : 28'514
-### Capital : Road Town
-### Region : Americas
-### Languages : English
-### Area : 151 km²
+### name : Bouvet Island
+### Population : 0
+### Capital : 
+### Region : 
+### Languages : Norwegian, Norwegian Bokmål, Norwegian Nynorsk
+### Area : 49 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/vgb.svg)
+![](https://restcountries.eu/data/bvt.svg)
