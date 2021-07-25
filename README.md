@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 25/07/2021, 15:13:03 (France time)
+### last update : 25/07/2021, 18:13:02 (France time)
 
-### name : Bouvet Island
-### Population : 0
-### Capital : 
-### Region : 
-### Languages : Norwegian, Norwegian Bokmål, Norwegian Nynorsk
-### Area : 49 km²
-### Neighboring countries : 
+### name : Sweden
+### Population : 9'894'888
+### Capital : Stockholm
+### Region : Europe
+### Languages : Swedish
+### Area : 450'295 km²
+### Neighboring countries : Finland, Norway
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/bvt.svg)
+![](https://restcountries.eu/data/swe.svg)
