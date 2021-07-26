@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 26/07/2021, 06:13:03 (France time)
+### last update : 26/07/2021, 06:45:12 (France time)
 
-### name : Suriname
-### Population : 541'638
-### Capital : Paramaribo
-### Region : Americas
-### Languages : Dutch
-### Area : 163'820 km²
-### Neighboring countries : Brazil, French Guiana, France, Guyana
-### Timezones : UTC-03:00
+### name : Lithuania
+### Population : 2'872'294
+### Capital : Vilnius
+### Region : Europe
+### Languages : Lithuanian
+### Area : 65'300 km²
+### Neighboring countries : Belarus, Latvia, Poland, Russian Federation
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/sur.svg)
+![](https://restcountries.eu/data/ltu.svg)
