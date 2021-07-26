@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 26/07/2021, 03:13:03 (France time)
+### last update : 26/07/2021, 06:13:03 (France time)
 
-### name : Turkmenistan
-### Population : 4'751'120
-### Capital : Ashgabat
-### Region : Asia
-### Languages : Turkmen, Russian
-### Area : 488'100 km²
-### Neighboring countries : Afghanistan, Iran (Islamic Republic of), Kazakhstan, Uzbekistan
-### Timezones : UTC+05:00
+### name : Suriname
+### Population : 541'638
+### Capital : Paramaribo
+### Region : Americas
+### Languages : Dutch
+### Area : 163'820 km²
+### Neighboring countries : Brazil, French Guiana, France, Guyana
+### Timezones : UTC-03:00
 
 ### Flag :
-![](https://restcountries.eu/data/tkm.svg)
+![](https://restcountries.eu/data/sur.svg)
