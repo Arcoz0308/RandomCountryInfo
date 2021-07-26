@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 26/07/2021, 00:13:03 (France time)
+### last update : 26/07/2021, 03:13:03 (France time)
 
-### name : Bangladesh
-### Population : 161'006'790
-### Capital : Dhaka
+### name : Turkmenistan
+### Population : 4'751'120
+### Capital : Ashgabat
 ### Region : Asia
-### Languages : Bengali
-### Area : 147'570 km²
-### Neighboring countries : Myanmar, India
-### Timezones : UTC+06:00
+### Languages : Turkmen, Russian
+### Area : 488'100 km²
+### Neighboring countries : Afghanistan, Iran (Islamic Republic of), Kazakhstan, Uzbekistan
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/bgd.svg)
+![](https://restcountries.eu/data/tkm.svg)
