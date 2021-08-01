@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/08/2021, 08:20:59 (France time)
+### last update : 01/08/2021, 11:20:59 (France time)
 
-### name : French Southern Territories
-### Population : 140
-### Capital : Port-aux-Français
-### Region : Africa
-### Languages : French
-### Area : 7'747 km²
-### Neighboring countries : 
-### Timezones : UTC+05:00
+### name : Bulgaria
+### Population : 7'153'784
+### Capital : Sofia
+### Region : Europe
+### Languages : Bulgarian
+### Area : 110'879 km²
+### Neighboring countries : Greece, Macedonia (the former Yugoslav Republic of), Romania, Serbia, Turkey
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/atf.svg)
+![](https://restcountries.eu/data/bgr.svg)
