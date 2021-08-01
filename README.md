@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/08/2021, 00:31:49 (France time)
+### last update : 01/08/2021, 02:20:59 (France time)
 
-### name : Bulgaria
-### Population : 7'153'784
-### Capital : Sofia
-### Region : Europe
-### Languages : Bulgarian
-### Area : 110'879 km²
-### Neighboring countries : Greece, Macedonia (the former Yugoslav Republic of), Romania, Serbia, Turkey
-### Timezones : UTC+02:00
+### name : Uzbekistan
+### Population : 31'576'400
+### Capital : Tashkent
+### Region : Asia
+### Languages : Uzbek, Russian
+### Area : 447'400 km²
+### Neighboring countries : Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/bgr.svg)
+![](https://restcountries.eu/data/uzb.svg)
