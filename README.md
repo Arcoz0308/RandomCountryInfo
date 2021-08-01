@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 26/07/2021, 06:45:12 (France time)
+### last update : 01/08/2021, 00:31:49 (France time)
 
-### name : Lithuania
-### Population : 2'872'294
-### Capital : Vilnius
+### name : Bulgaria
+### Population : 7'153'784
+### Capital : Sofia
 ### Region : Europe
-### Languages : Lithuanian
-### Area : 65'300 km²
-### Neighboring countries : Belarus, Latvia, Poland, Russian Federation
+### Languages : Bulgarian
+### Area : 110'879 km²
+### Neighboring countries : Greece, Macedonia (the former Yugoslav Republic of), Romania, Serbia, Turkey
 ### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/ltu.svg)
+![](https://restcountries.eu/data/bgr.svg)
