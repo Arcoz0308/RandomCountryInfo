@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/08/2021, 05:20:59 (France time)
+### last update : 01/08/2021, 08:20:59 (France time)
 
-### name : Isle of Man
-### Population : 84'497
-### Capital : Douglas
-### Region : Europe
-### Languages : English, Manx
-### Area : 572 km²
+### name : French Southern Territories
+### Population : 140
+### Capital : Port-aux-Français
+### Region : Africa
+### Languages : French
+### Area : 7'747 km²
 ### Neighboring countries : 
-### Timezones : UTC+00:00
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/imn.svg)
+![](https://restcountries.eu/data/atf.svg)
