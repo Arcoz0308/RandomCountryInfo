@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/08/2021, 17:21:00 (France time)
+### last update : 01/08/2021, 20:21:00 (France time)
 
-### name : Tajikistan
-### Population : 8'593'600
-### Capital : Dushanbe
+### name : Israel
+### Population : 8'527'400
+### Capital : Jerusalem
 ### Region : Asia
-### Languages : Tajik, Russian
-### Area : 143'100 km²
-### Neighboring countries : Afghanistan, China, Kyrgyzstan, Uzbekistan
-### Timezones : UTC+05:00
+### Languages : Hebrew (modern), Arabic
+### Area : 20'770 km²
+### Neighboring countries : Egypt, Jordan, Lebanon, Syrian Arab Republic
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/tjk.svg)
+![](https://restcountries.eu/data/isr.svg)
