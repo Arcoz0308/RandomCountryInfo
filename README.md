@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 01/08/2021, 20:21:00 (France time)
+### last update : 01/08/2021, 23:21:00 (France time)
 
-### name : Israel
-### Population : 8'527'400
-### Capital : Jerusalem
+### name : Iran (Islamic Republic of)
+### Population : 79'369'900
+### Capital : Tehran
 ### Region : Asia
-### Languages : Hebrew (modern), Arabic
-### Area : 20'770 km²
-### Neighboring countries : Egypt, Jordan, Lebanon, Syrian Arab Republic
-### Timezones : UTC+02:00
+### Languages : Persian (Farsi)
+### Area : 1'648'195 km²
+### Neighboring countries : Afghanistan, Armenia, Azerbaijan, Iraq, Pakistan, Turkey, Turkmenistan
+### Timezones : UTC+03:30
 
 ### Flag :
-![](https://restcountries.eu/data/isr.svg)
+![](https://restcountries.eu/data/irn.svg)
