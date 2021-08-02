@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/08/2021, 14:36:30 (France time)
+### last update : 02/08/2021, 20:36:31 (France time)
 
-### name : Korea (Republic of)
-### Population : 50'801'405
-### Capital : Seoul
-### Region : Asia
-### Languages : Korean
-### Area : 100'210 km²
-### Neighboring countries : Korea (Democratic People's Republic of)
-### Timezones : UTC+09:00
+### name : Colombia
+### Population : 48'759'958
+### Capital : Bogotá
+### Region : Americas
+### Languages : Spanish
+### Area : 1'141'748 km²
+### Neighboring countries : Brazil, Ecuador, Panama, Peru, Venezuela (Bolivarian Republic of)
+### Timezones : UTC-05:00
 
 ### Flag :
-![](https://restcountries.eu/data/kor.svg)
+![](https://restcountries.eu/data/col.svg)
