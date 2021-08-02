@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/08/2021, 08:36:30 (France time)
+### last update : 02/08/2021, 11:36:30 (France time)
 
-### name : Virgin Islands (British)
-### Population : 28'514
-### Capital : Road Town
-### Region : Americas
-### Languages : English
-### Area : 151 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : United Arab Emirates
+### Population : 9'856'000
+### Capital : Abu Dhabi
+### Region : Asia
+### Languages : Arabic
+### Area : 83'600 km²
+### Neighboring countries : Oman, Saudi Arabia
+### Timezones : UTC+04
 
 ### Flag :
-![](https://restcountries.eu/data/vgb.svg)
+![](https://restcountries.eu/data/are.svg)
