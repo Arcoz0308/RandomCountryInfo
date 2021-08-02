@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 02/08/2021, 02:21:00 (France time)
+### last update : 02/08/2021, 02:36:30 (France time)
 
-### name : Saint Kitts and Nevis
-### Population : 46'204
-### Capital : Basseterre
-### Region : Americas
-### Languages : English
-### Area : 261 km²
+### name : Faroe Islands
+### Population : 49'376
+### Capital : Tórshavn
+### Region : Europe
+### Languages : Faroese
+### Area : 1'393 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/kna.svg)
+![](https://restcountries.eu/data/fro.svg)
