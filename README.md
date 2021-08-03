@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/08/2021, 11:58:04 (France time)
+### last update : 03/08/2021, 14:58:04 (France time)
 
-### name : Macedonia (the former Yugoslav Republic of)
-### Population : 2'058'539
-### Capital : Skopje
+### name : Iceland
+### Population : 334'300
+### Capital : Reykjavík
 ### Region : Europe
-### Languages : Macedonian
-### Area : 25'713 km²
-### Neighboring countries : Albania, Bulgaria, Greece, Republic of Kosovo, Serbia
-### Timezones : UTC+01:00
+### Languages : Icelandic
+### Area : 103'000 km²
+### Neighboring countries : 
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/mkd.svg)
+![](https://restcountries.eu/data/isl.svg)
