@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/08/2021, 05:58:04 (France time)
+### last update : 03/08/2021, 08:58:04 (France time)
 
-### name : Cocos (Keeling) Islands
-### Population : 550
-### Capital : West Island
-### Region : Oceania
-### Languages : English
-### Area : 14 km²
-### Neighboring countries : 
-### Timezones : UTC+06:30
+### name : Cameroon
+### Population : 22'709'892
+### Capital : Yaoundé
+### Region : Africa
+### Languages : English, French
+### Area : 475'442 km²
+### Neighboring countries : Central African Republic, Chad, Congo, Equatorial Guinea, Gabon, Nigeria
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/cck.svg)
+![](https://restcountries.eu/data/cmr.svg)
