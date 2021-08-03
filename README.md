@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/08/2021, 08:58:04 (France time)
+### last update : 03/08/2021, 11:58:04 (France time)
 
-### name : Cameroon
-### Population : 22'709'892
-### Capital : Yaoundé
-### Region : Africa
-### Languages : English, French
-### Area : 475'442 km²
-### Neighboring countries : Central African Republic, Chad, Congo, Equatorial Guinea, Gabon, Nigeria
+### name : Macedonia (the former Yugoslav Republic of)
+### Population : 2'058'539
+### Capital : Skopje
+### Region : Europe
+### Languages : Macedonian
+### Area : 25'713 km²
+### Neighboring countries : Albania, Bulgaria, Greece, Republic of Kosovo, Serbia
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/cmr.svg)
+![](https://restcountries.eu/data/mkd.svg)
