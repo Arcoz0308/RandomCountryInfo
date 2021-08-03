@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/08/2021, 02:36:31 (France time)
+### last update : 03/08/2021, 02:58:04 (France time)
 
-### name : Saint Lucia
-### Population : 186'000
-### Capital : Castries
-### Region : Americas
-### Languages : English
-### Area : 616 km²
+### name : Guam
+### Population : 184'200
+### Capital : Hagåtña
+### Region : Oceania
+### Languages : English, Chamorro, Spanish
+### Area : 549 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+10:00
 
 ### Flag :
-![](https://restcountries.eu/data/lca.svg)
+![](https://restcountries.eu/data/gum.svg)
