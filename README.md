@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/08/2021, 02:58:04 (France time)
+### last update : 03/08/2021, 05:58:04 (France time)
 
-### name : Guam
-### Population : 184'200
-### Capital : Hagåtña
+### name : Cocos (Keeling) Islands
+### Population : 550
+### Capital : West Island
 ### Region : Oceania
-### Languages : English, Chamorro, Spanish
-### Area : 549 km²
+### Languages : English
+### Area : 14 km²
 ### Neighboring countries : 
-### Timezones : UTC+10:00
+### Timezones : UTC+06:30
 
 ### Flag :
-![](https://restcountries.eu/data/gum.svg)
+![](https://restcountries.eu/data/cck.svg)
