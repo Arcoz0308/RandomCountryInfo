@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/08/2021, 03:17:47 (France time)
+### last update : 04/08/2021, 06:17:47 (France time)
 
-### name : Sweden
-### Population : 9'894'888
-### Capital : Stockholm
-### Region : Europe
-### Languages : Swedish
-### Area : 450'295 km²
-### Neighboring countries : Finland, Norway
-### Timezones : UTC+01:00
+### name : Comoros
+### Population : 806'153
+### Capital : Moroni
+### Region : Africa
+### Languages : Arabic, French
+### Area : 1'862 km²
+### Neighboring countries : 
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/swe.svg)
+![](https://restcountries.eu/data/com.svg)
