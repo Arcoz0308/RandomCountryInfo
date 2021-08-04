@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/08/2021, 02:58:05 (France time)
+### last update : 04/08/2021, 03:17:47 (France time)
 
-### name : Guernsey
-### Population : 62'999
-### Capital : St. Peter Port
+### name : Sweden
+### Population : 9'894'888
+### Capital : Stockholm
 ### Region : Europe
-### Languages : English, French
-### Area : 78 km²
-### Neighboring countries : 
-### Timezones : UTC+00:00
+### Languages : Swedish
+### Area : 450'295 km²
+### Neighboring countries : Finland, Norway
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/ggy.svg)
+![](https://restcountries.eu/data/swe.svg)
