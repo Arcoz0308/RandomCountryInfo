@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/08/2021, 09:17:47 (France time)
+### last update : 04/08/2021, 12:17:48 (France time)
 
-### name : Sri Lanka
-### Population : 20'966'000
-### Capital : Colombo
-### Region : Asia
-### Languages : Sinhalese, Tamil
-### Area : 65'610 km²
-### Neighboring countries : India
-### Timezones : UTC+05:30
+### name : Samoa
+### Population : 194'899
+### Capital : Apia
+### Region : Oceania
+### Languages : Samoan, English
+### Area : 2'842 km²
+### Neighboring countries : 
+### Timezones : UTC+13:00
 
 ### Flag :
-![](https://restcountries.eu/data/lka.svg)
+![](https://restcountries.eu/data/wsm.svg)
