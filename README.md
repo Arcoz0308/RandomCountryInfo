@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 03/08/2021, 23:58:05 (France time)
+### last update : 04/08/2021, 02:58:05 (France time)
 
-### name : Pitcairn
-### Population : 56
-### Capital : Adamstown
-### Region : Oceania
-### Languages : English
-### Area : 47 km²
+### name : Guernsey
+### Population : 62'999
+### Capital : St. Peter Port
+### Region : Europe
+### Languages : English, French
+### Area : 78 km²
 ### Neighboring countries : 
-### Timezones : UTC-08:00
+### Timezones : UTC+00:00
 
 ### Flag :
-![](https://restcountries.eu/data/pcn.svg)
+![](https://restcountries.eu/data/ggy.svg)
