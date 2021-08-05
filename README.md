@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 04/08/2021, 21:17:48 (France time)
+### last update : 05/08/2021, 00:17:48 (France time)
 
-### name : Malta
-### Population : 425'384
-### Capital : Valletta
-### Region : Europe
-### Languages : Maltese, English
-### Area : 316 km²
-### Neighboring countries : 
+### name : Libya
+### Population : 6'385'000
+### Capital : Tripoli
+### Region : Africa
+### Languages : Arabic
+### Area : 1'759'540 km²
+### Neighboring countries : Algeria, Chad, Egypt, Niger, Sudan, Tunisia
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/mlt.svg)
+![](https://restcountries.eu/data/lby.svg)
