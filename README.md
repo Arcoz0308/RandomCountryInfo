@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/08/2021, 12:43:15 (France time)
+### last update : 05/08/2021, 15:43:15 (France time)
 
-### name : Malta
-### Population : 425'384
-### Capital : Valletta
-### Region : Europe
-### Languages : Maltese, English
-### Area : 316 km²
-### Neighboring countries : 
-### Timezones : UTC+01:00
+### name : Sint Maarten (Dutch part)
+### Population : 38'247
+### Capital : Philipsburg
+### Region : Americas
+### Languages : Dutch, English
+### Area : 34 km²
+### Neighboring countries : Saint Martin (French part)
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/mlt.svg)
+![](https://restcountries.eu/data/sxm.svg)
