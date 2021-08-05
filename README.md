@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/08/2021, 00:17:48 (France time)
+### last update : 05/08/2021, 03:17:48 (France time)
 
-### name : Libya
-### Population : 6'385'000
-### Capital : Tripoli
+### name : Malawi
+### Population : 16'832'910
+### Capital : Lilongwe
 ### Region : Africa
-### Languages : Arabic
-### Area : 1'759'540 km²
-### Neighboring countries : Algeria, Chad, Egypt, Niger, Sudan, Tunisia
-### Timezones : UTC+01:00
+### Languages : English, Chichewa
+### Area : 118'484 km²
+### Neighboring countries : Mozambique, Tanzania, United Republic of, Zambia
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/lby.svg)
+![](https://restcountries.eu/data/mwi.svg)
