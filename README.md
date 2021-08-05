@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/08/2021, 06:43:15 (France time)
+### last update : 05/08/2021, 09:43:15 (France time)
 
-### name : Armenia
-### Population : 2'994'400
-### Capital : Yerevan
-### Region : Asia
-### Languages : Armenian, Russian
-### Area : 29'743 km²
-### Neighboring countries : Azerbaijan, Georgia, Iran (Islamic Republic of), Turkey
-### Timezones : UTC+04:00
+### name : Estonia
+### Population : 1'315'944
+### Capital : Tallinn
+### Region : Europe
+### Languages : Estonian
+### Area : 45'227 km²
+### Neighboring countries : Latvia, Russian Federation
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/arm.svg)
+![](https://restcountries.eu/data/est.svg)
