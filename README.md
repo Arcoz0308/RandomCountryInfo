@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/08/2021, 03:17:48 (France time)
+### last update : 05/08/2021, 03:43:15 (France time)
 
-### name : Malawi
-### Population : 16'832'910
-### Capital : Lilongwe
-### Region : Africa
-### Languages : English, Chichewa
-### Area : 118'484 km²
-### Neighboring countries : Mozambique, Tanzania, United Republic of, Zambia
-### Timezones : UTC+02:00
+### name : Montenegro
+### Population : 621'810
+### Capital : Podgorica
+### Region : Europe
+### Languages : Serbian, Bosnian, Albanian, Croatian
+### Area : 13'812 km²
+### Neighboring countries : Albania, Bosnia and Herzegovina, Croatia, Republic of Kosovo, Serbia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/mwi.svg)
+![](https://restcountries.eu/data/mne.svg)
