@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/08/2021, 18:43:15 (France time)
+### last update : 05/08/2021, 21:43:16 (France time)
 
-### name : Sint Maarten (Dutch part)
-### Population : 38'247
-### Capital : Philipsburg
-### Region : Americas
-### Languages : Dutch, English
-### Area : 34 km²
-### Neighboring countries : Saint Martin (French part)
-### Timezones : UTC-04:00
+### name : Taiwan
+### Population : 23'503'349
+### Capital : Taipei
+### Region : Asia
+### Languages : Chinese
+### Area : 36'193 km²
+### Neighboring countries : 
+### Timezones : UTC+08:00
 
 ### Flag :
-![](https://restcountries.eu/data/sxm.svg)
+![](https://restcountries.eu/data/twn.svg)
