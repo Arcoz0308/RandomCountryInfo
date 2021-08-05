@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/08/2021, 09:43:15 (France time)
+### last update : 05/08/2021, 12:43:15 (France time)
 
-### name : Estonia
-### Population : 1'315'944
-### Capital : Tallinn
+### name : Malta
+### Population : 425'384
+### Capital : Valletta
 ### Region : Europe
-### Languages : Estonian
-### Area : 45'227 km²
-### Neighboring countries : Latvia, Russian Federation
-### Timezones : UTC+02:00
+### Languages : Maltese, English
+### Area : 316 km²
+### Neighboring countries : 
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/est.svg)
+![](https://restcountries.eu/data/mlt.svg)
