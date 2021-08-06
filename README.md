@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/08/2021, 16:21:05 (France time)
+### last update : 06/08/2021, 19:21:05 (France time)
 
-### name : Colombia
-### Population : 48'759'958
-### Capital : Bogotá
+### name : Anguilla
+### Population : 13'452
+### Capital : The Valley
 ### Region : Americas
-### Languages : Spanish
-### Area : 1'141'748 km²
-### Neighboring countries : Brazil, Ecuador, Panama, Peru, Venezuela (Bolivarian Republic of)
-### Timezones : UTC-05:00
+### Languages : English
+### Area : 91 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/col.svg)
+![](https://restcountries.eu/data/aia.svg)
