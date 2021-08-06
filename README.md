@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/08/2021, 10:21:04 (France time)
+### last update : 06/08/2021, 13:21:04 (France time)
 
-### name : Virgin Islands (British)
-### Population : 28'514
-### Capital : Road Town
-### Region : Americas
-### Languages : English
-### Area : 151 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Norway
+### Population : 5'223'256
+### Capital : Oslo
+### Region : Europe
+### Languages : Norwegian, Norwegian Bokmål, Norwegian Nynorsk
+### Area : 323'802 km²
+### Neighboring countries : Finland, Sweden, Russian Federation
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/vgb.svg)
+![](https://restcountries.eu/data/nor.svg)
