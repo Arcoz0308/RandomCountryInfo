@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/08/2021, 07:21:04 (France time)
+### last update : 06/08/2021, 10:21:04 (France time)
 
-### name : Gibraltar
-### Population : 33'140
-### Capital : Gibraltar
-### Region : Europe
+### name : Virgin Islands (British)
+### Population : 28'514
+### Capital : Road Town
+### Region : Americas
 ### Languages : English
-### Area : 6 km²
-### Neighboring countries : Spain
-### Timezones : UTC+01:00
+### Area : 151 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/gib.svg)
+![](https://restcountries.eu/data/vgb.svg)
