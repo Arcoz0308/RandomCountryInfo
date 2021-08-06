@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 05/08/2021, 21:43:16 (France time)
+### last update : 06/08/2021, 00:43:16 (France time)
 
-### name : Taiwan
-### Population : 23'503'349
-### Capital : Taipei
+### name : Thailand
+### Population : 65'327'652
+### Capital : Bangkok
 ### Region : Asia
-### Languages : Chinese
-### Area : 36'193 km²
-### Neighboring countries : 
-### Timezones : UTC+08:00
+### Languages : Thai
+### Area : 513'120 km²
+### Neighboring countries : Myanmar, Cambodia, Lao People's Democratic Republic, Malaysia
+### Timezones : UTC+07:00
 
 ### Flag :
-![](https://restcountries.eu/data/twn.svg)
+![](https://restcountries.eu/data/tha.svg)
