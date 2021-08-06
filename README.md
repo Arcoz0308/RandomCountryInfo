@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/08/2021, 04:21:04 (France time)
+### last update : 06/08/2021, 07:21:04 (France time)
 
-### name : United States of America
-### Population : 323'947'000
-### Capital : Washington, D.C.
-### Region : Americas
+### name : Gibraltar
+### Population : 33'140
+### Capital : Gibraltar
+### Region : Europe
 ### Languages : English
-### Area : 9'629'091 km²
-### Neighboring countries : Canada, Mexico
-### Timezones : UTC-12:00, UTC-11:00, UTC-10:00, UTC-09:00, UTC-08:00, UTC-07:00, UTC-06:00, UTC-05:00, UTC-04:00, UTC+10:00, UTC+12:00
+### Area : 6 km²
+### Neighboring countries : Spain
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/usa.svg)
+![](https://restcountries.eu/data/gib.svg)
