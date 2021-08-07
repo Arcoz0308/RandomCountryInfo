@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/08/2021, 20:14:49 (France time)
+### last update : 07/08/2021, 23:14:49 (France time)
 
-### name : Djibouti
-### Population : 900'000
-### Capital : Djibouti
+### name : Chad
+### Population : 14'497'000
+### Capital : N'Djamena
 ### Region : Africa
 ### Languages : French, Arabic
-### Area : 23'200 km²
-### Neighboring countries : Eritrea, Ethiopia, Somalia
-### Timezones : UTC+03:00
+### Area : 1'284'000 km²
+### Neighboring countries : Cameroon, Central African Republic, Libya, Niger, Nigeria, South Sudan
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/dji.svg)
+![](https://restcountries.eu/data/tcd.svg)
