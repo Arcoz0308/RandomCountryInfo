@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/08/2021, 01:21:05 (France time)
+### last update : 07/08/2021, 04:21:05 (France time)
 
-### name : Liechtenstein
-### Population : 37'623
-### Capital : Vaduz
-### Region : Europe
-### Languages : German
-### Area : 160 km²
-### Neighboring countries : Austria, Switzerland
+### name : Central African Republic
+### Population : 4'998'000
+### Capital : Bangui
+### Region : Africa
+### Languages : French, Sango
+### Area : 622'984 km²
+### Neighboring countries : Cameroon, Chad, Congo (Democratic Republic of the), Congo, South Sudan, Sudan
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/lie.svg)
+![](https://restcountries.eu/data/caf.svg)
