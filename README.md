@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/08/2021, 08:14:49 (France time)
+### last update : 07/08/2021, 11:14:49 (France time)
 
-### name : Nicaragua
-### Population : 6'262'703
-### Capital : Managua
-### Region : Americas
-### Languages : Spanish
-### Area : 130'373 km²
-### Neighboring countries : Costa Rica, Honduras
-### Timezones : UTC-06:00
+### name : Ghana
+### Population : 27'670'174
+### Capital : Accra
+### Region : Africa
+### Languages : English
+### Area : 238'533 km²
+### Neighboring countries : Burkina Faso, Côte d'Ivoire, Togo
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/nic.svg)
+![](https://restcountries.eu/data/gha.svg)
