@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/08/2021, 04:21:05 (France time)
+### last update : 07/08/2021, 05:14:49 (France time)
 
-### name : Central African Republic
-### Population : 4'998'000
-### Capital : Bangui
+### name : Ghana
+### Population : 27'670'174
+### Capital : Accra
 ### Region : Africa
-### Languages : French, Sango
-### Area : 622'984 km²
-### Neighboring countries : Cameroon, Chad, Congo (Democratic Republic of the), Congo, South Sudan, Sudan
-### Timezones : UTC+01:00
+### Languages : English
+### Area : 238'533 km²
+### Neighboring countries : Burkina Faso, Côte d'Ivoire, Togo
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/caf.svg)
+![](https://restcountries.eu/data/gha.svg)
