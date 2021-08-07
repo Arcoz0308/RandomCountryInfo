@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 06/08/2021, 22:21:05 (France time)
+### last update : 07/08/2021, 01:21:05 (France time)
 
-### name : Samoa
-### Population : 194'899
-### Capital : Apia
-### Region : Oceania
-### Languages : Samoan, English
-### Area : 2'842 km²
-### Neighboring countries : 
-### Timezones : UTC+13:00
+### name : Liechtenstein
+### Population : 37'623
+### Capital : Vaduz
+### Region : Europe
+### Languages : German
+### Area : 160 km²
+### Neighboring countries : Austria, Switzerland
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/wsm.svg)
+![](https://restcountries.eu/data/lie.svg)
