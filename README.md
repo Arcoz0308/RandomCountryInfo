@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 07/08/2021, 23:14:49 (France time)
+### last update : 08/08/2021, 02:14:49 (France time)
 
-### name : Chad
-### Population : 14'497'000
-### Capital : N'Djamena
-### Region : Africa
-### Languages : French, Arabic
-### Area : 1'284'000 km²
-### Neighboring countries : Cameroon, Central African Republic, Libya, Niger, Nigeria, South Sudan
-### Timezones : UTC+01:00
+### name : Antarctica
+### Population : 1'000
+### Capital : 
+### Region : Polar
+### Languages : English, Russian
+### Area : 14'000'000 km²
+### Neighboring countries : 
+### Timezones : UTC-03:00, UTC+03:00, UTC+05:00, UTC+06:00, UTC+07:00, UTC+08:00, UTC+10:00, UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/tcd.svg)
+![](https://restcountries.eu/data/ata.svg)
