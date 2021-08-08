@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/08/2021, 08:38:08 (France time)
+### last update : 08/08/2021, 11:38:08 (France time)
 
-### name : Saint Pierre and Miquelon
-### Population : 6'069
-### Capital : Saint-Pierre
+### name : Nicaragua
+### Population : 6'262'703
+### Capital : Managua
 ### Region : Americas
-### Languages : French
-### Area : 242 km²
-### Neighboring countries : 
-### Timezones : UTC-03:00
+### Languages : Spanish
+### Area : 130'373 km²
+### Neighboring countries : Costa Rica, Honduras
+### Timezones : UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/spm.svg)
+![](https://restcountries.eu/data/nic.svg)
