@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/08/2021, 11:38:08 (France time)
+### last update : 08/08/2021, 14:38:08 (France time)
 
-### name : Nicaragua
-### Population : 6'262'703
-### Capital : Managua
-### Region : Americas
-### Languages : Spanish
-### Area : 130'373 km²
-### Neighboring countries : Costa Rica, Honduras
-### Timezones : UTC-06:00
+### name : China
+### Population : 1'377'422'166
+### Capital : Beijing
+### Region : Asia
+### Languages : Chinese
+### Area : 9'640'011 km²
+### Neighboring countries : Afghanistan, Bhutan, Myanmar, Hong Kong, India, Kazakhstan, Korea (Democratic People's Republic of), Kyrgyzstan, Lao People's Democratic Republic, Macao, Mongolia, Pakistan, Russian Federation, Tajikistan, Viet Nam
+### Timezones : UTC+08:00
 
 ### Flag :
-![](https://restcountries.eu/data/nic.svg)
+![](https://restcountries.eu/data/chn.svg)
