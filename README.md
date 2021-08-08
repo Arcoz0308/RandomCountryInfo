@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/08/2021, 20:38:08 (France time)
+### last update : 08/08/2021, 23:38:09 (France time)
 
-### name : Malawi
-### Population : 16'832'910
-### Capital : Lilongwe
-### Region : Africa
-### Languages : English, Chichewa
-### Area : 118'484 km²
-### Neighboring countries : Mozambique, Tanzania, United Republic of, Zambia
-### Timezones : UTC+02:00
+### name : Singapore
+### Population : 5'535'000
+### Capital : Singapore
+### Region : Asia
+### Languages : English, Malay, Tamil, Chinese
+### Area : 710 km²
+### Neighboring countries : 
+### Timezones : UTC+08:00
 
 ### Flag :
-![](https://restcountries.eu/data/mwi.svg)
+![](https://restcountries.eu/data/sgp.svg)
