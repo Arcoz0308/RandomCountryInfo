@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 09/08/2021, 12:05:01 (France time)
+### last update : 09/08/2021, 15:05:01 (France time)
 
-### name : Burundi
-### Population : 10'114'505
-### Capital : Bujumbura
+### name : Morocco
+### Population : 33'337'529
+### Capital : Rabat
 ### Region : Africa
-### Languages : French, Kirundi
-### Area : 27'834 km²
-### Neighboring countries : Congo (Democratic Republic of the), Rwanda, Tanzania, United Republic of
-### Timezones : UTC+02:00
+### Languages : Arabic
+### Area : 446'550 km²
+### Neighboring countries : Algeria, Western Sahara, Spain
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/bdi.svg)
+![](https://restcountries.eu/data/mar.svg)
