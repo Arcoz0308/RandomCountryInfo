@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 08/08/2021, 23:38:09 (France time)
+### last update : 09/08/2021, 02:38:09 (France time)
 
-### name : Singapore
-### Population : 5'535'000
-### Capital : Singapore
-### Region : Asia
-### Languages : English, Malay, Tamil, Chinese
-### Area : 710 km²
-### Neighboring countries : 
-### Timezones : UTC+08:00
+### name : Hungary
+### Population : 9'823'000
+### Capital : Budapest
+### Region : Europe
+### Languages : Hungarian
+### Area : 93'028 km²
+### Neighboring countries : Austria, Croatia, Romania, Serbia, Slovakia, Slovenia, Ukraine
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/sgp.svg)
+![](https://restcountries.eu/data/hun.svg)
