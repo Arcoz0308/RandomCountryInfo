@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 09/08/2021, 09:05:01 (France time)
+### last update : 09/08/2021, 12:05:01 (France time)
 
-### name : Guatemala
-### Population : 16'176'133
-### Capital : Guatemala City
-### Region : Americas
-### Languages : Spanish
-### Area : 108'889 km²
-### Neighboring countries : Belize, El Salvador, Honduras, Mexico
-### Timezones : UTC-06:00
+### name : Burundi
+### Population : 10'114'505
+### Capital : Bujumbura
+### Region : Africa
+### Languages : French, Kirundi
+### Area : 27'834 km²
+### Neighboring countries : Congo (Democratic Republic of the), Rwanda, Tanzania, United Republic of
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/gtm.svg)
+![](https://restcountries.eu/data/bdi.svg)
