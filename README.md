@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/08/2021, 12:30:17 (France time)
+### last update : 10/08/2021, 18:30:17 (France time)
 
-### name : Papua New Guinea
-### Population : 8'083'700
-### Capital : Port Moresby
-### Region : Oceania
-### Languages : English
-### Area : 462'840 km²
-### Neighboring countries : Indonesia
-### Timezones : UTC+10:00
+### name : United Arab Emirates
+### Population : 9'856'000
+### Capital : Abu Dhabi
+### Region : Asia
+### Languages : Arabic
+### Area : 83'600 km²
+### Neighboring countries : Oman, Saudi Arabia
+### Timezones : UTC+04
 
 ### Flag :
-![](https://restcountries.eu/data/png.svg)
+![](https://restcountries.eu/data/are.svg)
