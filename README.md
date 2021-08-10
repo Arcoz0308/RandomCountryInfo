@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/08/2021, 00:05:01 (France time)
+### last update : 10/08/2021, 03:05:02 (France time)
 
-### name : United States of America
-### Population : 323'947'000
-### Capital : Washington, D.C.
-### Region : Americas
-### Languages : English
-### Area : 9'629'091 km²
-### Neighboring countries : Canada, Mexico
-### Timezones : UTC-12:00, UTC-11:00, UTC-10:00, UTC-09:00, UTC-08:00, UTC-07:00, UTC-06:00, UTC-05:00, UTC-04:00, UTC+10:00, UTC+12:00
+### name : Pakistan
+### Population : 194'125'062
+### Capital : Islamabad
+### Region : Asia
+### Languages : English, Urdu
+### Area : 881'912 km²
+### Neighboring countries : Afghanistan, China, India, Iran (Islamic Republic of)
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/usa.svg)
+![](https://restcountries.eu/data/pak.svg)
