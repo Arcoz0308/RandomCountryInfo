@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/08/2021, 06:30:17 (France time)
+### last update : 10/08/2021, 09:30:17 (France time)
 
-### name : Cameroon
-### Population : 22'709'892
-### Capital : Yaoundé
+### name : Central African Republic
+### Population : 4'998'000
+### Capital : Bangui
 ### Region : Africa
-### Languages : English, French
-### Area : 475'442 km²
-### Neighboring countries : Central African Republic, Chad, Congo, Equatorial Guinea, Gabon, Nigeria
+### Languages : French, Sango
+### Area : 622'984 km²
+### Neighboring countries : Cameroon, Chad, Congo (Democratic Republic of the), Congo, South Sudan, Sudan
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/cmr.svg)
+![](https://restcountries.eu/data/caf.svg)
