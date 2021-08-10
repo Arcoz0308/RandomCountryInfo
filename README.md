@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/08/2021, 18:30:17 (France time)
+### last update : 10/08/2021, 21:30:17 (France time)
 
-### name : United Arab Emirates
-### Population : 9'856'000
-### Capital : Abu Dhabi
-### Region : Asia
-### Languages : Arabic
-### Area : 83'600 km²
-### Neighboring countries : Oman, Saudi Arabia
-### Timezones : UTC+04
+### name : Bermuda
+### Population : 61'954
+### Capital : Hamilton
+### Region : Americas
+### Languages : English
+### Area : 54 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/are.svg)
+![](https://restcountries.eu/data/bmu.svg)
