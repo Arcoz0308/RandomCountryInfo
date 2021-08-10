@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/08/2021, 03:05:02 (France time)
+### last update : 10/08/2021, 06:05:02 (France time)
 
-### name : Pakistan
-### Population : 194'125'062
-### Capital : Islamabad
-### Region : Asia
-### Languages : English, Urdu
-### Area : 881'912 km²
-### Neighboring countries : Afghanistan, China, India, Iran (Islamic Republic of)
-### Timezones : UTC+05:00
+### name : Slovakia
+### Population : 5'426'252
+### Capital : Bratislava
+### Region : Europe
+### Languages : Slovak
+### Area : 49'037 km²
+### Neighboring countries : Austria, Czech Republic, Hungary, Poland, Ukraine
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/pak.svg)
+![](https://restcountries.eu/data/svk.svg)
