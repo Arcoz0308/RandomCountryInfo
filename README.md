@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/08/2021, 19:08:45 (France time)
+### last update : 11/08/2021, 22:08:45 (France time)
 
-### name : Malawi
-### Population : 16'832'910
-### Capital : Lilongwe
-### Region : Africa
-### Languages : English, Chichewa
-### Area : 118'484 km²
-### Neighboring countries : Mozambique, Tanzania, United Republic of, Zambia
-### Timezones : UTC+02:00
+### name : Cayman Islands
+### Population : 58'238
+### Capital : George Town
+### Region : Americas
+### Languages : English
+### Area : 264 km²
+### Neighboring countries : 
+### Timezones : UTC-05:00
 
 ### Flag :
-![](https://restcountries.eu/data/mwi.svg)
+![](https://restcountries.eu/data/cym.svg)
