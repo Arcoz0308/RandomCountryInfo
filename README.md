@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 10/08/2021, 21:30:17 (France time)
+### last update : 11/08/2021, 00:30:18 (France time)
 
-### name : Bermuda
-### Population : 61'954
-### Capital : Hamilton
-### Region : Americas
+### name : Micronesia (Federated States of)
+### Population : 102'800
+### Capital : Palikir
+### Region : Oceania
 ### Languages : English
-### Area : 54 km²
+### Area : 702 km²
 ### Neighboring countries : 
-### Timezones : UTC-04:00
+### Timezones : UTC+10:00, UTC+11
 
 ### Flag :
-![](https://restcountries.eu/data/bmu.svg)
+![](https://restcountries.eu/data/fsm.svg)
