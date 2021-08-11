@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/08/2021, 16:08:45 (France time)
+### last update : 11/08/2021, 19:08:45 (France time)
 
-### name : Angola
-### Population : 25'868'000
-### Capital : Luanda
+### name : Malawi
+### Population : 16'832'910
+### Capital : Lilongwe
 ### Region : Africa
-### Languages : Portuguese
-### Area : 1'246'700 km²
-### Neighboring countries : Congo, Congo (Democratic Republic of the), Zambia, Namibia
-### Timezones : UTC+01:00
+### Languages : English, Chichewa
+### Area : 118'484 km²
+### Neighboring countries : Mozambique, Tanzania, United Republic of, Zambia
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/ago.svg)
+![](https://restcountries.eu/data/mwi.svg)
