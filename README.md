@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/08/2021, 00:30:18 (France time)
+### last update : 11/08/2021, 03:30:18 (France time)
 
-### name : Micronesia (Federated States of)
-### Population : 102'800
-### Capital : Palikir
-### Region : Oceania
-### Languages : English
-### Area : 702 km²
-### Neighboring countries : 
-### Timezones : UTC+10:00, UTC+11
+### name : Namibia
+### Population : 2'324'388
+### Capital : Windhoek
+### Region : Africa
+### Languages : English, Afrikaans
+### Area : 825'615 km²
+### Neighboring countries : Angola, Botswana, South Africa, Zambia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/fsm.svg)
+![](https://restcountries.eu/data/nam.svg)
