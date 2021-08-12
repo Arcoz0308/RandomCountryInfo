@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/08/2021, 07:43:26 (France time)
+### last update : 12/08/2021, 10:43:26 (France time)
 
-### name : Hong Kong
-### Population : 7'324'300
-### Capital : City of Victoria
-### Region : Asia
-### Languages : English, Chinese
-### Area : 1'104 km²
-### Neighboring countries : China
-### Timezones : UTC+08:00
+### name : Christmas Island
+### Population : 2'072
+### Capital : Flying Fish Cove
+### Region : Oceania
+### Languages : English
+### Area : 135 km²
+### Neighboring countries : 
+### Timezones : UTC+07:00
 
 ### Flag :
-![](https://restcountries.eu/data/hkg.svg)
+![](https://restcountries.eu/data/cxr.svg)
