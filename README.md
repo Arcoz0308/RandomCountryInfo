@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/08/2021, 04:08:45 (France time)
+### last update : 12/08/2021, 07:08:45 (France time)
 
-### name : Saint Martin (French part)
-### Population : 36'979
-### Capital : Marigot
-### Region : Americas
-### Languages : English, French, Dutch
-### Area : 53 km²
-### Neighboring countries : Sint Maarten (Dutch part), Netherlands
-### Timezones : UTC-04:00
+### name : Rwanda
+### Population : 11'553'188
+### Capital : Kigali
+### Region : Africa
+### Languages : Kinyarwanda, English, French
+### Area : 26'338 km²
+### Neighboring countries : Burundi, Congo (Democratic Republic of the), Tanzania, United Republic of, Uganda
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/maf.svg)
+![](https://restcountries.eu/data/rwa.svg)
