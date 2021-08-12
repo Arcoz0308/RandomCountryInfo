@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/08/2021, 07:08:45 (France time)
+### last update : 12/08/2021, 07:43:26 (France time)
 
-### name : Rwanda
-### Population : 11'553'188
-### Capital : Kigali
-### Region : Africa
-### Languages : Kinyarwanda, English, French
-### Area : 26'338 km²
-### Neighboring countries : Burundi, Congo (Democratic Republic of the), Tanzania, United Republic of, Uganda
-### Timezones : UTC+02:00
+### name : Hong Kong
+### Population : 7'324'300
+### Capital : City of Victoria
+### Region : Asia
+### Languages : English, Chinese
+### Area : 1'104 km²
+### Neighboring countries : China
+### Timezones : UTC+08:00
 
 ### Flag :
-![](https://restcountries.eu/data/rwa.svg)
+![](https://restcountries.eu/data/hkg.svg)
