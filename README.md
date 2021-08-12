@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 11/08/2021, 22:08:45 (France time)
+### last update : 12/08/2021, 01:08:45 (France time)
 
-### name : Cayman Islands
-### Population : 58'238
-### Capital : George Town
-### Region : Americas
-### Languages : English
-### Area : 264 km²
-### Neighboring countries : 
-### Timezones : UTC-05:00
+### name : Togo
+### Population : 7'143'000
+### Capital : Lomé
+### Region : Africa
+### Languages : French
+### Area : 56'785 km²
+### Neighboring countries : Benin, Burkina Faso, Ghana
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/cym.svg)
+![](https://restcountries.eu/data/tgo.svg)
