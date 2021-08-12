@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/08/2021, 13:43:26 (France time)
+### last update : 12/08/2021, 16:43:26 (France time)
 
-### name : Sint Maarten (Dutch part)
-### Population : 38'247
-### Capital : Philipsburg
-### Region : Americas
-### Languages : Dutch, English
-### Area : 34 km²
-### Neighboring countries : Saint Martin (French part)
-### Timezones : UTC-04:00
+### name : Turkmenistan
+### Population : 4'751'120
+### Capital : Ashgabat
+### Region : Asia
+### Languages : Turkmen, Russian
+### Area : 488'100 km²
+### Neighboring countries : Afghanistan, Iran (Islamic Republic of), Kazakhstan, Uzbekistan
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/sxm.svg)
+![](https://restcountries.eu/data/tkm.svg)
