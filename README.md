@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/08/2021, 20:12:08 (France time)
+### last update : 13/08/2021, 23:12:08 (France time)
 
-### name : Niue
-### Population : 1'470
-### Capital : Alofi
+### name : Tokelau
+### Population : 1'411
+### Capital : Fakaofo
 ### Region : Oceania
 ### Languages : English
-### Area : 260 km²
+### Area : 12 km²
 ### Neighboring countries : 
-### Timezones : UTC-11:00
+### Timezones : UTC+13:00
 
 ### Flag :
-![](https://restcountries.eu/data/niu.svg)
+![](https://restcountries.eu/data/tkl.svg)
