@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/08/2021, 01:43:26 (France time)
+### last update : 13/08/2021, 04:43:27 (France time)
 
-### name : Heard Island and McDonald Islands
-### Population : 0
-### Capital : 
-### Region : 
-### Languages : English
-### Area : 412 km²
-### Neighboring countries : 
-### Timezones : UTC+05:00
+### name : Kyrgyzstan
+### Population : 6'047'800
+### Capital : Bishkek
+### Region : Asia
+### Languages : Kyrgyz, Russian
+### Area : 199'951 km²
+### Neighboring countries : China, Kazakhstan, Tajikistan, Uzbekistan
+### Timezones : UTC+06:00
 
 ### Flag :
-![](https://restcountries.eu/data/hmd.svg)
+![](https://restcountries.eu/data/kgz.svg)
