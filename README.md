@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/08/2021, 11:12:08 (France time)
+### last update : 13/08/2021, 14:12:08 (France time)
 
-### name : Sudan
-### Population : 39'598'700
-### Capital : Khartoum
+### name : Benin
+### Population : 10'653'654
+### Capital : Porto-Novo
 ### Region : Africa
-### Languages : Arabic, English
-### Area : 1'886'068 km²
-### Neighboring countries : Central African Republic, Chad, Egypt, Eritrea, Ethiopia, Libya, South Sudan
-### Timezones : UTC+03:00
+### Languages : French
+### Area : 112'622 km²
+### Neighboring countries : Burkina Faso, Niger, Nigeria, Togo
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/sdn.svg)
+![](https://restcountries.eu/data/ben.svg)
