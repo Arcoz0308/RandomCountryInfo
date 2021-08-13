@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 12/08/2021, 22:43:26 (France time)
+### last update : 13/08/2021, 01:43:26 (France time)
 
-### name : New Zealand
-### Population : 4'697'854
-### Capital : Wellington
-### Region : Oceania
-### Languages : English, Māori
-### Area : 270'467 km²
+### name : Heard Island and McDonald Islands
+### Population : 0
+### Capital : 
+### Region : 
+### Languages : English
+### Area : 412 km²
 ### Neighboring countries : 
-### Timezones : UTC-11:00, UTC-10:00, UTC+12:00, UTC+12:45, UTC+13:00
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/nzl.svg)
+![](https://restcountries.eu/data/hmd.svg)
