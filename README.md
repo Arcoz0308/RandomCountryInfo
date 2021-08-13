@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 13/08/2021, 17:12:08 (France time)
+### last update : 13/08/2021, 20:12:08 (France time)
 
-### name : Singapore
-### Population : 5'535'000
-### Capital : Singapore
-### Region : Asia
-### Languages : English, Malay, Tamil, Chinese
-### Area : 710 km²
+### name : Niue
+### Population : 1'470
+### Capital : Alofi
+### Region : Oceania
+### Languages : English
+### Area : 260 km²
 ### Neighboring countries : 
-### Timezones : UTC+08:00
+### Timezones : UTC-11:00
 
 ### Flag :
-![](https://restcountries.eu/data/sgp.svg)
+![](https://restcountries.eu/data/niu.svg)
