@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/08/2021, 02:12:08 (France time)
+### last update : 14/08/2021, 05:12:08 (France time)
 
-### name : Jersey
-### Population : 100'800
-### Capital : Saint Helier
-### Region : Europe
-### Languages : English, French
-### Area : 116 km²
+### name : British Indian Ocean Territory
+### Population : 3'000
+### Capital : Diego Garcia
+### Region : Africa
+### Languages : English
+### Area : 60 km²
 ### Neighboring countries : 
-### Timezones : UTC+01:00
+### Timezones : UTC+06:00
 
 ### Flag :
-![](https://restcountries.eu/data/jey.svg)
+![](https://restcountries.eu/data/iot.svg)
