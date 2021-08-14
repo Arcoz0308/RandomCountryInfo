@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/08/2021, 17:20:12 (France time)
+### last update : 14/08/2021, 20:20:12 (France time)
 
-### name : French Southern Territories
-### Population : 140
-### Capital : Port-aux-Français
-### Region : Africa
-### Languages : French
-### Area : 7'747 km²
-### Neighboring countries : 
-### Timezones : UTC+05:00
+### name : Croatia
+### Population : 4'190'669
+### Capital : Zagreb
+### Region : Europe
+### Languages : Croatian
+### Area : 56'594 km²
+### Neighboring countries : Bosnia and Herzegovina, Hungary, Montenegro, Serbia, Slovenia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/atf.svg)
+![](https://restcountries.eu/data/hrv.svg)
