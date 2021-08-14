@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/08/2021, 05:12:08 (France time)
+### last update : 14/08/2021, 08:12:08 (France time)
 
-### name : British Indian Ocean Territory
-### Population : 3'000
-### Capital : Diego Garcia
+### name : Egypt
+### Population : 91'290'000
+### Capital : Cairo
 ### Region : Africa
-### Languages : English
-### Area : 60 km²
-### Neighboring countries : 
-### Timezones : UTC+06:00
+### Languages : Arabic
+### Area : 1'002'450 km²
+### Neighboring countries : Israel, Libya, Sudan
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/iot.svg)
+![](https://restcountries.eu/data/egy.svg)
