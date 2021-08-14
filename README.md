@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/08/2021, 11:20:12 (France time)
+### last update : 14/08/2021, 14:20:12 (France time)
 
-### name : Australia
-### Population : 24'117'360
-### Capital : Canberra
-### Region : Oceania
-### Languages : English
-### Area : 7'692'024 km²
-### Neighboring countries : 
-### Timezones : UTC+05:00, UTC+06:30, UTC+07:00, UTC+08:00, UTC+09:30, UTC+10:00, UTC+10:30, UTC+11:30
+### name : Burkina Faso
+### Population : 19'034'397
+### Capital : Ouagadougou
+### Region : Africa
+### Languages : French, Fula
+### Area : 272'967 km²
+### Neighboring countries : Benin, Côte d'Ivoire, Ghana, Mali, Niger, Togo
+### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/aus.svg)
+![](https://restcountries.eu/data/bfa.svg)
