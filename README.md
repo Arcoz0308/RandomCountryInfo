@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/08/2021, 11:36:52 (France time)
+### last update : 15/08/2021, 14:36:52 (France time)
 
-### name : Côte d'Ivoire
-### Population : 22'671'331
-### Capital : Yamoussoukro
-### Region : Africa
-### Languages : French
-### Area : 322'463 km²
-### Neighboring countries : Burkina Faso, Ghana, Guinea, Liberia, Mali
-### Timezones : UTC
+### name : Greece
+### Population : 10'858'018
+### Capital : Athens
+### Region : Europe
+### Languages : Greek (modern)
+### Area : 131'990 km²
+### Neighboring countries : Albania, Bulgaria, Turkey, Macedonia (the former Yugoslav Republic of)
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/civ.svg)
+![](https://restcountries.eu/data/grc.svg)
