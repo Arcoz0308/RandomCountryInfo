@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 14/08/2021, 23:20:12 (France time)
+### last update : 15/08/2021, 02:20:13 (France time)
 
-### name : Wallis and Futuna
-### Population : 11'750
-### Capital : Mata-Utu
-### Region : Oceania
-### Languages : French
-### Area : 142 km²
-### Neighboring countries : 
-### Timezones : UTC+12:00
+### name : Rwanda
+### Population : 11'553'188
+### Capital : Kigali
+### Region : Africa
+### Languages : Kinyarwanda, English, French
+### Area : 26'338 km²
+### Neighboring countries : Burundi, Congo (Democratic Republic of the), Tanzania, United Republic of, Uganda
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/wlf.svg)
+![](https://restcountries.eu/data/rwa.svg)
