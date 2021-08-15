@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/08/2021, 20:36:52 (France time)
+### last update : 15/08/2021, 23:36:52 (France time)
 
-### name : Tuvalu
-### Population : 10'640
-### Capital : Funafuti
+### name : Marshall Islands
+### Population : 54'880
+### Capital : Majuro
 ### Region : Oceania
-### Languages : English
-### Area : 26 km²
+### Languages : English, Marshallese
+### Area : 181 km²
 ### Neighboring countries : 
 ### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/tuv.svg)
+![](https://restcountries.eu/data/mhl.svg)
