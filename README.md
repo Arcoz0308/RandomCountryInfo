@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/08/2021, 14:36:52 (France time)
+### last update : 15/08/2021, 17:36:52 (France time)
 
-### name : Greece
-### Population : 10'858'018
-### Capital : Athens
-### Region : Europe
-### Languages : Greek (modern)
-### Area : 131'990 km²
-### Neighboring countries : Albania, Bulgaria, Turkey, Macedonia (the former Yugoslav Republic of)
-### Timezones : UTC+02:00
+### name : Colombia
+### Population : 48'759'958
+### Capital : Bogotá
+### Region : Americas
+### Languages : Spanish
+### Area : 1'141'748 km²
+### Neighboring countries : Brazil, Ecuador, Panama, Peru, Venezuela (Bolivarian Republic of)
+### Timezones : UTC-05:00
 
 ### Flag :
-![](https://restcountries.eu/data/grc.svg)
+![](https://restcountries.eu/data/col.svg)
