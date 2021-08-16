@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 15/08/2021, 23:36:52 (France time)
+### last update : 16/08/2021, 02:36:53 (France time)
 
-### name : Marshall Islands
-### Population : 54'880
-### Capital : Majuro
-### Region : Oceania
-### Languages : English, Marshallese
-### Area : 181 km²
-### Neighboring countries : 
-### Timezones : UTC+12:00
+### name : San Marino
+### Population : 33'005
+### Capital : City of San Marino
+### Region : Europe
+### Languages : Italian
+### Area : 61 km²
+### Neighboring countries : Italy
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/mhl.svg)
+![](https://restcountries.eu/data/smr.svg)
