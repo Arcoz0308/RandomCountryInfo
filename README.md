@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/08/2021, 02:36:53 (France time)
+### last update : 16/08/2021, 08:36:53 (France time)
 
-### name : San Marino
-### Population : 33'005
-### Capital : City of San Marino
+### name : Denmark
+### Population : 5'717'014
+### Capital : Copenhagen
 ### Region : Europe
-### Languages : Italian
-### Area : 61 km²
-### Neighboring countries : Italy
-### Timezones : UTC+01:00
+### Languages : Danish
+### Area : 43'094 km²
+### Neighboring countries : Germany
+### Timezones : UTC-04:00, UTC-03:00, UTC-01:00, UTC, UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/smr.svg)
+![](https://restcountries.eu/data/dnk.svg)
