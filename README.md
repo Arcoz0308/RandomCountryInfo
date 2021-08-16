@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/08/2021, 12:05:18 (France time)
+### last update : 16/08/2021, 15:05:18 (France time)
 
-### name : Bulgaria
-### Population : 7'153'784
-### Capital : Sofia
-### Region : Europe
-### Languages : Bulgarian
-### Area : 110'879 km²
-### Neighboring countries : Greece, Macedonia (the former Yugoslav Republic of), Romania, Serbia, Turkey
-### Timezones : UTC+02:00
+### name : Lao People's Democratic Republic
+### Population : 6'492'400
+### Capital : Vientiane
+### Region : Asia
+### Languages : Lao
+### Area : 236'800 km²
+### Neighboring countries : Myanmar, Cambodia, China, Thailand, Viet Nam
+### Timezones : UTC+07:00
 
 ### Flag :
-![](https://restcountries.eu/data/bgr.svg)
+![](https://restcountries.eu/data/lao.svg)
