@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/08/2021, 15:05:18 (France time)
+### last update : 16/08/2021, 18:05:18 (France time)
 
-### name : Lao People's Democratic Republic
-### Population : 6'492'400
-### Capital : Vientiane
-### Region : Asia
-### Languages : Lao
-### Area : 236'800 km²
-### Neighboring countries : Myanmar, Cambodia, China, Thailand, Viet Nam
-### Timezones : UTC+07:00
+### name : Northern Mariana Islands
+### Population : 56'940
+### Capital : Saipan
+### Region : Oceania
+### Languages : English, Chamorro
+### Area : 464 km²
+### Neighboring countries : 
+### Timezones : UTC+10:00
 
 ### Flag :
-![](https://restcountries.eu/data/lao.svg)
+![](https://restcountries.eu/data/mnp.svg)
