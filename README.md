@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 16/08/2021, 08:36:53 (France time)
+### last update : 16/08/2021, 09:05:18 (France time)
 
-### name : Denmark
-### Population : 5'717'014
-### Capital : Copenhagen
-### Region : Europe
-### Languages : Danish
-### Area : 43'094 km²
-### Neighboring countries : Germany
-### Timezones : UTC-04:00, UTC-03:00, UTC-01:00, UTC, UTC+01:00
+### name : British Indian Ocean Territory
+### Population : 3'000
+### Capital : Diego Garcia
+### Region : Africa
+### Languages : English
+### Area : 60 km²
+### Neighboring countries : 
+### Timezones : UTC+06:00
 
 ### Flag :
-![](https://restcountries.eu/data/dnk.svg)
+![](https://restcountries.eu/data/iot.svg)
