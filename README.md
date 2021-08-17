@@ -1,5 +1,5 @@
 # Country  Infos
-### last update : 17/08/2021, 15:27:27 (France time)
+### last update : 17/08/2021, 18:27:27 (France time)
 
 ### name : Cyprus
 ### Population : 847'000
