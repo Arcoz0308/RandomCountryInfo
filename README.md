@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 17/08/2021, 00:05:18 (France time)
+### last update : 17/08/2021, 03:05:18 (France time)
 
-### name : Slovenia
-### Population : 2'064'188
-### Capital : Ljubljana
-### Region : Europe
-### Languages : Slovene
-### Area : 20'273 km²
-### Neighboring countries : Austria, Croatia, Italy, Hungary
-### Timezones : UTC+01:00
+### name : Haiti
+### Population : 11'078'033
+### Capital : Port-au-Prince
+### Region : Americas
+### Languages : French, Haitian
+### Area : 27'750 km²
+### Neighboring countries : Dominican Republic
+### Timezones : UTC-05:00
 
 ### Flag :
-![](https://restcountries.eu/data/svn.svg)
+![](https://restcountries.eu/data/hti.svg)
