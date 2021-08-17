@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 17/08/2021, 18:27:27 (France time)
+### last update : 17/08/2021, 21:27:27 (France time)
 
-### name : Cyprus
-### Population : 847'000
-### Capital : Nicosia
-### Region : Europe
-### Languages : Greek (modern), Turkish, Armenian
-### Area : 9'251 km²
-### Neighboring countries : United Kingdom of Great Britain and Northern Ireland
-### Timezones : UTC+02:00
+### name : Turkey
+### Population : 78'741'053
+### Capital : Ankara
+### Region : Asia
+### Languages : Turkish
+### Area : 783'562 km²
+### Neighboring countries : Armenia, Azerbaijan, Bulgaria, Georgia, Greece, Iran (Islamic Republic of), Iraq, Syrian Arab Republic
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/cyp.svg)
+![](https://restcountries.eu/data/tur.svg)
