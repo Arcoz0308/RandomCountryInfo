@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 17/08/2021, 06:05:18 (France time)
+### last update : 17/08/2021, 09:05:19 (France time)
 
-### name : Niue
-### Population : 1'470
-### Capital : Alofi
-### Region : Oceania
-### Languages : English
-### Area : 260 km²
-### Neighboring countries : 
-### Timezones : UTC-11:00
+### name : Croatia
+### Population : 4'190'669
+### Capital : Zagreb
+### Region : Europe
+### Languages : Croatian
+### Area : 56'594 km²
+### Neighboring countries : Bosnia and Herzegovina, Hungary, Montenegro, Serbia, Slovenia
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/niu.svg)
+![](https://restcountries.eu/data/hrv.svg)
