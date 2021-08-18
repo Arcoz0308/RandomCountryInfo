@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/08/2021, 12:41:27 (France time)
+### last update : 18/08/2021, 13:50:36 (France time)
 
-### name : Romania
-### Population : 19'861'408
-### Capital : Bucharest
-### Region : Europe
-### Languages : Romanian
-### Area : 238'391 km²
-### Neighboring countries : Bulgaria, Hungary, Moldova (Republic of), Serbia, Ukraine
-### Timezones : UTC+02:00
+### name : Honduras
+### Population : 8'576'532
+### Capital : Tegucigalpa
+### Region : Americas
+### Languages : Spanish
+### Area : 112'492 km²
+### Neighboring countries : Guatemala, El Salvador, Nicaragua
+### Timezones : UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/rou.svg)
+![](https://restcountries.eu/data/hnd.svg)
