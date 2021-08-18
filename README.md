@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/08/2021, 13:50:36 (France time)
+### last update : 18/08/2021, 16:50:36 (France time)
 
-### name : Honduras
-### Population : 8'576'532
-### Capital : Tegucigalpa
+### name : Mexico
+### Population : 122'273'473
+### Capital : Mexico City
 ### Region : Americas
 ### Languages : Spanish
-### Area : 112'492 km²
-### Neighboring countries : Guatemala, El Salvador, Nicaragua
-### Timezones : UTC-06:00
+### Area : 1'964'375 km²
+### Neighboring countries : Belize, Guatemala, United States of America
+### Timezones : UTC-08:00, UTC-07:00, UTC-06:00
 
 ### Flag :
-![](https://restcountries.eu/data/hnd.svg)
+![](https://restcountries.eu/data/mex.svg)
