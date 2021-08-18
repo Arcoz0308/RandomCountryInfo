@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 18/08/2021, 06:41:27 (France time)
+### last update : 18/08/2021, 09:41:27 (France time)
 
-### name : Swaziland
-### Population : 1'132'657
-### Capital : Lobamba
-### Region : Africa
-### Languages : English, Swati
-### Area : 17'364 km²
-### Neighboring countries : Mozambique, South Africa
+### name : Cyprus
+### Population : 847'000
+### Capital : Nicosia
+### Region : Europe
+### Languages : Greek (modern), Turkish, Armenian
+### Area : 9'251 km²
+### Neighboring countries : United Kingdom of Great Britain and Northern Ireland
 ### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/swz.svg)
+![](https://restcountries.eu/data/cyp.svg)
