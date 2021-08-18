@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 17/08/2021, 21:27:27 (France time)
+### last update : 18/08/2021, 00:27:27 (France time)
 
-### name : Turkey
-### Population : 78'741'053
-### Capital : Ankara
-### Region : Asia
-### Languages : Turkish
-### Area : 783'562 km²
-### Neighboring countries : Armenia, Azerbaijan, Bulgaria, Georgia, Greece, Iran (Islamic Republic of), Iraq, Syrian Arab Republic
-### Timezones : UTC+03:00
+### name : Antarctica
+### Population : 1'000
+### Capital : 
+### Region : Polar
+### Languages : English, Russian
+### Area : 14'000'000 km²
+### Neighboring countries : 
+### Timezones : UTC-03:00, UTC+03:00, UTC+05:00, UTC+06:00, UTC+07:00, UTC+08:00, UTC+10:00, UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/tur.svg)
+![](https://restcountries.eu/data/ata.svg)
