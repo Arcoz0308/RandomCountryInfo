@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/08/2021, 04:50:36 (France time)
+### last update : 19/08/2021, 07:50:37 (France time)
 
-### name : Faroe Islands
-### Population : 49'376
-### Capital : Tórshavn
-### Region : Europe
-### Languages : Faroese
-### Area : 1'393 km²
-### Neighboring countries : 
-### Timezones : UTC+00:00
+### name : Oman
+### Population : 4'420'133
+### Capital : Muscat
+### Region : Asia
+### Languages : Arabic
+### Area : 309'500 km²
+### Neighboring countries : Saudi Arabia, United Arab Emirates, Yemen
+### Timezones : UTC+04:00
 
 ### Flag :
-![](https://restcountries.eu/data/fro.svg)
+![](https://restcountries.eu/data/omn.svg)
