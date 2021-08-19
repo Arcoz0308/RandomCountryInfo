@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/08/2021, 20:05:50 (France time)
+### last update : 19/08/2021, 23:05:50 (France time)
 
-### name : Bonaire, Sint Eustatius and Saba
-### Population : 17'408
-### Capital : Kralendijk
-### Region : Americas
-### Languages : Dutch
-### Area : 294 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Hungary
+### Population : 9'823'000
+### Capital : Budapest
+### Region : Europe
+### Languages : Hungarian
+### Area : 93'028 km²
+### Neighboring countries : Austria, Croatia, Romania, Serbia, Slovakia, Slovenia, Ukraine
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/bes.svg)
+![](https://restcountries.eu/data/hun.svg)
