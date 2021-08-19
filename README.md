@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/08/2021, 14:05:49 (France time)
+### last update : 19/08/2021, 17:05:49 (France time)
 
-### name : Timor-Leste
-### Population : 1'167'242
-### Capital : Dili
-### Region : Asia
-### Languages : Portuguese
-### Area : 14'874 km²
-### Neighboring countries : Indonesia
-### Timezones : UTC+09:00
+### name : Serbia
+### Population : 7'076'372
+### Capital : Belgrade
+### Region : Europe
+### Languages : Serbian
+### Area : 88'361 km²
+### Neighboring countries : Bosnia and Herzegovina, Bulgaria, Croatia, Hungary, Republic of Kosovo, Macedonia (the former Yugoslav Republic of), Montenegro, Romania
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/tls.svg)
+![](https://restcountries.eu/data/srb.svg)
