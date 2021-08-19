@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/08/2021, 10:50:37 (France time)
+### last update : 19/08/2021, 13:50:37 (France time)
 
-### name : Poland
-### Population : 38'437'239
-### Capital : Warsaw
-### Region : Europe
-### Languages : Polish
-### Area : 312'679 km²
-### Neighboring countries : Belarus, Czech Republic, Germany, Lithuania, Russian Federation, Slovakia, Ukraine
-### Timezones : UTC+01:00
+### name : Kuwait
+### Population : 4'183'658
+### Capital : Kuwait City
+### Region : Asia
+### Languages : Arabic
+### Area : 17'818 km²
+### Neighboring countries : Iran (Islamic Republic of), Saudi Arabia
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/pol.svg)
+![](https://restcountries.eu/data/kwt.svg)
