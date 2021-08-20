@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 20/08/2021, 14:05:50 (France time)
+### last update : 20/08/2021, 14:41:02 (France time)
 
-### name : Azerbaijan
-### Population : 9'730'500
-### Capital : Baku
-### Region : Asia
-### Languages : Azerbaijani
-### Area : 86'600 km²
-### Neighboring countries : Armenia, Georgia, Iran (Islamic Republic of), Russian Federation, Turkey
-### Timezones : UTC+04:00
+### name : Virgin Islands (U.S.)
+### Population : 114'743
+### Capital : Charlotte Amalie
+### Region : Americas
+### Languages : English
+### Area : 346.36 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/aze.svg)
+![](https://restcountries.eu/data/vir.svg)
