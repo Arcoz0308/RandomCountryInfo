@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 19/08/2021, 23:05:50 (France time)
+### last update : 20/08/2021, 05:05:50 (France time)
 
-### name : Hungary
-### Population : 9'823'000
-### Capital : Budapest
-### Region : Europe
-### Languages : Hungarian
-### Area : 93'028 km²
-### Neighboring countries : Austria, Croatia, Romania, Serbia, Slovakia, Slovenia, Ukraine
-### Timezones : UTC+01:00
+### name : Paraguay
+### Population : 6'854'536
+### Capital : Asunción
+### Region : Americas
+### Languages : Spanish, Guaraní
+### Area : 406'752 km²
+### Neighboring countries : Argentina, Bolivia (Plurinational State of), Brazil
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/hun.svg)
+![](https://restcountries.eu/data/pry.svg)
