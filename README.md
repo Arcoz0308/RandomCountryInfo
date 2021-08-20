@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 20/08/2021, 17:41:02 (France time)
+### last update : 20/08/2021, 20:41:02 (France time)
 
-### name : Niger
-### Population : 20'715'000
-### Capital : Niamey
-### Region : Africa
-### Languages : French
-### Area : 1'267'000 km²
-### Neighboring countries : Algeria, Benin, Burkina Faso, Chad, Libya, Mali, Nigeria
-### Timezones : UTC+01:00
+### name : Thailand
+### Population : 65'327'652
+### Capital : Bangkok
+### Region : Asia
+### Languages : Thai
+### Area : 513'120 km²
+### Neighboring countries : Myanmar, Cambodia, Lao People's Democratic Republic, Malaysia
+### Timezones : UTC+07:00
 
 ### Flag :
-![](https://restcountries.eu/data/ner.svg)
+![](https://restcountries.eu/data/tha.svg)
