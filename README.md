@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/08/2021, 11:41:02 (France time)
+### last update : 21/08/2021, 14:41:02 (France time)
 
-### name : Guyana
-### Population : 746'900
-### Capital : Georgetown
-### Region : Americas
-### Languages : English
-### Area : 214'969 km²
-### Neighboring countries : Brazil, Suriname, Venezuela (Bolivarian Republic of)
-### Timezones : UTC-04:00
+### name : French Southern Territories
+### Population : 140
+### Capital : Port-aux-Français
+### Region : Africa
+### Languages : French
+### Area : 7'747 km²
+### Neighboring countries : 
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/guy.svg)
+![](https://restcountries.eu/data/atf.svg)
