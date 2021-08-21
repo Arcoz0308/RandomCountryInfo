@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/08/2021, 08:41:02 (France time)
+### last update : 21/08/2021, 11:41:02 (France time)
 
-### name : Sierra Leone
-### Population : 7'075'641
-### Capital : Freetown
-### Region : Africa
+### name : Guyana
+### Population : 746'900
+### Capital : Georgetown
+### Region : Americas
 ### Languages : English
-### Area : 71'740 km²
-### Neighboring countries : Guinea, Liberia
-### Timezones : UTC
+### Area : 214'969 km²
+### Neighboring countries : Brazil, Suriname, Venezuela (Bolivarian Republic of)
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/sle.svg)
+![](https://restcountries.eu/data/guy.svg)
