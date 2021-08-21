@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 20/08/2021, 23:41:02 (France time)
+### last update : 21/08/2021, 02:41:02 (France time)
 
-### name : Portugal
-### Population : 10'374'822
-### Capital : Lisbon
-### Region : Europe
-### Languages : Portuguese
-### Area : 92'090 km²
-### Neighboring countries : Spain
-### Timezones : UTC-01:00, UTC
+### name : Puerto Rico
+### Population : 3'474'182
+### Capital : San Juan
+### Region : Americas
+### Languages : Spanish, English
+### Area : 8'870 km²
+### Neighboring countries : 
+### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/prt.svg)
+![](https://restcountries.eu/data/pri.svg)
