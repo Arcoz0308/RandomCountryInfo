@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/08/2021, 18:32:14 (France time)
+### last update : 21/08/2021, 21:32:14 (France time)
 
-### name : Egypt
-### Population : 91'290'000
-### Capital : Cairo
-### Region : Africa
-### Languages : Arabic
-### Area : 1'002'450 km²
-### Neighboring countries : Israel, Libya, Sudan
-### Timezones : UTC+02:00
+### name : Liechtenstein
+### Population : 37'623
+### Capital : Vaduz
+### Region : Europe
+### Languages : German
+### Area : 160 km²
+### Neighboring countries : Austria, Switzerland
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/egy.svg)
+![](https://restcountries.eu/data/lie.svg)
