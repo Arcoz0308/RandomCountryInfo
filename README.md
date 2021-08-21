@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 21/08/2021, 14:41:02 (France time)
+### last update : 21/08/2021, 15:32:14 (France time)
 
-### name : French Southern Territories
-### Population : 140
-### Capital : Port-aux-Français
-### Region : Africa
-### Languages : French
-### Area : 7'747 km²
+### name : Fiji
+### Population : 867'000
+### Capital : Suva
+### Region : Oceania
+### Languages : English, Fijian, Hindi, Urdu
+### Area : 18'272 km²
 ### Neighboring countries : 
-### Timezones : UTC+05:00
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/atf.svg)
+![](https://restcountries.eu/data/fji.svg)
