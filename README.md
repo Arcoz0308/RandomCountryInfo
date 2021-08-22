@@ -1,5 +1,5 @@
 # Country  Infos
-### last update : 22/08/2021, 03:32:14 (France time)
+### last update : 22/08/2021, 06:32:14 (France time)
 
 ### name : Bonaire, Sint Eustatius and Saba
 ### Population : 17'408
