@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 22/08/2021, 15:32:15 (France time)
+### last update : 22/08/2021, 15:52:22 (France time)
 
-### name : Côte d'Ivoire
-### Population : 22'671'331
-### Capital : Yamoussoukro
+### name : Sierra Leone
+### Population : 7'075'641
+### Capital : Freetown
 ### Region : Africa
-### Languages : French
-### Area : 322'463 km²
-### Neighboring countries : Burkina Faso, Ghana, Guinea, Liberia, Mali
+### Languages : English
+### Area : 71'740 km²
+### Neighboring countries : Guinea, Liberia
 ### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/civ.svg)
+![](https://restcountries.eu/data/sle.svg)
