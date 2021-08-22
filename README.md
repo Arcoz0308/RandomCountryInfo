@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 22/08/2021, 06:32:14 (France time)
+### last update : 22/08/2021, 09:32:14 (France time)
 
-### name : Bonaire, Sint Eustatius and Saba
-### Population : 17'408
-### Capital : Kralendijk
-### Region : Americas
-### Languages : Dutch
-### Area : 294 km²
-### Neighboring countries : 
-### Timezones : UTC-04:00
+### name : Uzbekistan
+### Population : 31'576'400
+### Capital : Tashkent
+### Region : Asia
+### Languages : Uzbek, Russian
+### Area : 447'400 km²
+### Neighboring countries : Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan
+### Timezones : UTC+05:00
 
 ### Flag :
-![](https://restcountries.eu/data/bes.svg)
+![](https://restcountries.eu/data/uzb.svg)
