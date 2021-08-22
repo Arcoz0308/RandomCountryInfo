@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 22/08/2021, 18:52:21 (France time)
+### last update : 22/08/2021, 21:52:22 (France time)
 
-### name : Iraq
-### Population : 37'883'543
-### Capital : Baghdad
-### Region : Asia
-### Languages : Arabic, Kurdish
-### Area : 438'317 km²
-### Neighboring countries : Iran (Islamic Republic of), Jordan, Kuwait, Saudi Arabia, Syrian Arab Republic, Turkey
-### Timezones : UTC+03:00
+### name : Poland
+### Population : 38'437'239
+### Capital : Warsaw
+### Region : Europe
+### Languages : Polish
+### Area : 312'679 km²
+### Neighboring countries : Belarus, Czech Republic, Germany, Lithuania, Russian Federation, Slovakia, Ukraine
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/irq.svg)
+![](https://restcountries.eu/data/pol.svg)
