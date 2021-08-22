@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 22/08/2021, 12:32:14 (France time)
+### last update : 22/08/2021, 15:32:15 (France time)
 
-### name : Guinea-Bissau
-### Population : 1'547'777
-### Capital : Bissau
+### name : Côte d'Ivoire
+### Population : 22'671'331
+### Capital : Yamoussoukro
 ### Region : Africa
-### Languages : Portuguese
-### Area : 36'125 km²
-### Neighboring countries : Guinea, Senegal
+### Languages : French
+### Area : 322'463 km²
+### Neighboring countries : Burkina Faso, Ghana, Guinea, Liberia, Mali
 ### Timezones : UTC
 
 ### Flag :
-![](https://restcountries.eu/data/gnb.svg)
+![](https://restcountries.eu/data/civ.svg)
