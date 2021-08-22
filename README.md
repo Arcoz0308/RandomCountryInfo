@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 22/08/2021, 15:52:22 (France time)
+### last update : 22/08/2021, 18:52:21 (France time)
 
-### name : Sierra Leone
-### Population : 7'075'641
-### Capital : Freetown
-### Region : Africa
-### Languages : English
-### Area : 71'740 km²
-### Neighboring countries : Guinea, Liberia
-### Timezones : UTC
+### name : Iraq
+### Population : 37'883'543
+### Capital : Baghdad
+### Region : Asia
+### Languages : Arabic, Kurdish
+### Area : 438'317 km²
+### Neighboring countries : Iran (Islamic Republic of), Jordan, Kuwait, Saudi Arabia, Syrian Arab Republic, Turkey
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/sle.svg)
+![](https://restcountries.eu/data/irq.svg)
