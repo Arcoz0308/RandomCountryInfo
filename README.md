@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/08/2021, 09:52:22 (France time)
+### last update : 23/08/2021, 12:52:22 (France time)
 
-### name : Timor-Leste
-### Population : 1'167'242
-### Capital : Dili
-### Region : Asia
-### Languages : Portuguese
-### Area : 14'874 km²
-### Neighboring countries : Indonesia
-### Timezones : UTC+09:00
+### name : Zimbabwe
+### Population : 14'240'168
+### Capital : Harare
+### Region : Africa
+### Languages : English, Shona, Northern Ndebele
+### Area : 390'757 km²
+### Neighboring countries : Botswana, Mozambique, South Africa, Zambia
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/tls.svg)
+![](https://restcountries.eu/data/zwe.svg)
