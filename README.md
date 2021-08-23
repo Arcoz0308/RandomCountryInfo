@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/08/2021, 12:52:22 (France time)
+### last update : 23/08/2021, 15:52:22 (France time)
 
-### name : Zimbabwe
-### Population : 14'240'168
-### Capital : Harare
-### Region : Africa
-### Languages : English, Shona, Northern Ndebele
-### Area : 390'757 km²
-### Neighboring countries : Botswana, Mozambique, South Africa, Zambia
-### Timezones : UTC+02:00
+### name : Fiji
+### Population : 867'000
+### Capital : Suva
+### Region : Oceania
+### Languages : English, Fijian, Hindi, Urdu
+### Area : 18'272 km²
+### Neighboring countries : 
+### Timezones : UTC+12:00
 
 ### Flag :
-![](https://restcountries.eu/data/zwe.svg)
+![](https://restcountries.eu/data/fji.svg)
