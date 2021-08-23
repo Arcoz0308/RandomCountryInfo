@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/08/2021, 15:52:22 (France time)
+### last update : 23/08/2021, 16:10:49 (France time)
 
-### name : Fiji
-### Population : 867'000
-### Capital : Suva
-### Region : Oceania
-### Languages : English, Fijian, Hindi, Urdu
-### Area : 18'272 km²
-### Neighboring countries : 
-### Timezones : UTC+12:00
+### name : Uganda
+### Population : 33'860'700
+### Capital : Kampala
+### Region : Africa
+### Languages : English, Swahili
+### Area : 241'550 km²
+### Neighboring countries : Congo (Democratic Republic of the), Kenya, Rwanda, South Sudan, Tanzania, United Republic of
+### Timezones : UTC+03:00
 
 ### Flag :
-![](https://restcountries.eu/data/fji.svg)
+![](https://restcountries.eu/data/uga.svg)
