@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/08/2021, 06:52:22 (France time)
+### last update : 23/08/2021, 09:52:22 (France time)
 
-### name : Botswana
-### Population : 2'141'206
-### Capital : Gaborone
-### Region : Africa
-### Languages : English, Tswana
-### Area : 582'000 km²
-### Neighboring countries : Namibia, South Africa, Zambia, Zimbabwe
-### Timezones : UTC+02:00
+### name : Timor-Leste
+### Population : 1'167'242
+### Capital : Dili
+### Region : Asia
+### Languages : Portuguese
+### Area : 14'874 km²
+### Neighboring countries : Indonesia
+### Timezones : UTC+09:00
 
 ### Flag :
-![](https://restcountries.eu/data/bwa.svg)
+![](https://restcountries.eu/data/tls.svg)
