@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/08/2021, 03:52:22 (France time)
+### last update : 23/08/2021, 06:52:22 (France time)
 
-### name : Central African Republic
-### Population : 4'998'000
-### Capital : Bangui
+### name : Botswana
+### Population : 2'141'206
+### Capital : Gaborone
 ### Region : Africa
-### Languages : French, Sango
-### Area : 622'984 km²
-### Neighboring countries : Cameroon, Chad, Congo (Democratic Republic of the), Congo, South Sudan, Sudan
-### Timezones : UTC+01:00
+### Languages : English, Tswana
+### Area : 582'000 km²
+### Neighboring countries : Namibia, South Africa, Zambia, Zimbabwe
+### Timezones : UTC+02:00
 
 ### Flag :
-![](https://restcountries.eu/data/caf.svg)
+![](https://restcountries.eu/data/bwa.svg)
