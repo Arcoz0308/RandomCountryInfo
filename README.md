@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 23/08/2021, 19:10:49 (France time)
+### last update : 23/08/2021, 22:10:49 (France time)
 
-### name : Malta
-### Population : 425'384
-### Capital : Valletta
+### name : Liechtenstein
+### Population : 37'623
+### Capital : Vaduz
 ### Region : Europe
-### Languages : Maltese, English
-### Area : 316 km²
-### Neighboring countries : 
+### Languages : German
+### Area : 160 km²
+### Neighboring countries : Austria, Switzerland
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/mlt.svg)
+![](https://restcountries.eu/data/lie.svg)
