@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 24/08/2021, 01:10:49 (France time)
+### last update : 24/08/2021, 04:10:49 (France time)
 
-### name : Saint Vincent and the Grenadines
-### Population : 109'991
-### Capital : Kingstown
+### name : Bonaire, Sint Eustatius and Saba
+### Population : 17'408
+### Capital : Kralendijk
 ### Region : Americas
-### Languages : English
-### Area : 389 km²
+### Languages : Dutch
+### Area : 294 km²
 ### Neighboring countries : 
 ### Timezones : UTC-04:00
 
 ### Flag :
-![](https://restcountries.eu/data/vct.svg)
+![](https://restcountries.eu/data/bes.svg)
