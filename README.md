@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 24/08/2021, 13:10:49 (France time)
+### last update : 24/08/2021, 16:10:49 (France time)
 
-### name : Algeria
-### Population : 40'400'000
-### Capital : Algiers
+### name : Nigeria
+### Population : 186'988'000
+### Capital : Abuja
 ### Region : Africa
-### Languages : Arabic
-### Area : 2'381'741 km²
-### Neighboring countries : Tunisia, Libya, Niger, Western Sahara, Mauritania, Mali, Morocco
+### Languages : English
+### Area : 923'768 km²
+### Neighboring countries : Benin, Cameroon, Chad, Niger
 ### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/dza.svg)
+![](https://restcountries.eu/data/nga.svg)
