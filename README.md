@@ -1,14 +1,14 @@
 # Country  Infos
-### last update : 24/08/2021, 10:10:49 (France time)
+### last update : 24/08/2021, 13:10:49 (France time)
 
-### name : Guernsey
-### Population : 62'999
-### Capital : St. Peter Port
-### Region : Europe
-### Languages : English, French
-### Area : 78 km²
-### Neighboring countries : 
-### Timezones : UTC+00:00
+### name : Algeria
+### Population : 40'400'000
+### Capital : Algiers
+### Region : Africa
+### Languages : Arabic
+### Area : 2'381'741 km²
+### Neighboring countries : Tunisia, Libya, Niger, Western Sahara, Mauritania, Mali, Morocco
+### Timezones : UTC+01:00
 
 ### Flag :
-![](https://restcountries.eu/data/ggy.svg)
+![](https://restcountries.eu/data/dza.svg)
